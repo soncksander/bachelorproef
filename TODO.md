@@ -2,6 +2,7 @@
 
 ## Database
 
+- opzoeken hoe PGVECTOR werkt
 - een init.sql file maken met de database table creation scripts en het path hiernaartoe aanpassen in de ![docker compose file](./compose.yml)
 - (Gebruik type VECTOR(dimensie) voor de column die de embeddings opslaat)
 - maak een .env file aan met de volgende velden:

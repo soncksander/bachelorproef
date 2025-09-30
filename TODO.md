@@ -4,6 +4,19 @@
 
 - opzoeken hoe PGVECTOR werkt
 - een init.sql file maken met de database table creation scripts en het path hiernaartoe aanpassen in de ![docker compose file](./compose.yml)
+
+Voorbeeld:
+
+```sql
+CREATE TABLE IF NOT EXISTS <TABLE_NAME_HERE> (
+    id UUID PRIMARY KEY DEFAULT uuidv7(),
+    document TEXT NULL,
+    embedding VECTOR(1024) NULL,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+```
+
 - (Gebruik type VECTOR(dimensie) voor de column die de embeddings opslaat)
 - maak een .env file aan met de volgende velden:
 
@@ -15,7 +28,7 @@ POSTGRES_HOST=localhost
 POSTGRES_PORT=5432
 ```
 
-Daarna kan je docker compose up -d --build doen en de database zal automatisch geinitialiseerd worden
+Daarna kan je docker compose up -d doen en de database zal automatisch geinitialiseerd worden
 
 ## Recepten parsing
 

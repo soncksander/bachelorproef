@@ -8,6 +8,8 @@
 Voorbeeld:
 
 ```sql
+CREATE EXTENSION IF NOT EXISTS vector; -- belangrijk om de extension te activeren moest ze nog niet bestaan
+
 CREATE TABLE IF NOT EXISTS <TABLE_NAME_HERE> (
     id UUID PRIMARY KEY DEFAULT uuidv7(),
     document TEXT NULL,

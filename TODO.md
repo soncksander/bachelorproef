@@ -25,3 +25,7 @@ Flow maken waarin je een LLM de recepten geeft, de AI doet een toolcall / struct
 (structured output lijkt me iets beter in jouw geval)
 - Flow opzetten: inlezen data -> LLM -> uitschrijven van nieuwe data
 - Qua cost/performance raad ik Gemini 2.5-flash-lite, GPT-5-nano of Grok-4-Fast aan (moet je maar eens testen welke het het best doet of nog andere models kiezen en testen)
+
+## (Optioneel)
+
+![Huggingface benchmarks](https://huggingface.co/spaces/mteb/leaderboard) om de verschillende Embedding models te bekijken en daaruit eventueel een paar testen

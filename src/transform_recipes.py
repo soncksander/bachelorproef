@@ -37,8 +37,8 @@ HEADERSOPENROUTER = {
     "Accept": "application/json",
 }
 
-OUTPUT_FILE = "./transformed_recipes.ndjson"  # NDJSON (1 JSON-object per regel)
-ERROR_FILE = "./failed_recipes.txt"
+OUTPUT_FILE = "../data/transformed_recipes.ndjson"  # NDJSON (1 JSON-object per regel)
+ERROR_FILE = "../data/failed_recipes.txt"
 TEST_MODE = False   # Zet True voor 1 recept, False voor alles
 
 # -------------------------------

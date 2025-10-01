@@ -4,7 +4,7 @@ services:
     container_name: database_sander
     volumes:
       - database_data:/var/lib/postgresql/data
-      - ./path/to/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
     env_file:
       - .env
     ports:

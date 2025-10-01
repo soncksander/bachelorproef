@@ -1,0 +1,39 @@
+# Byte-compiled / geoptimaliseerde / DLL-bestanden
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuele omgevingen
+.venv/
+env/
+venv/
+
+# Distributiebestanden
+build/
+dist/
+*.egg-info/
+
+# Logs & tijdelijke bestanden
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specifieke bestanden
+.DS_Store
+Thumbs.db
+
+# IDE-specifiek
+.vscode/
+.idea/
+
+# Data en outputs
+data/
+*.csv
+*.parquet
+*.jsonl
+*.db
+
+# Gevoelige bestanden
+*.env

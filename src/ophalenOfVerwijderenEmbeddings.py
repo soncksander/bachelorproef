@@ -3,10 +3,12 @@ import psycopg2
 from dotenv import load_dotenv
 from pgvector.psycopg2 import register_vector
 
-load_dotenv()
+load_dotenv("../configs/.env")
 
-# Kies de modus: "select" om rijen op te vragen, "delete" om alle rijen te verwijderen
-MODE = "select"   # verander dit naar "delete" om alle rijen te wissen
+# Kies de modus: "select" om laatste rij op te vragen,
+# "delete" om alle rijen te verwijderen,
+# "count" om aantal rijen te tellen
+MODE = "select"   # verander dit naar "select", "delete" of "count"
 
 def get_connection():
     return psycopg2.connect(
@@ -27,7 +29,6 @@ def main():
             cur.execute("""
                 SELECT id, document, embedding, created_at
                 FROM embedding
-                ORDER BY created_at DESC
                 LIMIT 1;
             """)
             row = cur.fetchone()
@@ -50,6 +51,11 @@ def main():
             cur.execute("DELETE FROM embedding;")
             conn.commit()
             print("✅ Alle rijen verwijderd uit tabel embedding.")
+
+        elif MODE == "count":
+            cur.execute("SELECT COUNT(*) FROM embedding;")
+            count = cur.fetchone()[0]
+            print(f"📊 Aantal rijen in tabel embedding: {count}")
 
         else:
             print(f"Onbekende MODE: {MODE}")

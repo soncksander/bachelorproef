@@ -1,0 +1,130 @@
+{
+  "title": "The New Noodle Casserole",
+  "description": "A performance-oriented noodle casserole with beef or turkey, bulgur, and dairy, approved by sport dietitians.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "ground beef or turkey",
+      "egg noodles",
+      "bulgur"
+    ],
+    "additional_tags": null
+  },
+  "servings": 10.0,
+  "prep_time": "35",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "quantity": "2",
+      "unit": "bunches",
+      "preparation": "trimmed"
+    },
+    {
+      "name": "extra lean ground beef (or turkey)",
+      "quantity": "8",
+      "unit": "oz.",
+      "preparation": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 \u00bd",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "bulgur",
+      "quantity": "\u00bd",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "garlic",
+      "quantity": "2",
+      "unit": "cloves",
+      "preparation": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "quantity": "2 (8oz)",
+      "unit": "cans",
+      "preparation": null
+    },
+    {
+      "name": "water",
+      "quantity": "\u00bd",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "no-yolk whole-wheat egg noodles",
+      "quantity": "6",
+      "unit": "oz.",
+      "preparation": null
+    },
+    {
+      "name": "low-fat cottage cheese",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "reduced-fat sour cream",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "extra-sharp cheddar cheese",
+      "quantity": "1/4",
+      "unit": "cup",
+      "preparation": "shredded"
+    },
+    {
+      "name": "salt and pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Preheat oven to 350\u00b0F."
+    },
+    {
+      "step_number": 2,
+      "text": "Coat a 2-quart baking dish with cooking spray."
+    },
+    {
+      "step_number": 3,
+      "text": "Bring a large pot of water to a boil. While simmering pan ingredients below, cook noodles until just tender (6 to 8 min.). Drain and rinse under cold water."
+    },
+    {
+      "step_number": 4,
+      "text": "Separate white and green parts of scallions; thinly slice and keep separately."
+    },
+    {
+      "step_number": 5,
+      "text": "Cook beef in a large pan or skillet over medium-high heat, breaking up clumps with a wooden spoon, until no longer pink (3 to 5 min.). Transfer to a plate lined with paper towels to drain excess fat."
+    },
+    {
+      "step_number": 6,
+      "text": "Wipe out pan with paper towel, add oil and reduce heat to medium-low. Add bulgur, garlic and the scallion whites. Cook and stir until the scallions soften (5 to 7 min.). Add tomato sauce, water and the beef; bring to a simmer. Cover and simmer until the bulgur is tender and the sauce is thickened (15 to 20 min.). Season with salt and pepper."
+    },
+    {
+      "step_number": 7,
+      "text": "Puree cottage cheese until smooth. Transfer to a medium bowl; stir in sour cream and scallion greens."
+    },
+    {
+      "step_number": 8,
+      "text": "Layer half of the noodles, half the cottage cheese mixture and half the meat sauce in the baking dish. Repeat with the remaining ingredients. Sprinkle Cheddar over the top."
+    },
+    {
+      "step_number": 9,
+      "text": "Bake casserole until bubbly, 30 to 40 min. Let stand for 10 min. before serving."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Brown Basmati with Apples and Walnuts",
+  "description": "A hearty salad made with brown basmati rice, apples, walnuts, cranberries, and a citrus dressing. Great for lunch or meal prep.",
+  "category": "salad",
+  "tags": {
+    "meal_type": "lunch",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "brown basmati rice",
+      "apple",
+      "walnuts"
+    ],
+    "additional_tags": [
+      "salad",
+      "vegetarian",
+      "make ahead",
+      "meal prep"
+    ]
+  },
+  "servings": 8.0,
+  "prep_time": "20",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "quantity": "1/3",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "black pepper",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "ground nutmeg",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "dried cranberries",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "Jonagold apple",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "cut into 1/4\u201d pieces"
+    },
+    {
+      "name": "celery",
+      "quantity": "3",
+      "unit": "stalks",
+      "preparation": "chopped 1/4\u201d pieces"
+    },
+    {
+      "name": "celery leaves",
+      "quantity": "5 \u2013 6",
+      "unit": null,
+      "preparation": "chopped"
+    },
+    {
+      "name": "parsley",
+      "quantity": "4",
+      "unit": "sprigs",
+      "preparation": "chopped"
+    },
+    {
+      "name": "cooked brown basmati rice",
+      "quantity": "4",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "orange zest",
+      "quantity": "zest from one",
+      "unit": "orange",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Preheat oven to 350\u00b0F oven. Lay walnuts on a baking sheet and roast for 5 to 7 minutes. Chop coarsely and set aside."
+    },
+    {
+      "step_number": 2,
+      "text": "Pot: Cook 2 cups of rice (to make 4 cups cooked). Add a dash of salt and tsp of oil to the cooking water."
+    },
+    {
+      "step_number": 3,
+      "text": "Bowl: Combine the olive oil, orange zest, orange juice, vinegar, sea salt, pepper, and nutmeg. Mix well. The add rice, cranberries, apple, celery, celery leaves, parsley and chopped walnuts."
+    },
+    {
+      "step_number": 4,
+      "text": "Toss all together until the salad is well-mixed. You can eat this warm of cold."
+    }
+  ]
+}

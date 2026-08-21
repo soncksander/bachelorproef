@@ -1,0 +1,94 @@
+{
+  "title": "12-Minute Pork Chops",
+  "description": "Quick and nutritious pork chops cooked in under 15 minutes, served over rice with red peppers and onions, ideal for athletes.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "pork chops",
+      "rice",
+      "red pepper"
+    ],
+    "additional_tags": [
+      "high protein",
+      "iron-rich",
+      "quick meal"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "10",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "quantity": "6",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "onion",
+      "quantity": "1 medium",
+      "unit": null,
+      "preparation": "chopped"
+    },
+    {
+      "name": "rice",
+      "quantity": "2",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "beef broth",
+      "quantity": "\u00bd (14.5 oz) can",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "balsamic vinaigrette dressing",
+      "quantity": "1/4",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "dried rosemary",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Heat oil in large non-stick pan on medium-high heat."
+    },
+    {
+      "step_number": 2,
+      "text": "Add chops; cook 6 min. Turn after 3 minutes. Remove from skillet and cover to keep warm."
+    },
+    {
+      "step_number": 3,
+      "text": "Add onions to same pan. Cook 5 min. stirring occasionally."
+    },
+    {
+      "step_number": 4,
+      "text": "Stir in rice, peppers, broth, dressing and rosemary. Reduce heat to medium-low. Simmer 15 min."
+    },
+    {
+      "step_number": 5,
+      "text": "Serve chops over rice, quinoa or barley dish and some colorful vegetables."
+    }
+  ]
+}

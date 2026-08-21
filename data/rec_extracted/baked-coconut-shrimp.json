@@ -1,0 +1,116 @@
+{
+  "title": "Baked Coconut Shrimp",
+  "description": "Baked coconut shrimp is a tropical-inspired main dish, oven-baked for a healthier twist, and can be served with Hawaiian rice and grilled vegetables.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "shrimp",
+      "coconut",
+      "egg whites"
+    ],
+    "additional_tags": [
+      "tropical",
+      "oven-baked",
+      "seafood"
+    ]
+  },
+  "servings": 12.0,
+  "prep_time": "30-45",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "quantity": "\u00bd",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "ground red pepper",
+      "quantity": "\u00bd to 1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "\u00bc",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "egg whites",
+      "quantity": "3",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "shredded coconut flakes",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "large raw shrimp",
+      "quantity": "1 \u00bd",
+      "unit": "lbs",
+      "preparation": "peeled and deveined, rinsed and patted dry OR you can use pre-cooked shrimp peeled with tails off"
+    },
+    {
+      "name": "cooking spray",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Preheat oven to 425 degrees."
+    },
+    {
+      "step_number": 2,
+      "text": "Spray a large baking sheet with butter flavored cooking spray."
+    },
+    {
+      "step_number": 3,
+      "text": "In a small bowl combine cornstarch, pepper and salt."
+    },
+    {
+      "step_number": 4,
+      "text": "In a small microwave safe dish heat up honey approximately 30-45 seconds (careful not to overheat)."
+    },
+    {
+      "step_number": 5,
+      "text": "Add limejuice to honey and stir."
+    },
+    {
+      "step_number": 6,
+      "text": "Slowly add in egg whites and continue to stir."
+    },
+    {
+      "step_number": 7,
+      "text": "Place coconut in a thin layer on a plate."
+    },
+    {
+      "step_number": 8,
+      "text": "Take each shrimp and first dip it into cornstarch mixture then in egg white mixture and finally roll in the coconut the then place on very greased baking sheet."
+    },
+    {
+      "step_number": 9,
+      "text": "Bake 10-15 minutes or until shrimp is pink and the coconut is lightly toasted. Cooking time will be less with pre-cooked shrimp."
+    }
+  ]
+}

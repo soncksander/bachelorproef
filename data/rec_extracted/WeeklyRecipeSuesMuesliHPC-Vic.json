@@ -1,0 +1,90 @@
+{
+  "title": "Sues Throw Together Recovery Muesli",
+  "description": "A delicious and nutritious way to recover.",
+  "category": "snack",
+  "tags": {
+    "meal_type": "snack",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "oats",
+      "pumpkin seeds",
+      "dried cranberries"
+    ],
+    "additional_tags": [
+      "recovery",
+      "high protein",
+      "vegetarian",
+      "breakfast",
+      "make ahead",
+      "muesli",
+      "overnight oats"
+    ]
+  },
+  "servings": 23.0,
+  "prep_time": "",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "raw, old-fashioned oats",
+      "quantity": "3.5",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "pumpkin seeds",
+      "quantity": "3.5",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "dried cranberries",
+      "quantity": "2",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "tart cherries",
+      "quantity": "1.5",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "slivered almonds",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "raisins",
+      "quantity": "0.5",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "brown sugar or coconut sugar",
+      "quantity": "0.5",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "cinnamon",
+      "quantity": "to taste \u2013 several tablespoons or more",
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Combine ingredients and stir to mix well."
+    },
+    {
+      "step_number": 2,
+      "text": "Serve with yogurt or milk"
+    },
+    {
+      "step_number": 3,
+      "text": "Eat as recovery, breakfast or bedtime snack"
+    }
+  ]
+}

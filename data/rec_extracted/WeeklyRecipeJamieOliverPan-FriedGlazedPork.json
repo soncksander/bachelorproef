@@ -1,0 +1,116 @@
+{
+  "title": "Pan-Fried Glazed Pork Chops by Jamie Oliver",
+  "description": "Try this delicious way to create moist and flavourful pork. Be sure to fry up the sage leaves \u2013 not only are they a great source of antioxidants (polyphenols) they taste incredible!",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "pork",
+      "sage",
+      "glaze (applesauce/mango chutney/apricot jam/maple syrup/honey)"
+    ],
+    "additional_tags": [
+      "pan-fried",
+      "glazed",
+      "Jamie Oliver"
+    ]
+  },
+  "servings": 2.0,
+  "prep_time": "",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "pork chops or pork shoulder steaks",
+      "quantity": "2 x 8-ounce or 4, 4 ounce",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "sea salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": "for better flavour profile"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "fresh sage",
+      "quantity": "4 sprigs (or more)",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "one",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "applesauce, mango chutney, apricot jam, maple syrup, or honey",
+      "quantity": "2 large Tbsp.",
+      "unit": null,
+      "preparation": "to glaze"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Using a very sharp knife, or kitchen scissors, carefully trim the skin off the edges of each chop/steak \u2013 you\u2019re going to turn this into crackling (optional)."
+    },
+    {
+      "step_number": 2,
+      "text": "Cut each strip of skin lengthways into 2 strips, so you end up with 4 strips in total."
+    },
+    {
+      "step_number": 3,
+      "text": "Use a sharp knife to make cuts every 1/4 inch along the fat remaining on the chops\u2014this will help it render and crisp up while cooking."
+    },
+    {
+      "step_number": 4,
+      "text": "Rub both sides of the chops with olive oil and season really well with salt and pepper. While you\u2019re at it, season your strips of skin."
+    },
+    {
+      "step_number": 5,
+      "text": "Pick the sage leaves off their stalks, toss them lightly in a little olive oil, and put to one side."
+    },
+    {
+      "step_number": 6,
+      "text": "Put a frying pan over a high heat and add your strips of skin. Move them about in the hot pan and remove them when golden, crisp, and crackling."
+    },
+    {
+      "step_number": 7,
+      "text": "Lay both chops/steaks flat in the pan and give them 3-4 minutes on each side, turning every minute."
+    },
+    {
+      "step_number": 8,
+      "text": "When they\u2019re looking golden, add a few sage leaves to the pan. Let them crisp up and cook for about 30 seconds, then remove them to a plate."
+    },
+    {
+      "step_number": 9,
+      "text": "Spoon a large tablespoon of your chosen glazing ingredient over each chop/steak. Keep turning the meat over until nicely coated."
+    },
+    {
+      "step_number": 10,
+      "text": "Cook them until they are almost a dark reddish-golden color and wonderfully thick and sticky."
+    },
+    {
+      "step_number": 11,
+      "text": "Remove to a plate and let them rest for a minute or two, squeezing over a little lemon juice if you want to balance out the sweetness."
+    },
+    {
+      "step_number": 12,
+      "text": "Serve with the crackling (optional) the crispy sage leaves and rice or mashed potatoes to soak up the juices. Lovely with some dressed veggies and a fresh salad."
+    }
+  ]
+}

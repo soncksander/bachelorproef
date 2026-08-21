@@ -1,0 +1,167 @@
+{
+  "title": "Meal salad with chicken strips and herb dressing",
+  "description": "Fresh, herby, and well-filled. This meal salad with chicken strips and a spicy herb dressing is ideal as a light lunch or quick dinner.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "lunch",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "chicken",
+      "lettuce",
+      "cherry tomatoes"
+    ],
+    "additional_tags": [
+      "salad",
+      "main course",
+      "healthy",
+      "quick"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "35 min",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "little gems",
+      "quantity": "4",
+      "unit": "heads",
+      "preparation": null
+    },
+    {
+      "name": "cherry tomato mix",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "snack cucumbers",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "chicken fillets",
+      "quantity": "500",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "dried oregano",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "dried onions",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "dried marjoram",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": "0.25",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "0.50",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "maize oil",
+      "quantity": "6",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "3",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "parsley",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "basil",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "red chili pepper",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Finely chop the garlic. Halve the chili pepper, remove the seeds, and chop finely. Mix all ingredients and season with pepper and salt. Chill."
+    },
+    {
+      "step_number": 2,
+      "text": "Mix the dried marjoram and oregano with the dried onion, pepper, and salt in a large bowl. Cut the chicken fillet into strips and mix them well with the herbs."
+    },
+    {
+      "step_number": 3,
+      "text": "Fry the chicken strips until golden brown in a large pan with butter and olive oil. Lower the heat and continue frying until the chicken is cooked through. Let cool."
+    },
+    {
+      "step_number": 4,
+      "text": "Cut the lettuce into bite-sized pieces, halve the cherry tomatoes, and slice the snack cucumbers. Finely chop the red onion."
+    },
+    {
+      "step_number": 5,
+      "text": "Divide the lettuce, cherry tomatoes, and cucumber over a large dish and mix in a third of the dressing. Add the chicken strips and mix everything gently. Spoon the rest of the dressing over and finish with the red onion."
+    }
+  ]
+}

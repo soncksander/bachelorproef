@@ -1,0 +1,52 @@
+{
+  "title": "Smoothie of red fruits and yogurt",
+  "description": "By adding yogurt to this red fruit smoothie, you get a delicious filling breakfast or snack.",
+  "category": "Dessert",
+  "tags": {
+    "meal_type": "snack",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "red fruit",
+      "yogurt",
+      "honey"
+    ],
+    "additional_tags": [
+      "smoothie",
+      "drink",
+      "easy"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "5 min",
+  "difficulty": "Easy",
+  "ingredients": [
+    {
+      "name": "red fruit (strawberries, red currants, blueberries, raspberries, ...)",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": "washed, stems removed"
+    },
+    {
+      "name": "yogurt",
+      "quantity": "200",
+      "unit": "ml",
+      "preparation": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Wash the fruit and remove all stems. Put all ingredients in a blender and blend well."
+    },
+    {
+      "step_number": 2,
+      "text": "Pour everything into a glass and finish with a straw. You can also flavor the smoothie with sugar or syrup."
+    }
+  ]
+}

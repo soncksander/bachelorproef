@@ -1,0 +1,126 @@
+{
+  "title": "Pan-fried weever with grilled courgette, potatoes, peas & basil oil",
+  "description": "Firm, juicy and full of flavor: weever is highly recommended for those who want to discover North Sea fish. With grilled courgette, potatoes and fresh basil oil, the fish gets every opportunity to shine.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Belgian",
+    "main_ingredients": [
+      "weever",
+      "courgette",
+      "potatoes"
+    ],
+    "additional_tags": null
+  },
+  "servings": 4.0,
+  "prep_time": "45 min",
+  "difficulty": "Medium",
+  "ingredients": [
+    {
+      "name": "weever fillets",
+      "quantity": "650",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "courgette",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "basil",
+      "quantity": "0.50",
+      "unit": "bunch",
+      "preparation": null
+    },
+    {
+      "name": "basil oil",
+      "quantity": "4",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "potato slices (pre-cooked)",
+      "quantity": "500",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "chili flakes",
+      "quantity": "0.50",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Cut the courgette into thin slices. Blanch the peas for 2 minutes in salted water, drain and rinse briefly under cold water."
+    },
+    {
+      "step_number": 2,
+      "text": "Cut the red onion into fine rings."
+    },
+    {
+      "step_number": 3,
+      "text": "Drizzle the potato slices and courgette with a dash of olive oil. Heat a grill pan or barbecue and grill the potato slices and courgette on both sides until they have nice grill marks."
+    },
+    {
+      "step_number": 4,
+      "text": "Pat the weever fillets dry with kitchen paper and season with pepper and salt."
+    },
+    {
+      "step_number": 5,
+      "text": "Melt a knob of butter in a large pan and fry the fillets first on the skin side until the skin is golden brown and crispy. Turn the fillets over and fry briefly until the fish is cooked."
+    },
+    {
+      "step_number": 6,
+      "text": "Mix the grilled potato slices and courgette with the peas, red onion and basil leaves. Drizzle with the basil oil and season with the chili flakes, pepper and a little salt."
+    },
+    {
+      "step_number": 7,
+      "text": "Divide the vegetable salad over the plates and add a weever fillet to each."
+    },
+    {
+      "step_number": 8,
+      "text": "Serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+Canadian Sport Institute logo
+
+# Stuffed Chicken Breast Bonanza
+
+Extremely versatile, chicken breasts are protein rich and easily batch cooked. Make extra each week to slice for sandwiches, add to salads, pasta or grain bowls or cubed for a perfect pre-bed protein snack. Adding anti-inflammatory spices, herbs and veggies increase overall nutrition and flavour for a great meal supporting your training and recovery.
+
+## INGREDIENTS
+
+* 4 large boneless, skinless chicken breasts
+* ½ tsp garlic powder or 1 – 2 garlic cloves minced
+* 12 oil packed sundried tomato, drained
+* 2 cups arugula or other favourite green
+* 100 grams goat cheese (chèvre or feta)
+* Sea salt and fresh ground pepper to taste
+* 2 Tbsp. extra virgin olive oil (EVOO)
+
+Photograph of stuffed chicken breasts on a baking sheet
+
+## DIRECTIONS
+
+1. Line a baking sheet with parchment
+
+2. With a sharp knife cut a deep horizontal slit through thickest part of the breast but do not cut all the way through (see picture)
+
+3. Open and season with garlic, salt and pepper to taste
+
+4. Stuff the rest of ingredients into the breast (divided between the 4 breasts). Press the chicken breast back together to hold the filling inside
+
+5. Pre-heat oven to 327 degrees F
+
+6. Heat oil in a skillet on medium high and carefully sear each breast until lightly golden (~2 min/side)
+
+7. Set chicken on baking sheet into oven for approximately 20 minutes (do not overcook)
+
+## NOTES
+
+Serve with brown basmati rice, quinoa, potato or pasta and favorite veggies or salad.
+Bake an apple at the same time for dessert – see Immune handout for recipe.
+
+## ADDITIONAL STUFFING SUGGESTIONS
+
+**Here are a few ideas to mix up this dish – be creative and let your taste buds be your guide.**
+
+* Layer in apple or pear slices, thinly sliced fresh parmesan, grana Padano or Asiago and crumbled walnut or pecan pieces
+* Fresh spinach or kale, fresh grated lemon peel, feta cheese and pesto amounts to taste
+
+* Favorite salsa and cheddar or jack cheese
+* Mix a small minced garlic clove, a couple tsp. minced jalapeño and a minced green onion into 4 ounces cream cheese for chicken breast poppers
+
+Rowing Canada Aviron logo

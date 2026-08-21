@@ -1,0 +1,118 @@
+{
+  "title": "Chicken Shawarma - Wrap or Buddha Bowl",
+  "description": "Easy to make, this scrumptious Chicken Shawarma is protein rich and covered in antioxidant and anti-inflammatory spices. Add herbs, veggies and yogurt sauce for additional nutrients and serve as a wrap or as a Buddha Bowl and you have a great meal for supporting your training and recovery.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Middle Eastern",
+    "main_ingredients": [
+      "chicken thighs",
+      "olive oil",
+      "cumin"
+    ],
+    "additional_tags": [
+      "high protein",
+      "anti-inflammatory",
+      "recovery"
+    ]
+  },
+  "servings": 0.0,
+  "prep_time": "",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "3",
+      "unit": "lb",
+      "preparation": null
+    },
+    {
+      "name": "paprika",
+      "quantity": "2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "cumin",
+      "quantity": "2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "garlic cloves or garlic powder",
+      "quantity": "3 \u2013 4 cloves or 1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "onion powder",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "allspice",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "ground turmeric",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "kosher salt",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "ground cinnamon",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "freshly ground black pepper",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "cayenne",
+      "quantity": "1/8",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "extra virgin olive oil",
+      "quantity": "2",
+      "unit": "TB",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "In a large bowl, whisk together all the spices to combine well. Add 2 TB olive oil and mix into a paste. Set aside."
+    },
+    {
+      "step_number": 2,
+      "text": "Slice each thigh into quarters and add chicken into the bowl with the marinade. Use tongs or clean hands to thoroughly coat all pieces of chicken evenly, on all sides. Cover tightly with cling wrap and chill overnight (at least 3-4 hours.)"
+    },
+    {
+      "step_number": 3,
+      "text": "Let chicken come to room temp as you preheat oven to 400F, with rack on upper middle position."
+    },
+    {
+      "step_number": 4,
+      "text": "Place chicken pieces in a single layer on a large, foil-lined baking sheet. Take care not to overlap or overcrowd the pieces. Roast 15 min or until just cooked."
+    },
+    {
+      "step_number": 5,
+      "text": "Let chicken cool enough to handle. Slice chicken into thin slices and serve."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "3-Grain Breakfast Cereal with Nuts and Dried Fruit",
+  "description": "This is a budget friendly and healthier alternative to many store-bought granolas. Serve with milk or yogurt to boost protein and make a complete breakfast.",
+  "category": "breakfast",
+  "tags": {
+    "meal_type": "breakfast",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "oats",
+      "barley",
+      "walnuts"
+    ],
+    "additional_tags": [
+      "granola",
+      "healthy",
+      "vegetarian"
+    ]
+  },
+  "servings": 24.0,
+  "prep_time": "10 min",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "maple syrup",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1/3",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "canola oil",
+      "quantity": "3",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 1/2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "regular oats",
+      "quantity": "4 1/2",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "quick-cooking barley",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": "uncooked"
+    },
+    {
+      "name": "walnuts or pecans",
+      "quantity": "3/4",
+      "unit": "cup",
+      "preparation": "chopped"
+    },
+    {
+      "name": "wheat germ",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "ground cinnamon",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "ground nutmeg",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "cooking spray",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "dried mixed fruit",
+      "quantity": "1",
+      "unit": "7 oz. package",
+      "preparation": "chopped"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Preheat oven to 325 F."
+    },
+    {
+      "step_number": 2,
+      "text": "Spray baking sheet with cooking oil spray."
+    },
+    {
+      "step_number": 3,
+      "text": "Combine first 4 ingredients, stirring with a whisk."
+    },
+    {
+      "step_number": 4,
+      "text": "Combine oats, barley, walnuts, wheat germ, cinnamon, and nutmeg in a large bowl. Add syrup mixture; stir well to coat. Spread oat mixture evenly onto a baking sheet."
+    },
+    {
+      "step_number": 5,
+      "text": "Bake at 325 F for 30 min. or until browned, gently turning mixture every 10 minutes so grains baked evenly."
+    },
+    {
+      "step_number": 6,
+      "text": "Remove and stir in chopped dried fruit. Cool completely."
+    },
+    {
+      "step_number": 7,
+      "text": "Note: Store in an airtight container for up to 5 days."
+    }
+  ]
+}

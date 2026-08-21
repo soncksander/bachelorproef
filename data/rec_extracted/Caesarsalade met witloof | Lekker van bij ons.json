@@ -1,0 +1,168 @@
+{
+  "title": "Caesar salad with chicory",
+  "description": "Chicory is the hero in this Caesar salad with spicy chicken. The classic ingredients like anchovies, eggs, and a creamy dressing are retained but given more flavor and texture. A surprisingly delicious upgrade of the classic, with extra crunch and character.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Belgian",
+    "main_ingredients": [
+      "chicory",
+      "chicken",
+      "lettuce"
+    ],
+    "additional_tags": [
+      "salad",
+      "easy",
+      "cheese",
+      "anchovy",
+      "egg"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "45 min",
+  "difficulty": "Easy",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "quantity": "300",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "curry powder",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "lettuce",
+      "quantity": "1",
+      "unit": "head",
+      "preparation": null
+    },
+    {
+      "name": "spinach",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "chicory",
+      "quantity": "6",
+      "unit": "heads",
+      "preparation": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "anchovy fillets",
+      "quantity": "3",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "parsley",
+      "quantity": "3",
+      "unit": "sprigs",
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "anchovy fillets",
+      "quantity": "4",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "Brokkeloud Roeselare or Flandrien Grand Cru cheese",
+      "quantity": "50",
+      "unit": "g",
+      "preparation": "coarsely grated"
+    },
+    {
+      "name": "parsley",
+      "quantity": "4",
+      "unit": "sprigs",
+      "preparation": "fresh"
+    },
+    {
+      "name": "lemon zest",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "fleur de sel",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Season the chicken thigh meat with curry powder, pepper, and salt. Fry until cooked and crispy in a hot pan."
+    },
+    {
+      "step_number": 2,
+      "text": "Wash the lettuce, spinach, and chicory. Cut the lettuce into large pieces."
+    },
+    {
+      "step_number": 3,
+      "text": "Arrange the lettuce, spinach, and chicory leaves in a large bowl."
+    },
+    {
+      "step_number": 4,
+      "text": "Boil the eggs for 10 minutes, cool in cold water. Peel and cut in half."
+    },
+    {
+      "step_number": 5,
+      "text": "Mix the mayonnaise with the anchovies, lemon juice, and parsley. Season to taste with pepper and olive oil, and optionally some extra lemon juice."
+    },
+    {
+      "step_number": 6,
+      "text": "Drizzle the salad with olive oil and season with fleur de sel."
+    },
+    {
+      "step_number": 7,
+      "text": "Pick the meat from the chicken thighs and cut or tear into pieces. Distribute over the salad along with the eggs and some anchovy fillets."
+    },
+    {
+      "step_number": 8,
+      "text": "Spoon plenty of the dressing over. Finish with coarsely grated cheese, fresh parsley, and lemon zest."
+    }
+  ]
+}

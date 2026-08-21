@@ -1,0 +1,92 @@
+{
+  "title": "Quick Garden Omelette",
+  "description": "A quick omelette with potatoes, mushrooms, spinach, and cheese, designed for high protein and performance nutrition.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "breakfast",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "eggs",
+      "potato",
+      "spinach"
+    ],
+    "additional_tags": [
+      "high protein",
+      "vegetarian",
+      "quick"
+    ]
+  },
+  "servings": 1.0,
+  "prep_time": "20",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil or similar",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "potato or yam",
+      "quantity": "1 small (~1/2 cup)",
+      "unit": null,
+      "preparation": "sliced into thin wedges, then coarsely chopped"
+    },
+    {
+      "name": "cremini (or any type) mushrooms",
+      "quantity": "1/4",
+      "unit": "cup",
+      "preparation": "sliced"
+    },
+    {
+      "name": "eggs (2 yolk and 4 whites)",
+      "quantity": "4 large",
+      "unit": null,
+      "preparation": "separate 2 of the 4 yolks and discard"
+    },
+    {
+      "name": "bagged baby spinach leaves",
+      "quantity": "2",
+      "unit": "cup",
+      "preparation": "coarsely chopped"
+    },
+    {
+      "name": "goat cheese (feta or cheddar work great too)",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "crumbled"
+    },
+    {
+      "name": "Salt and pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Pan: Heat pan or skillet over medium-high heat. Add oil, heat then add potatoes. Saut\u00e9 10 min. stirring occasionally."
+    },
+    {
+      "step_number": 2,
+      "text": "Stir in mushrooms and saut\u00e9 8 min. or until potatoes are tender, stirring occasionally. Remove from pan and set aside."
+    },
+    {
+      "step_number": 3,
+      "text": "Pan: Wipe pan clean with paper towels. Spray with cooking oil if needed and heat to medium high heat."
+    },
+    {
+      "step_number": 4,
+      "text": "Bowl: Combine eggs, a couple of shakes of salt and pepper in a bowl and whisk until eggs are frothy. Pour mixture into pan, and stir briskly with a heatproof spatula or wooden spoon until egg starts to thicken (~ 20 sec.)."
+    },
+    {
+      "step_number": 5,
+      "text": "Arrange half of potato mixture, 1 cup spinach, and 2 tbsp cheese over omelet."
+    },
+    {
+      "step_number": 6,
+      "text": "Run spatula around edges and under omelet to loosen it from pan. Fold omelet in half and continue heating until all egg is cooked. Slide omelet onto a plate. Cut in half crosswise and enjoy."
+    }
+  ]
+}

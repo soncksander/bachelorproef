@@ -1,0 +1,169 @@
+{
+  "title": "Salad with pork roast and mustard dressing",
+  "description": "This salad mixes the best of both worlds: juicy, seasoned pork roast and a fresh mix of fennel, apple, and nuts. The mustard dressing adds spice, and the blue cheese (for those who like it) gives extra punch. Light, elegant, and perfect as lunch or dinner on summer days.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "pork roast",
+      "fennel",
+      "apple"
+    ],
+    "additional_tags": [
+      "salad",
+      "blue cheese",
+      "nuts",
+      "mustard dressing"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "55 min",
+  "difficulty": "Medium",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "quantity": "600",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "rosemary leaves",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "thyme",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2",
+      "unit": "pieces",
+      "preparation": null
+    },
+    {
+      "name": "mustard",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "fennel",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "apples",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "lamb's lettuce",
+      "quantity": "80",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "walnuts",
+      "quantity": "30",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "blue cheese",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "mustard",
+      "quantity": "2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "white wine vinegar",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Let the meat come to room temperature for half an hour before preparation. Preheat the oven to 180\u00b0C."
+    },
+    {
+      "step_number": 2,
+      "text": "Pat the pork roast dry and season with pepper and salt. Mix the olive oil with rosemary, thyme, pressed garlic, and mustard. Rub the meat with this mixture."
+    },
+    {
+      "step_number": 3,
+      "text": "Heat oil and butter in an ovenproof pan and brown the roast on all sides. Place the pan without a lid in the oven for about 15 minutes and regularly baste the meat with the cooking juices."
+    },
+    {
+      "step_number": 4,
+      "text": "Meanwhile, mix all the ingredients for the dressing and season with pepper and salt."
+    },
+    {
+      "step_number": 5,
+      "text": "Slice the fennel bulbs thinly with a mandoline. Cut the apples into matchsticks. Mix the fennel, apple, and lamb's lettuce or arugula in a large bowl. Add the coarsely chopped walnuts and toss with some dressing."
+    },
+    {
+      "step_number": 6,
+      "text": "Remove the meat from the oven, cover with aluminum foil, and let rest for 10 to 15 minutes."
+    },
+    {
+      "step_number": 7,
+      "text": "Slice the meat. On each plate, place a bed of salad, arrange the slices of lukewarm pork roast on top, and spoon the rest of the dressing over. Optionally, finish with some crumbled blue cheese."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "Grilled Salmon and Avocado Pitas",
+  "description": "Grilled salmon and avocado served in whole wheat pita rounds with arugula, tomato, and a wasabi mayonnaise dressing.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "lunch",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "salmon",
+      "pita",
+      "avocado"
+    ],
+    "additional_tags": [
+      "grilled",
+      "healthy",
+      "sandwich"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "15",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "wasabi paste",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "mayonnaise (or similar)",
+      "quantity": "1/4",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "salmon or arctic char fillet",
+      "quantity": "1/2",
+      "unit": "lb.",
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "whole wheat pita rounds",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "ripe avocado",
+      "quantity": "1/2",
+      "unit": null,
+      "preparation": "diced"
+    },
+    {
+      "name": "arugula (or any salad greens)",
+      "quantity": "2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "medium tomato",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "seeded and diced"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "In a small bowl, combine the wasabi paste, soy sauce, vinegar, and mayonnaise. Set aside."
+    },
+    {
+      "step_number": 2,
+      "text": "Brush salmon with olive oil and sprinkle with salt."
+    },
+    {
+      "step_number": 3,
+      "text": "Grill (either oiled charcoal or gas grill, 450\u00b0 to 550\u00b0). Lay salmon on an; close lid on gas grill."
+    },
+    {
+      "step_number": 4,
+      "text": "Grill 6 to 8 minutes depending on thickness, turning over once, until just barely done (cut to test; flesh will be a darker shade of pink in the center). Remove from grill and quickly toast pita rounds on grill, about 2 minutes, turning once."
+    },
+    {
+      "step_number": 5,
+      "text": "Cut or flake salmon into 1-in. cubes."
+    },
+    {
+      "step_number": 6,
+      "text": "Cut pita rounds in half and spread wasabi mayonnaise on insides. Fill each pita half with salmon, avocado, arugula (or salad greens) and tomatoes, dividing equally."
+    }
+  ]
+}

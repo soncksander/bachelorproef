@@ -1,0 +1,86 @@
+{
+  "title": "Quinoa with Fried Egg and Spinach",
+  "description": "A quick and nutritious meal featuring quinoa, fried egg, and spinach, flavored with soy sauce, sesame oil, and Sriracha.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "quinoa",
+      "egg",
+      "spinach"
+    ],
+    "additional_tags": null
+  },
+  "servings": 1.0,
+  "prep_time": "5",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "quantity": "1",
+      "unit": "cups",
+      "preparation": "cooked"
+    },
+    {
+      "name": "quinoa",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": "dry"
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1-2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "cooking spray",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "Sriracha sauce",
+      "quantity": null,
+      "unit": null,
+      "preparation": "Vietnamese chilli sauce"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Measure \u00bd cup (or more) of quinoa. Add 1 cup water and simmer for 15 min. Take lid off and fluff with fork. If you use more quinoa the ratio of quinoa to water is 1:2."
+    },
+    {
+      "step_number": 2,
+      "text": "Frying pan: add \u00bd cup of water and spinach. Cover with a lid to lightly steam spinach. If you have a steamer you can also use that as well. Even quicker toss spinach it in the microwave with a little bit of water, covered with lid slightly open (~ 1 \u2013 2 min.)"
+    },
+    {
+      "step_number": 3,
+      "text": "Small flying pan: Spray cooking oil. Break egg(s) onto hot pan and lightly fry, flipping once."
+    },
+    {
+      "step_number": 4,
+      "text": "Layer quinoa and egg on top of spinach and flavor with soy, sesame oil and Sriracha\u2019s to taste."
+    }
+  ]
+}

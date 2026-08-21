@@ -1,0 +1,1462 @@
+    V0m21, 10000 90. 26015894+5990-2380      1ssn                                                                                      20  Routledge
+                                                                                                                                           Taylor & Francis Group
+    Journal of the                                     Journal of the International Society of Sports Nutrition
+    International Society of
+    Sports Nutrition
+    The Otficial Journal of the international
+    Society of Sparts Nutrition
+
+                                           Edited by
+                                           Jose Antonic
+         Richard Kreider
+         Dougias Kaliman
+
+Routiedge
+Ceterdran                                              ISSN: 1550-2783 (Online) Journal homepage: <u>www.tandfonline.com/journals/rssn20</u>
+
+                                             International society of sports nutrition position
+                                             stand: nutrient timing
+
+                                             Chad M. Kerksick, Shawn Arent, Brad J. Schoenfeld, Jeffrey R. Stout, Bill
+                                             Campbell, Colin D. Wilborn, Lem Taylor, Doug Kalman, Abbie E. Smith-
+                                             Ryan, Richard B. Kreider, Darryn Willoughby, Paul J. Arciero, Trisha A.
+                                             VanDusseldorp, Michael J. Ormsbee, Robert Wildman, Mike Greenwood, Tim
+                                             N. Ziegenfuss, Alan A. Aragon & Jose Antonio
+
+                                             To cite this article: Chad M. Kerksick, Shawn Arent, Brad J. Schoenfeld, Jeffrey R. Stout,
+                                             Bill Campbell, Colin D. Wilborn, Lem Taylor, Doug Kalman, Abbie E. Smith-Ryan, Richard B.
+                                             Kreider, Darryn Willoughby, Paul J. Arciero, Trisha A. VanDusseldorp, Michael J. Ormsbee,
+                                             Robert Wildman, Mike Greenwood, Tim N. Ziegenfuss, Alan A. Aragon & Jose Antonio (2017)
+                                             International society of sports nutrition position stand: nutrient timing, Journal of the
+                                             International Society of Sports Nutrition, 14:1, 33, DOI: <u>10.1186/s12970-017-0189-4</u>
+                                             To link to this article: <u>https://doi.org/10.1186/s12970-017-0189-4</u>
+
+
+    a © The Author(s). ₂₀₁₇                    Published online: 01 Apr 2022.
+
+    C Submit your article to this journal      LIlArticle views: 82481
+
+    Q View related articles                    CrossMark  View Crossmark data
+
+    2 Citing articles: 226 View citing articles
+
+
+
+
+
+
+
+
+
+
+       Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rssn20
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Journal of the International
+DOI 10.1186/s12970-017-0189-4                                                             Society of Sports Nutrition
+
+
+
+
+REVIEW                                                                                           Open Access
+
+International society of sports nutrition                                                        CrossMark
+position stand: nutrient timing
+
+Chad M. Kerksick1, Shawn Arent2, Brad J. Schoenfeld3, Jeffrey R. Stout4, Bill Campbell5, Colin D. Wilborn6, Lem Taylor6,
+Doug Kalman7, Abbie E. Smith-Ryan8, Richard B. Kreider9, Darryn Willoughby10, Paul J. Arciero11, Trisha A. VanDusseldorp12,
+Michael J. Ormsbee13,14, Robert Wildman15, Mike Greenwood9, Tim N. Ziegenfuss16, Alan A. Aragon17
+and Jose Antonio18*
+
+
+Abstract
+
+Position statement: The International Society of Sports Nutrition (ISSN) provides an objective and critical review
+regarding the timing of macronutrients in reference to healthy, exercising adults and in particular highly trained
+individuals on exercise performance and body composition. The following points summarize the position of the ISSN:
+
+ 1. Nutrient timing incorporates the use of methodical planning and eating of whole foods, fortified foods and dietary
+  supplements. The timing of energy intake and theratio of certain ingested macronutrients may enhancerecovery and
+  tissuerepair, augment muscle protein synthesis (MPS), and improve mood states following high-volume or intense exercise.
+ 2. Endogenous glycogen stores are maximized by following a high-carbohydrate diet (8–12 g of carbohydrate/kg/
+  day [g/kg/day]); moreover, these stores are depleted most by high volume exercise.
+ 3. If rapid restoration of glycogen is required (< 4 h of recovery time) then the following strategies should be considered:
+
+        a) aggressive carbohydrate refeeding (1.2 g/kg/h) with a preference towards carbohydrate sources that have a
+        high (> 70) glycemic index
+        b) the addition of caffeine (3–8 mg/kg)
+        c) combining carbohydrates (0.8 g/kg/h) with protein (0.2–0.4 g/kg/h)
+
+ 4. Extended (> 60 min) bouts of high intensity (> 70% VO₂max) exercise challenge fuel supply and fluid regulation,
+  thus carbohydrate should be consumed at a rate of ~30–60 g of carbohydrate/h in a 6–8% carbohydrate-
+  electrolyte solution (6–12 fluid ounces) every 10–15 min throughout the entire exercise bout, particularly in those
+  exercise bouts that span beyond 70 min. When carbohydrate delivery is inadequate, adding protein may help
+  increase performance, ameliorate muscle damage, promote euglycemia and facilitate glycogen re-synthesis.
+ 5. Carbohydrate ingestion throughout resistance exercise (e.g., 3–6 sets of 8–12 repetition maximum [RM] using
+  multiple exercises targeting all major muscle groups) has been shown to promote euglycemia and higher glycogen
+  stores. Consuming carbohydrate solely or in combination with protein during resistance exercise increases muscle
+  glycogen stores, ameliorates muscle damage, and facilitates greater acute and chronic training adaptations.
+ 6. Meeting the total daily intake of protein, preferably with evenly spaced protein feedings (approximately every 3 h
+  during the day), should be viewed as a primary area of emphasis for exercising individuals.
+ 7. Ingestion of essential amino acids (EAA; approximately 10 g)either in free form or as part of a protein bolus of
+  approximately 20–40 g has been shown to maximally stimulate muscle protein synthesis (MPS).
+(Continued on next page)
+
+
+* Correspondence: ja839@nova.edu
+18 Department of Health and Human Performance, Nova Southeastern
+University, Davie, FL, USA
+Full list of author information is available at the end of the article
+
+                                © The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+BioMed Central                  International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+                                reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+                                the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+                                (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 2 of 21
+
+
+
+
+
+(Continued from previous page)
+8. Pre- and/or post-exercise nutritional interventions (carbohydrate + protein or protein alone) may operate as an
+ effective strategy to support increases in strength and improvements in body composition. However, the size
+ and timing of a pre-exercise meal may impact the extent to which post-exercise protein feeding is required.
+9. Post-exercise ingestion (immediately to 2-h post) of high-quality protein sources stimulates robust increases in MPS.
+10.In non-exercising scenarios, changing the frequency of meals has shown limited impact on weight loss and
+ body composition, with stronger evidence to indicate meal frequency can favorably improve appetite and
+ satiety. More research is needed to determine the influence of combining an exercise program with altered
+ meal frequencies on weight loss and body composition with preliminary research indicating a potential
+ benefit.
+11.Ingesting a 20–40 g protein dose (0.25–0.40 g/kg body mass/dose) of a high-quality source every three to 4 h
+ appears to most favorably affect MPS rates when compared to other dietary patterns and is associated with
+ improved body composition and performance outcomes.
+12.Consuming casein protein (~ 30–40 g) prior to sleep can acutely increase MPS and metabolic rate throughout
+ the night without influencing lipolysis.
+
+Keywords: Position stand, Exercise, Nutrition, Timing, Macronutrients, Performance, Micronutrients, Nutrients
+
+
+Background                                                         the updated version focuses on timing considerations for
+The International Society of Sports Nutrition (ISSN) pub-          two macronutrients: carbohydrates and proteins. When
+lished the first position stand devoted to the practice of         considering fat, research examining a specific timing
+nutrient timing in 2008 [1]. Consequently, this paper has          question has yet to take shape. As researchers continue
+been accessed approximately 122,000 times. In the past             to explore the manipulation of fat and carbohydrate
+nine years, multiple lines of research have explored ques-         intake (e.g., ‘train low, perform high’) [6], it is possible
+tions directly related to the timing of nutrients that further     that future recommendations may include the timing of
+refines information about evidence-based nutritional rec-          fat intake. It is exciting to note that new research has
+ommendations. Nutrient timing involves the purposeful              begun to examine the impact of timed calcium (a micro-
+ingestion of all types of nutrients at various times               nutrient) intake on its ability to affect markers of bone
+throughout the day to favorably impact the adaptive re-            resorption during prolonged cycling exercise [7–10] and
+sponse to acute and chronic exercise (i.e., muscle strength        animal models have explored the potential role of timing
+and power, body composition, substrate utilization, and            iron intake on various health-related outcomes [11, 12].
+physical performance, etc.). Importantly, much of the              This research, however, is in its infancy and more studies
+interest and available research centers upon outcomes              are needed to better understand these implications. Fur-
+related to those who are regularly competing in some               thermore, future versions of this position stand may
+form of aerobic or anaerobic exercise; however, nutrient           need to consider expanding the document’s scope to in-
+timing strategies may offer favorable outcomes for non-            clude other ergogenic aids. For instance, research related
+athletic and clinical populations.                                 to caffeine [13], creatine [14–16] and bicarbonate [17]
+From a historical perspective, nutrient timing was first           have indicated that timing may affect the acute and
+conceptualized in the 1970s and 1980s with the initial             chronic response to exercise. Therefore, the primary
+work that examined the effects of increased carbohy-               purpose of this updated position stand is to refine rec-
+drate feedings on glycogen status and exercise perform-            ommendations made related to the timed consumption
+ance [2, 3]. Ivy and colleagues [4] were one of the first          of carbohydrates and protein and how this can poten-
+groups to illustrate that carbohydrate timing can influ-           tially affect the adaptive response to exercise.
+ence post-exercise rates of glycogen resynthesis. While            To expand upon the previous version, the current pos-
+strategies surrounding carbohydrates were the first to be          ition stand now discusses research and recommendations
+explored, there has been a growing body of research                related to meal patterns, timing, and distribution of pro-
+over the last several years that has examined the effect           tein, meal frequency and nighttime eating. It is the con-
+of protein and amino acids, with and without carbohy-              tention of the ISSN that these topics also fall under the
+drates, as a nutrient timing strategy [1, 5].                      purview of nutrient timing. Additionally, non-athletic or
+Due to the volume of research investigating this con-              specialized clinical populations may also derive benefit
+cept, the need to revise and update the original docu-             from these strategies. Throughout each section, an at-
+ment is evident. In line with the previous publication,            tempt has been made to first highlight outcomes from
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 3 of 21
+
+
+
+
+acute studies before discussing those derived from training     Endurance training
+studies spanning several weeks or more.                         The first nutrient timing strategy centered solely upon
+                                                                the strategic intake of carbohydrate as part of “carbohy-
+Carbohydrate                                                    drate loading” protocols in the days leading up to pro-
+Moderate to high intensity (e.g., 65–80% VO₂max) en-            longed endurance competitions. Initial work by Karlsson
+durance activities as well as resistance-based workouts         and Saltin in the 1970s reported that a period of high-
+(e.g., three to four sets using ~ 6–20 repetition max-          volume exercise training while consuming limited
+imum [RM] loads) rely extensively upon carbohydrate as          amounts of carbohydrates for three to four days followed
+a fuel source; consequently, endogenous (liver: ~ 80–           by a diet providing > 70% carbohydrate (~ 8 to 10 g/kg/
+100 g and skeletal muscle: 300–400 g) glycogen stores           day), while sharply reducing training volume, facilitated
+are of critical importance. It is well documented that          supersaturation of muscle glycogen and an improved
+glycogen stores are limited [18, 19] and operate as a pre-      pace of training for more prolonged periods of time [3].
+dominant source of fuel for up to a few hours during            Sherman and colleagues [2, 34] also demonstrated suc-
+moderate to high-intensity aerobic exercise (e.g., 65–          cess at maximizing intramuscular glycogen stores using
+85% VO₂max) [20, 21]. During resistance training, per-          similar approaches. Alternatively, Bussau et al. [35] re-
+forming six sets of 12RM leg extension exercise has been        quired study participants to ingest high-glycemic carbo-
+shown to reduce glycogen stores in the vastus lateralis         hydrate (10 g/kg/day) for one day after completing a
+by 39% [22]. Importantly, as glycogen levels decline, the       Wingate anaerobic capacity test which resulted in a near
+ability of an athlete to maintain exercise intensity and        doubling of baseline muscle glycogen concentrations. A
+work output also decreases [19] while rates of tissue           similar approach by Fairchild et al. [36] yielded similar
+breakdown increase [23, 24]. The simplest guideline to          results and highlights the ability to forgo a “glycogen de-
+maximize endogenous glycogen stores is for a high-              pletion” phase and instead to simply reduce training
+performance athlete to ingest appropriate amounts of            volume for three to four days while simultaneously con-
+carbohydrate relative to their intensity and volume of          suming a very high-carbohydrate diet (8–10 g/kg/day)
+training. Recommended daily intakes of carbohydrate             for one to three days to maximize intramuscular glycogen
+are commonly reported to be 5–12 g/kg/day, with the             levels. Overall, the ability of carbohydrate loading stra-
+upper end of this range (8–10 g/kg/day) reserved for            tegies to rapidly increase and maximize muscle glycogen
+those athletes that are training at moderate to high in-        levels is currently unquestioned, and many athletes and
+tensities (≥ 70% VO₂max) upwards of 12 h per week               coaches are encouraged to consider making use of such a
+[25–27]. In the absence of considerable muscle damage,          dietary regimen in the days leading up to a competitive
+this carbohydrate intake level has been shown to                event, particularly if their activity will significantly deplete
+maximize glycogen storage. Percentage-based recom-              endogenous skeletal muscle glycogen. It is important to
+mendations (60–70% carbohydrates of total daily caloric         mention that due to noted sex differences related to
+intake) have fallen out of favor due to their inability to      carbohydrate metabolism and the supercompensation of
+appropriately prescribe required carbohydrate amounts           glycogen stores, female athletes may need to significantly
+in athletes eating high amounts of food or in those who         increase total caloric intake over these “loading days” to
+may be following a restricted energy intake.                    achieve effects similar to males [31].
+It should be noted that most of the recommendations             The hours leading up to competition are often a highly
+for carbohydrate intake are based on the needs of endur-        prioritized period of feeding and studies have indicated
+ance athletes, and in particular, male endurance athletes.      that strategic fuel consumption can help to maximize
+Moreover, studies have indicated that trained female ath-       muscle and liver glycogen levels. Carbohydrate feedings
+letes do not oxidize fat and carbohydrate at the same           during this time increase endogenous glycogen stores
+rates as males and may deplete endogenous glycogen              while also helping to maintain blood glucose levels. Not-
+stores to different degrees [28–31]. Perhaps those in-          ably, Coyle et al. [19] reported that consumption of a
+volved in strength-power sports need a lower intake of          high-carbohydrate meal 4 h before 105 min of cycling ex-
+carbohydrate and instead should focus more on priori-           ercise at 70% VO₂max after an overnight fast significantly
+tizing their carbohydrate intake in the days leading up to      increased both muscle and liver glycogen while also in-
+competition, but more research is required as this topic        creasing rates of carbohydrate oxidation and utilization of
+has been critically evaluated in a review by Escobar et al.     muscle glycogen. In addition to increasing stored glyco-
+[32]. It should be noted that athletes often fail to meet       gen, other studies have reported significant improvements
+recommended amounts of energy and carbohydrate;                 in aerobic exercise performance [37–39]. However, not all
+consequently [33], strategies to replenish carbohydrate         studies have demonstrated a performance-enhancing ef-
+stores may take priority toprepare for maximal perform-         fect. Nonetheless, it is commonly recommended to con-
+ance in the next competition.                                   sume snacks or meals high in carbohydrate (1–4 g/kg/
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 4 of 21
+
+
+
+
+day) for several hours before higher-intensity (≥ 70%           Ingesting carbohydrate 30 min before exercise led to
+VO₂max), longer duration (> 90 min) exercise. Addition-         greater increases in exercise capacity. In contrast, two
+ally, and as a measure of practical importance, the need to     studies were completed by Febrraio [46, 47] that re-
+ingest a pre-exercise meal or snacks high in carbohydrate       quired the ingestion of high or low-glycemic carbohy-
+goes up when the athlete has consumed relatively small          drates 30–45 min before completing bouts of exercise
+amounts of carbohydrate in the days leading up to a com-        that spanned 135–150 min at approximately 70%
+petition or has not allowed for appropriate amounts of          VO₂max. They concluded that performance was similar
+rest and recovery [20, 24].                                     for both types of carbohydrate.
+In the final (< 4) hours before a competition, the ath-         The delivery of carbohydrate remains a priority once a
+lete’s priority should still be to maximize or maintain op-     workout or competition commences. Most research has
+timal levels of muscle and liver glycogen. In this respect,     employed study designs that integrate some form of con-
+another priority becomes maintaining a favorable bal-           tinuous aerobic exercise, and within these studies it has
+ance with the digestive system and avoiding the con-            been consistently demonstrated that providing carbohy-
+sumption of too much food or fluid before competition.          drate (230–350 mL of a 6–8% carbohydrate solution) at
+Practically speaking, many endurance events begin in            regular intervals (every 10–12 min) can optimize per-
+the early morning hours and finding an adequate bal-            formance and maintain blood glucose levels [48, 49].
+ance between rest and fuel must be considered. In this          Several studies have indicated that the pattern or timing
+respect, two studies have reported that solid or liquid         of carbohydrate feedings surrounding endurance exer-
+forms of carbohydrates similarly promote glycogen re-           cise may be important. For example, Fielding and col-
+synthesis allowing athletes more flexibility when select-       leagues [50] required cyclists to ingest the same dose of
+ing food sources [40, 41]. A certain degree of dogma still      carbohydrate every 30 min or every 60 min over the
+clouds the recommendation to ingest certain types of            course of a four-hour exercise bout. When carbohydrate
+carbohydrate, or avoid carbohydrate altogether, in the          was ingested more frequently, performance was im-
+final few hours before an event. The source of this prac-       proved. Two contrasting papers that operate as exten-
+tice stems from initial findings of Foster and colleagues       sions of this work include work by Schweitzer et al. [51]
+[42] who reported a negative, hypoglycemic response to          who concluded that preferentially delivering carbohy-
+carbohydrate ingestion directly preceding (< 60 min) ex-        drate during the first or second half of a controlled cyc-
+ercise. From these findings, it has been surmised that ex-      ling exercise bout offered no enhancement of
+cessive carbohydrate consumption, and in particular             performance, while a similar study design by Heesch and
+fructose consumption, in the initial hours before exercise      colleagues [52] indicated that providing carbohydrate
+may negatively impact exercise performance perhaps              consistently throughout or in the latter half of a 2-h cyc-
+due to rebound hypoglycemia. Indeed, given the rise in          ling exercise bout at 62% of peak power decreased the
+insulin due to carbohydrate ingestion coupled with up-          time it took to cover a prescribed distance (10-km) while
+regulation of GLUT-4 transporters from the initiated            cycling. It is important to realize that key differences
+exercise stimulus, there may be a decrease, rather than         such as the duration of the exercise bout, the nature of
+increase, in blood glucose at the onset of activity that        the performance assessment (fixed distance vs. time-to-
+could negatively impact performance. However, while a           exhaustion) and amount of carbohydrate that was deliv-
+number of athletes may be affected by this phenomenon,          ered all differed between these studies and can help to
+a study by Moseley et al. [43] demonstrated that any “re-       explain the differences in outcomes being reported.
+bound hypoglycemia” response is effectively negated by          A classic paper by Widrick et al. [53] examined the
+what would be the equivalent of a proper warm-up and            impact of pre-exercise muscle glycogen status with
+that shifting carbohydrate intake closer (15 min vs.            carbohydrate feeding throughout a prolonged bout of
+75 min) to when the exercise bout is scheduled to begin         exercise. Briefly, participants commenced a 70-km self-
+can minimize the likelihood of these symptoms. A 1997           paced time trial with high or low muscle glycogen levels,
+review by Hawley and Burke summarized the results of            which was then combined with either a carbohydrate
+several studies that provided some form of carbohydrate         (9% fructose) or placebo (non-caloric sweetener) bever-
+at least 60 min before exercise. They found no adverse          age regularly (2.35 ml/kg/feeding every 10-km providing
+impact on performance. In fact, multiple studies re-            a total of 1.5 g/kg/trial) throughout the exercise bout.
+ported performance increases of 7–20% [44]. Moreover,           Increased power outputs were recorded when exercise
+Galloway and colleagues [45] used a double-blind,               began with high muscle glycogen levels, and even greater
+placebo-controlled approach to compare performance              power was achieved when carbohydrate was frequently
+outcomes related to ingestion of a placebo or a 6.4%            provided throughout the exercise protocol. A similar
+carbohydrate beverage either 30 min or 120 min before           outcome was demonstrated by Febbraio and colleagues
+a controlled bout of cycling at 90% peak power.                 [54] where they required participants to complete four
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 5 of 21
+
+
+
+
+carbohydrate feedings and exercise conditions in con-              Whether or not these results translate to intermittent
+junction with a two-hour bout of steady-state (SS) cyc-            sports remains to be thoroughly investigated. A 2011
+ling exercise at 63% of their peak power, followed by a            review by Phillips and colleagues [58] supports the no-
+time trial using a standardized load. The four feeding             tion that carbohydrate administration throughout inter-
+conditions were: a) placebo beverage 30 min before and             mittent, team-sport activities improves certain types of
+a 6.4% carbohydrate solution at a dosage of 2 g/kg                 performance as well as general indicators of mental
+throughout SS exercise, b) a 25.7% carbohydrate solution           drive and acuity, but evidence regarding benefits of
+at a dosage of 2 g/kg 30 min before and placebo                    acute deviations in timing is still lacking. Clarke and
+throughout SS exercise, c) a 25.7% carbohydrate solution           colleagues [59] tested the hypothesis that ingesting iso-
+at a dosage of 2 g/kg before and a 6.4% carbohydrate so-           volumetric amounts of a carbohydrate-electrolyte solu-
+lution at a dosage of 2 g/kg throughout SS, and d) a               tion either in two large volumes (7 mL/kg at 0 and
+6.4% carbohydrate solution at a dosage of 2 g/kg                   45 min of exercise) or more frequent (every 15 min
+throughout the SS exercise bout. As with the findings of           over the entire course of a 75-min exercise bout) feed-
+Widrick et al., it was determined that pre-exercise stra-          ings of smaller volumes to achieve the same total dose
+tegies to support glycogen or blood glucose levels increase        can favorably impact metabolic responses. No perform-
+exercise performance when carbohydrate ingestion con-              ance or capacity measurements were made, but the au-
+tinued throughout the prescribed exercise bouts.  ollect-          thors did report that either feeding pattern was able to
+ively, these findings somewhat prioritize carbohydrate             maintain glucose, insulin, glycerol, non-esterified fatty
+feeding during the exercise session and could lead some            acid, and epinephrine levels. More recently, Mizuno
+to argue that if pre-exercise carbohydrate feeding stra-           and colleagues [60] concluded that timing the intake of
+tegies are neglected, then delivering appropriate carbo-           a carbohydrate gel (1.0 g/kg) did not impact the inflam-
+hydrate throughout an exercise bout may help offset the            matory response or exercise performance throughout
+potential for performance decrement. However, one must             completion of two 45-min bouts of intermittent (4–
+cautiously explore this approach as to avoid overwhelming          16 km/h) running.
+the gastrointestinal system potentially leading to                 The recovery of lost muscle glycogen operates as a key
+cramping and discomfort once exercise begins. In this              nutritional goal, and post-exercise ingestion of carbohy-
+respect one should consider the findings of Newell et              drate continues to be a popular and efficient nutrient
+al. [55] who had 20 well-trained, experienced cyclists             timing strategy to maximize replenishment of lost
+perform four different feeding conditions (no carbohy-             muscle glycogen. In what is known as potentially the
+drate [0 g/h] control, 20 g/h, 39 g/h or 64 g/h) through-          first study to examine an actual nutrient timing ques-
+out completion of a two-hour cycling bout at 95%                   tion, Ivy and colleagues [61] showed that restoration of
+lactate threshold (185 ± 25 watts) followed by comple-             muscle glycogen was 50% faster and more complete over
+tion of a standardized time trial. When carbohydrates              a four-hour post-exercise period when a carbohydrate
+were ingested at a dosage of 39 or 64 g/h, time trial per-         bolus (2 g/kg of a 25% carbohydrate solution) was deliv-
+formance was significantly improved compared to the                ered within 30 min versus waiting until two hours after
+control group. Importantly, no differences in performance          completion of a cycling exercise bout (70 min at 68%
+were found between these two feeding strategies suggest-           VO₂max followed 6 × 2-min intervals at 88% VO₂max).
+ing that for those athletes who may not be able to tolerate        Subsequent work has since refined conclusions sur-
+higher doses of carbohydrates, a moderate regimen of               rounding this topic, namely that the timing of post-
+carbohydrate feeding throughout a prolonged bout of ex-            exercise carbohydrate administration holds the highest
+ercise can still promote similar improvements in perform-          level of importance under two primary situations: 1)
+ance. Other important considerations related to the                when rapid restoration of muscle glycogen is a primary
+potential ergogenic impact of carbohydrates have been              goal and 2) when inadequate amounts of carbohydrate
+critically highlighted in recent reviews by Colombani et al.       are being delivered. In light of these considerations,
+[56] and later by Pochmuller et al. [57]. In both papers,          muscle glycogen levels can be rapidly and maximally
+the authors contend that the ability of carbohydrate ad-           restored using an aggressive post-exercise feeding regi-
+ministration during bouts of exercise spanning less than           men of carbohydrates. Ingesting 0.6 to 1.0 g/kg body
+70 min to operate in an ergogenic fashion is largely mixed         mass within the first 30 min of completing a glycogen
+in the literature. It was further suggested that not until ex-     depleting exercise bout and again every two hours for
+ercise durations meet or exceed 90 min does the adminis-           the next four to six hours [62, 63], has been shown to
+tration of a ~ 6–8% carbohydrate solution exert a                  promote maximal glycogen replenishment. Similarly, fa-
+consistent ergogenic benefit particularly when exercise is         vorable outcomes have also been shown when 1.2 g/kg
+commenced in a fed state as opposed to the fasted state            of carbohydrate were ingested every 30 min over a 3.5-h
+that is so often studied in this body of literature.               period [27, 64].
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 6 of 21
+
+
+
+
+Outside of situations where rapid recovery is truly             liver glycogen levels should first consist of following a
+needed, and daily carbohydrate intake is matching en-           brief period of reduced training volume in conjunction
+ergy demands, the importance of timed carbohydrate              with a high daily intake of carbohydrate (≥ 8 g/kg/day).
+ingestion is notably decreased. However, in no situation        In the hours leading up to competition, glycogen levels
+has timed carbohydrate ingestion been shown to nega-            are best maintained or increased by consuming high
+tively impact performance or recovery. If an athlete            carbohydrate (1–4 g/kg/day) meals or snacks for several
+participating in heavy exercise is not able, or even not        hours before commencement of training or competition.
+sure if they will be able to appropriately consume the          Athletes are encouraged to continue consuming small
+required amounts of carbohydrate throughout the day             amounts of a carbohydrate solution or small snacks
+then the strategically timed ingestion of carbohydrate          (bars, gels, etc.) to maintain liver glycogen levels and to
+may accelerate muscle glycogen re-synthesis. When               help prevent hypoglycemia. Ingestion of carbohydrate
+prolonged endurance exercise is completed, carbohy-             during endurance type exercise maintains blood glucose
+drate ingestion may also help promote a favorable hor-          levels, spares glycogen [75], and will likely enhance
+monal environment [65, 66]. Finally, studies in elite           performance. Post-exercise consumption of carbohydrate
+athletes undergoing high volumes of training have               is necessary and in situations where minimal recovery
+shown that maximal glycogen levels are restored within          time is available, aggressive carbohydrate feeding is
+24 h if a diet contains ≥8 g/kg/day, and only moderate          recommended. Although preliminary, initial work in
+levels of muscle damage are present [41]. In support,           intermittent, high-intensity activities suggest that carbo-
+Nicholas and colleagues [67] concluded that a daily             hydrate timing may support metabolic outcomes, while
+carbohydrate intake of 9–10 g/kg/day in six trained             performance results remain mixed, as do studies involv-
+men participating in soccer, rugby, hockey, or basket-          ing resistance exercise. For further inquiry, excellent re-
+ball, sufficiently replenished muscle glycogen following        views on the topic of carbohydrate and performance are
+consecutive days of prolonged (85–90 min), intense,             available [20, 21, 48, 49, 76].
+interval exercise.
+                                                                Carbohydrate + protein
+Resistance training                                             Endurance training
+Studies employing resistance exercise that examined             Carbohydrate + protein combinations are a traditional
+some aspect of carbohydrate timing are limited. Mul-            strategy employed by endurance as well as strength-
+tiple studies have demonstrated that resistance exercise        power athletes to increase exercise performance, pro-
+can significantly decrease muscle glycogen concentra-           mote glycogen repletion, minimize muscle damage, and
+tion [22, 68–70], though these decreases are modest in          promote a positive nitrogen balance. A small number of
+comparison to exhaustive endurance exercise. However,           studies have examined pre-endurance exercise ingestion
+the provision of pre-exercise carbohydrate to individ-          of carbohydrate + protein on performance as well as
+uals performing resistance-style exercise in a moderately       metabolic outcomes, but very few have directly investi-
+glycogen depleted state may not have an ergogenic effect.       gated the impact of altering the timing of when nutrients
+To date, one study has indicated that carbohydrate admin-       were administered. Ivy and colleagues [77] recruited
+istration before and during bouts of resistance exercise        trained cyclists to complete a three-hour bout of cycling
+can improve performance, but these ergogenic outcomes           exercise at an intensity of 45–75% VO₂max before exer-
+were only seen in the second session of resistance exercise     cising to exhaustion at 85% VO₂max. In a crossover
+performed on the same day [71]. In contrast, multiple           fashion, participants ingested either a 7.75% carbohydrate
+studies have failed to report an improvement in resistance      or a 7.75% carbohydrate + 1.94% protein solution. When
+exercise performance [72–74]. One study involving pre-          protein was added to carbohydrate, endurance was signifi-
+exercise and during exercise delivery of carbohydrate           cantly improved. In a similar fashion, Saunders and col-
+throughout a bout of resistance exercise has been shown         leagues [78] had participants cycle to exhaustion on two
+to minimize the loss of muscle glycogen. Briefly, study         separate occasions (75–85% VO₂max) within 24 h while
+participants were given a carbohydrate dose of 1.0 g/kg         ingesting a carbohydrate or a carbohydrate + protein so-
+pre-workout and a 0.5 g/kg carbohydrate every 10 min            lution throughout the exercise bout (1.8 mL/kg every
+throughout a 40-min resistance exercise bout and found          15 min) followed by a single bolus dose (10 mL/kg) im-
+that muscle glycogen losses were reduced by 49% when            mediately after exhaustion. The carbohydrate + protein
+compared to glycogen changes with ingestion of a placebo        combination resulted in significantly improved perform-
+drink; however, isokinetic muscle performance was not           ance as well as a reduction in muscle damage. The same
+influenced [73].                                                research group [79] used a nutrient gel and again reported
+In reviewing all of the timing considerations related to        that ingestion of a carbohydrate (0.146 g/kg) + protein
+carbohydrate intake, strategies to maximize muscle and          (0.0365 g/kg) combination throughout an exhaustive bout
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 7 of 21
+
+
+
+
+of cycling exercise significantly improved cycling perform-           augments glycogen recovery when carbohydrate inges-
+ance. While none of these studies directly examined a tim-            tion is < 1.2 g/kg/h.
+ing comparison, they all demonstrate that pre-exercise
+administration of carbohydrate + protein combinations
+can favorably impact endurance performance. Further-                  Resistance exercise
+more, the addition of protein (to carbohydrate) has been              A small number of studies are available that examined
+shown to increase the speed of glycogen recovery when a               the effect of ingesting carbohydrate + protein before re-
+short recovery window is available or if sub-optimal                  sistance exercise. For example, Kraemer and colleagues
+amounts of carbohydrate have been delivered and can also              [87] had participants ingest a combination of carbohy-
+help to reduce symptoms of muscle damage [80]. Notably,               drate, protein, and fat or an isoenergetic maltodextrin
+no studies have demonstrated that addition of protein to              placebo for seven days before two consecutive days of
+carbohydrate to a pre-exercise feeding in these amounts               resistance exercise. On both occasions, the supplement
+may hinder exercise performance. Similarly, Rustad and                was ingested 30 min before beginning the exercise bout,
+colleagues [81] reported that adding protein (0.4 g/kg/h)             and the multi-nutrient supplement significantly im-
+to carbohydrate (0.8 g/kg/h) within 2 h of completing an              proved vertical jump power and the number of repeti-
+initial exhaustive bout of cycling exercise led to a signifi-         tions performed at 80% 1RM. A similar outcome was
+cant increase in cycling performance the next morning                 reported by Baty and colleagues [88] where they had 34
+when compared to ingesting just carbohydrate alone, thus              males complete an acute bout of heavy resistance train-
+suggesting improved recovery.                                         ing (3 sets × 8 reps @ 90% 1RM) while consuming either
+                  To support recovery upon completion of exercise     a carbohydrate (6.2% carbohydrate) or a carbohydrate +
+bouts that can deplete stored fuels and may cause sig-                protein (6.2% carbohydrate + 1.5% protein) solution be-
+nificant damage to the muscle tissue, post-exercise nutri-            fore, during, and after the exercise bout. While perform-
+ent timing strategies are of great interest. Ivy et al. [82]          ance was not affected, significantly greater levels of
+required cyclists to complete a 2.5-h bout of cycling                 insulin and lower levels of cortisol were found when the
+(65–75% VO₂max) before consuming a combination of                     carbohydrate + protein combination was ingested. More-
+carbohydrate + protein (80 g carbohydrate + 28 g pro-                 over, markers of muscle damage (e.g., myoglobin and
+tein + 6 g fat) or two different doses (High: 108 g of                creatine kinase) were reduced throughout the first 24 h
+carbohydrate + 6 g fat or Low: 80 g carbohydrate + 6 g                of recovery when the carbohydrate + protein combin-
+fat) of carbohydrate immediately after and 2 h after                  ation was consumed. These two studies provided a com-
+completing the exercise session. While timing was not                 bination of carbohydrate + protein at some point before
+specifically investigated, the carbohydrate + protein                 the resistance exercise sessions, however these studies
+combination led to greater glycogen recovery during the               were not designed to examine whether pre-exercise
+four-hour investigative window employed by the re-                    feeding of carbohydrate + protein was responsible for
+search team. These findings replicated previous findings              improved exercise performance or adaptations.
+[83] by this research group and led them to conclude                  Tipton and colleagues [89] completed one of the first
+that the addition of protein favorably promoted early                 studies to directly examine whether the timing of carbo-
+phases of glycogen recovery. Berardi et al. later pub-                hydrates + EAA altered MPS rates. In this investigation,
+lished two similar studies [84, 85] that also showed that             research participants completed a single bout of lower-
+the provision of a combination of carbohydrate + pro-                 body resistance exercise while ingesting the same com-
+tein facilitated greater recovery of muscle glycogen when             bination of carbohydrate (35 g of sucrose) + 6 g EAA
+ingested soon after the completion of a workout and be-               either immediately before or immediately after comple-
+fore a subsequent endurance exercise bout.                            tion of the exercise bout. Nutrient ingestion immediately
+                As more research has been completed on the topic,     before the exercise bout increased MPS significantly
+the potential benefits of adding protein have been ques-              more than when the carbohydrate + EAA combination
+tioned. For example, Jentjens and colleagues [63] failed              was consumed after the resistance exercise session. A
+to show an improvement in muscle glycogen restoration                 few years later, however, Fujita and colleagues [90]
+with a combination of carbohydrate (1.2 g/kg/h) + pro-                attempted to replicate their study findings and instead
+tein (0.4 g/kg/h) in comparison to ingesting only the                 determined that MPS rates were similar between pre-
+carbohydrate dose over a three-hour recovery period.                  exercise and post-exercise ingestion. While many people
+Howarth and colleagues [86] later came to a similar                   use the Fujita paper to discount the pre-exercise period,
+conclusion regarding the addition of protein and ex-                  it should be noted that significant increases in MPS rates
+tended these findings also to report that a higher dose of            occurred when nutrients were administered before and
+carbohydrate (1.6 g/kg/h) did not further promote glyco-              after the resistance training bout in comparison to a
+gen resynthesis. Thus, it appears that protein addition               non-energetic control suggesting that nutrient delivery
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 8 of 21
+
+
+
+
+itself, as opposed to timing of delivery, should be a larger         bout. Compared to placebo, the carbohydrate + protein
+priority. White and colleagues [91] conducted a study to             combination significantly lowered rates of protein break-
+specifically examine if timed ingestion of carbohydrate +            down and increased fractional synthetic rates of muscle
+protein timing influenced force production and markers               proteins by 49 ± 22%, resulting in a five-fold increase in
+of muscle damage. For this study, 27 adult participants              protein balance.
+ingested either a non-caloric sweetener or a carbohy-                Chronic studies examining carbohydrate + protein
+drate (75 g) + protein (23 g) combination 15 min before              ingestion with resistance training have also been con-
+or 15 min after a bout of damaging resistance exercise               ducted. Bird et al. [96] examined the impact of consuming
+and found that neither the nutrients themselves, nor                 a 6% carbohydrate +6 g EAA solution throughout bouts
+their timing, influenced changes in force production or              (two bouts per week) of resistance exercise over a 12-week
+blood levels of muscle damage markers. The results sug-              period. Urinary concentrations of 3-methyl-histidine were
+gest that MPS rates can be acutely increased if a com-               reduced by 26% when the carbohydrate + EAA combin-
+bination of carbohydrate + protein is consumed either                ation was ingested, which was significantly different from
+before or after, but changes in force production or                  the 52% increase observed in the placebo group. Also, the
+muscle damage may not be impacted by timed ingestion                 cross-sectional areas of type I, IIa, and IIb muscle fibers
+of a carbohydrate + protein combination.                             increased in comparison to the changes seen when solu-
+          The acute effect of ingesting a carbohydrate + protein     tions containing either just carbohydrate (6%) or EAA
+or EAA combination throughout resistance exercise has                (6 g) were ingested. While these findings are encouraging,
+been studied [92–96]; however, as with other time pe-                the studies are limited by the dosage of EAA provided as
+riods, no studies have truly examined the question of                other studies have indicated that higher EAA doses (up to
+timing. In this respect, a series of studies published by            12 g) may maximally stimulate MPS. As such, future re-
+Bird and colleagues [93–96] has investigated the in-                 search in this area should identify if different doses of
+fluence of consuming either carbohydrate or carbo-                   EAA or combining a carbohydrate solution with varying
+hydrate + EAA on measures of acute performance,                      doses of intact proteins consumed during resistance exer-
+hormonal responses and circulating levels of blood pro-              cise bouts can further impact performance and resistance
+teins associated with muscle damage. In the first study,             training adaptations. In this respect, when sufficient pro-
+32 participants were randomized to ingest either a 6%                tein is supplied, it may be that carbohydrate has no add-
+carbohydrate solution, a 6% carbohydrate solution + 6 g              itional adaptive benefit. As an example of this, Hulmi and
+of EAA or a non-nutritive placebo regularly throughout               colleagues [97] showed no benefit in resistance training
+a 60-min bout of resistance training. Findings from this             adaptations when a combination of maltodextrin carbohy-
+study indicated that serum cortisol levels were reduced              drate (34.5 g) + whey protein concentrate (37.5 g) was
+when either a 6% carbohydrate solution or a 6% carbo-                ingested immediately following each workout of a regi-
+hydrate + 6 g EAA solution were ingested in comparison               mented 12-week resistance training protocol as compared
+to a non-energetic placebo [94]. A later publication from            to consuming the protein supplement alone. Cribb and
+this investigation reported that urinary muscle protein              Hayes [16] randomized trained male participants to ingest
+breakdown markers were reduced by 27% when the                       identical amounts of carbohydrate + protein + creatine ei-
+carbohydrate + EAA combination was consumed while                    ther immediately before and immediately after resistance
+the placebo group experienced a 56% increase [95].                   training or in the morning and evening during a 10-week
+A later study by Bird et al. [93] used a         ‘triphasic’ ap-     resistance-training program. Changes in strength, hyper-
+proach where they delivered a combination of carbohy-                trophy, and body composition were assessed, and signifi-
+drate + amino acids before, during and after a single                cant increases in lean body mass, 1RM strength, type II
+bout of resistance exercise. Using a crossover study de-             muscle fiber cross-sectional area, and higher muscle creat-
+sign, participants also ingested a placebo that consisted            ine and glycogen levels were found when the supplements
+of water flavored with a non-nutritive sweetener in simi-            were consumed immediately before and after workouts as
+lar volumes at the same times. They reported that deliv-             opposed to consuming them in the morning and evening.
+ering nutrients (versus none at all) did significantly               While seemingly different than the results of Hulmi, these
+increase the volume of exercise completed and reduced                results indicate that close temporal ingestion of a combin-
+concentrations of serum proteins indicative of muscle                ation of carbohydrate + protein + creatine may afford fa-
+damage. Along these lines, Beelen and colleagues [92]                vorable outcomes relative to resistance training
+also completed an acute study design that required study             adaptations and does not necessarily state that a carbo-
+participants to ingest in a fed state a carbohydrate + hy-           hydrate + protein combination is better than simply
+drolyzed casein protein combination at a dose of 0.15 g/             ingesting similar amounts of protein. Furthermore,
+kg body mass before initiating a two-hour resistance-                Cribb and Hayes also provided creatine while the other
+training session and at 15-min intervals throughout the              studies did not, which has been shown in multiple
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 9 of 21
+
+
+
+
+investigative scenarios to augment the muscular adap-           carbohydrate to a protein feeding may help the athlete
+tations seen while resistance training [98–100].                achieve an appropriate energy intake, which certainly
+  Carbohydrate + protein combinations while resistance          may go on to impact the extent to which adaptations
+training are suggested to augment muscle development            occur. For athletes who are likely combining resistance
+via an increased insulin response. Specifically, insulin        training sessions with sport-specific training, the
+promotes anti-catabolic effects in muscle [101], thereby        provision of carbohydrate + protein in close proximity
+shifting protein balance to favor anabolism. However,           to each session would be warranted in order to optimize
+insulin-mediated effects on reducing proteolysis plateau        recovery for subsequent bouts and adaptation.
+within a range of ~ 15–30 μIU/mL [102, 103], and these
+levels are achieved by consuming a 45 g bolus of whey           Protein
+protein isolate alone [104]. This would suggest that            Endurance training
+post-workout carbohydrate supplementation likely exerts         The role of amino acids and/or protein consumption
+minimal influence from a muscle development stand-              with regards to endurance exercise is not well known.
+point provided adequate protein is consumed. Towards            Pasiakos and colleagues [107] had cyclists complete two
+this end, Staples and colleagues [105] compared the             different bouts of exercise (60 min at 60% VO₂peak)
+impact of a carbohydrate (50 g maltodextrin) + protein          while ingesting a solution containing 10 g of the EAA
+(25 g whey protein) combination on rates of MPS ob-             with varying levels (1.87 or 3.5 g) of leucine. In response
+served after completing a single bout of lower-body             to EAA ingestion and independent of leucine content,
+resistance exercise. The authors reported that the car-         MPS rates and several signaling proteins related to
+bohydrate + protein combination failed to further stimu-        muscle hypertrophy (i.e., Akt, mTOR, p70s6k, etc.) were
+late increases in MPSwhen compared to ingesting only            significantly increased. While more research certainly
+protein. Furthermore, Rasmussen and colleagues [106]            needs to be conducted to better identify the potential
+found no difference in amino acid balance when 35 g of          impact and role of protein intake before endurance exer-
+sucrose + 6 g of EAA were ingested either 1 h or 3 h            cise, the priority for an endurance athlete in the hours
+after completion of a bout of resistance training.              leading up to competition should be focused on appro-
+   In summary, ingestion of carbohydrate + protein (or          priate carbohydrate intake to fully maximize endogenous
+amino acids) in close temporal proximity to or through-         production of glycogen.
+out both endurance and resistance exercise may operate
+as an effective strategy to favorably affect performance        Resistance training
+of a subsequent exercise bout as well as adaptations            As with endurance exercise, the majority of studies that
+from regular bouts of training. Towards this end, en-           have employed some form of protein or amino acid
+hancements in endurance performance, as well as im-             ingestion before bouts of resistance exercise have done
+proved recovery of reduced muscle glycogen have also            so in conjunction with an identical dose during the post-
+been consistently reported when carbohydrate + protein          exercise period as well. For example, Tipton and
+combinations have been consumed surrounding exercise            colleagues [108] used an acute resistance exercise and
+bouts, particularly if lower quantities of carbohydrate are     feeding model to report that MPS rates were similar
+consumed. However, when optimal carbohydrate is de-             when a 20-g dose of whey protein was ingested immedi-
+livered the impact of adding protein (irrespective of           ately before or immediately after a bout of lower body
+when it is provided) appears to offer little to no add-         resistance training. Andersen et al. [109] were one of the
+itional benefit on endurance or resistance exercise per-        first to examine the effects of ingesting protein immedi-
+formance as well as the recovery of reduced muscle              ately before and immediately after resistance exercise
+glycogen. Much like the work on glycogen recovery,              over multiple weeks. In this study, participants were ran-
+studies involving resistance training and optimization of       domized to ingest either 25 g of a protein blend (16.6 g
+adaptations seen from resistance training also point to-        whey, 2.8 g casein, 2.8 g egg white, 2.8 g glutamine) or
+wards a higher priority being given towards the total           maltodextrin immediately before and immediately after
+amount of protein consumed during the day. Therefore,           each workout over the course of 14 weeks. In the group
+if total protein needs are met, the importance of adding        that consumed the protein-amino acid blend, type I and
+carbohydrate (and even more so in a timed fashion) may          type II muscle fibers experienced a significant increase
+be limited. A key point of discussion, however, lies with       in size. Also, the protein-amino acid group experienced
+whether or not total energy needs are also being met,           a significant increase in squat jump height while no
+particularly in athletes undergoing large volumes of            changes occurred in the carbohydrate group. Using a
+training and more so in those athletes that have high           similar study design, Hoffman and colleagues [110] had
+amounts of lean as well as body mass. In these situa-           collegiate football players who had been regularly
+tions, it certainly remains possible that the addition of       performing resistance-training ingest 42 g of hydrolyzed
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 10 of 21
+
+
+
+
+collagen protein either immediately before and                     week resistance training program. While protein admin-
+immediately after exercise, or in the morning and                  istration did favorably improve resistance-training adap-
+evening over the course of ten weeks of resistance                 tations, the timing of protein (before or after workouts)
+training. In this study, the timing of protein intake did          did not invoke any differential change. An important
+not impact changes in strength, power and body                     point to consider with the results of this study is the
+composition experienced from the resistance-training               sub-optimal dose of protein (approximately 26 g of whey
+program.                                                           protein) versus the known anabolic resistance that has
+     When examining the discrepant findings, one must              been demonstrated in the skeletal muscle of elderly indi-
+consider a few things. First, the protein source in the            viduals [114]. In this respect, the anabolic stimulus from
+Hoffman et al. study was mostly a collagen hydrolysate             a 26-g dose of whey protein may not have sufficiently
+(i.e., not the highest quality protein source); moreover,          stimulated muscle protein synthesis or have been of ap-
+changes in body composition were determined by dual-               propriate magnitude to induce differences between con-
+energy x-ray absorptiometry (DEXA), which does not                 ditions. Clearly, more research is needed to determine if
+have the same sensitivity to identify subtle hypertrophic          a greater dose of protein delivered before or after a
+alterations [111] as the histochemical approaches                  workout may exert an impact on adaptations seen dur-
+employed by Andersen et al. [109]. Finally, the study              ing resistance training in an elderly population.
+participants in the Andersen et al. study were consuming           Limited studies are available that have examined the
+approximately 20% more calories per day (~ 36.6 kcals/             effect of providing protein throughout an acute bout of
+kg/day) than the participants in the Hoffman study (who            resistance exercise, particularly studies designed to expli-
+consumed only 30.4 kcals/kg/day) which offers some                 citly determine if protein administration during exercise
+level of explanation for the different outcomes reported           was more favorable than other times of administration.
+in these two studies. More recently, Schoenfeld and col-           As discussed previously as part of the carbohydrate +
+leagues [112] published the first longitudinal study to            protein section, research by Bird and colleagues [94, 95]
+directly compare the effects of ingesting 25 g of whey             had participants ingest a 6-g solution of EAA through-
+protein isolate either immediately before or immediately           out a bout of resistance exercise and reported increases
+after each workout. For this study, 21 resistance-trained          in post-exercise insulin levels and reductions in urinary
+men (> 1-year experience) followed a 10-week, three day            levels of 3-methyl-histidine and serum levels of cortisol.
+per week whole-body heavy resistance training program              However, when examined over the course of 12 weeks,
+(3 sets of 8 – 12RM) and concluded there were no dif-              the increases in fiber size seen after ingesting a solution
+ferences in muscle mass or strength changes when the               containing 6 g of EAA alone was less than when it was
+dose of whey protein was consumed pre- or post-                    combined with carbohydrate [96].
+training. This study is significant as it is the first investi-     The post-exercise time period has been aggressively
+gation to attempt to compare pre versus post-workout               studied for its ability to heighten various training out-
+ingestion of protein. The authors raised the question              comes. While a large number of acute exercise and nu-
+that the size, composition, and timing of a pre-exercise           trient administration studies have provided multiple
+meal may impact the extent to which adaptations are                mechanistic explanations for why post-exercise feeding
+seen in these studies. However, a key limitation of this           may be advantageous [115–119], other studies suggest
+investigation is the very limited training volumes these           this study model may not be directly reflective of adapta-
+subjects performed. The total training sessions over the           tions seen over the course of several weeks or months
+10-week treatment period was 30 sessions (i.e., total of           [120]. As highlighted throughout the pre-exercise protein
+30 h assuming each session lasted 1 h). One would                  timing section, the majority of studies that have examined
+speculate that the individuals who would most likely               some aspect of post-exercise protein timing have done so
+benefit from peri-workout nutrition are those who train            while also administering an identical dose of protein
+at much higher volumes. For instance, American colle-              immediately before each workout [16, 109, 110, 121]. Of
+giate athletes per NCAA regulations (NCAA Bylaw 2.14)              these studies, protein [109] or carbohydrate + protein [16]
+are limited to a maximum of 4 h per day and a 20-h                 consumption immediately before and immediately after
+training schedule per week [113]. Thus, the average                resistance exercise has been shown to positively affect
+college athlete trains more in two weeks than most sub-            resistance training adaptations. These results, however, are
+jects train during an entire treatment period in studies           not universal as Hoffman et al. [110] reported no impact
+in this category.                                                  of timing when 42 g of hydrolyzed collagen protein was
+In one of the only studies to use older participants,              ingested before and after several weeks of resistance ti-
+Candow and colleagues [15] assigned 38 men between                 ming. Of note, participants in the Hoffman study were all
+the ages of 59–76 years to ingest a 0.3 g/kg protein dose          highly-trained collegiate athletes who reported consuming
+before or after each workout over the course of a 12-              a hypoenergetic diet. Candow et al. [15] reported that sub-
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 11 of 21
+
+
+
+
+optimal doses of whey protein ingestion (0.3 g/kg, ~ 26 g)      resistance training bout [127] leading the authors to sug-
+in elderly males (59–76 years) before or after resistance       gest that the timing, size and composition of any feeding
+training workouts exerted no impact on strength and body        episode before a workout may exert some level of impact
+composition changes. As mentioned previously, it is pos-        on the resulting adaptations. In addition to these consider-
+sible that the dose of protein may not have been an appro-      ations, recent work by MacNaughton and colleagues [128]
+priate amount to properly stimulate anabolism.                  reported that the acute ingestion of a 40-g dose (versus
+In this respect, a small number of studies have exam-           20-g) of whey protein resulted in significantly greater
+ined the impact of solely ingesting protein after exercise.     increases in MPS in young subjects who completed an in-
+As discussed earlier, Tipton and colleagues [108] used an       tense, high volume bout of resistance exercise that tar-
+acute model to determine changes in MPS rates when a            geted all major muscle groups. While seemingly a protein
+20-g bolus of whey protein was ingested immediately             dose question (and not necessarily a timing question per
+before or immediately after a single bout of lower-body         se), these findings are significant from a timing perspective
+resistance training. MPS rates were significantly, and          as the extent to which this higher dose interacts with the
+similarly, increased under both conditions. Until re-           muscle’s ability to respond to a subsequent dose of amino
+cently, the only study that examined the effects of post-       acid or protein (alone or as a mixed meal) feedings re-
+exercise protein timing in a longitudinal manner was the        mains undetermined. Notwithstanding these conclusions,
+2001 work of Esmarck et al. [122]. In this study, 13 el-        the number of studies that have truly examined a timing
+derly men (average age of 74 years) consumed a small            question is rather scant. Moreover, recommendations
+combination of carbohydrates (7 g), protein (10 g) and          must capture the needs of a wide range of individuals, and
+fat (3 g) either immediately (within 30 min) or 2 h after       to this point, a very small number of studies have exam-
+each bout of resistance exercise done three times per           ined the impact of nutrient timing using highly trained
+week for 12 weeks. Changes in strength and muscle size          athletes. From a practical standpoint, some athletes may
+were measured, and it was concluded that ingesting nu-          struggle, particularly those with high body masses, to con-
+trients immediately after each workout led to greater im-       sume enough protein to meet their required daily needs.
+provements in strength and muscle cross-sectional area          Therefore, due to the known sensitization that occurs in
+than when the same nutrients were ingested 2 h later.           skeletal muscle to protein ingestion for ~ 24 h, the prag-
+While interesting, the inability of the group that delayed      matic recommendation is for an athlete to feed as soon as
+supplementation but still completed the resistance train-       possible after a workout. In this respect, not eating does
+ing program to experience any measurable increase in            not offer any benefit regarding skeletal muscle hyper-
+muscle cross-sectional area has led some to question the        trophy and recovery from endurance and/or strength-
+outcomes resulting from this study [5, 123]. Further and        power exercise.
+as discussed previously with the results of Candow et al.
+[15], the dose of protein (10 g) was likely an inadequate       Timing and distribution of meals - time of day
+dose for a population of this age. Schoenfeld and col-          considerations
+leagues [124] published results that directly examined          Evidence has surfaced that suggests what part of the day
+the impact of ingesting 25 g of whey protein immedi-            the majority of calories are consumed may affect one’s
+ately before or immediately after bouts of resistance-          health, weight loss or body composition changes. As a
+training. All study participants trained three times each       starting point, it is important to highlight that most of
+week targeting all major muscle groups over a 10-week           the available research on this topic has largely used non-
+period, and the authors concluded no differences in             athletic, untrained populations except two recent publi-
+strength and hypertrophy were seen between the two              cations using trained men and women [129, 130].
+protein ingestion groups. These findings lend support to        Whether or not these findings apply to highly trained,
+the hypothesis that ingestion of whey protein immedi-           athletic populations remains to be seen. Keim and col-
+ately before or immediately after workouts can promote          leagues [131] required study participants to complete
+improvements in strength and hypertrophy, but the time          two six-week diet periods that delivered similar calories
+upon which nutrients are ingested does not necessarily          (~ 1950 kcals) and a similar macronutrient composition.
+trump other feeding strategies.                                 In one scenario, the participants were required to con-
+Reviews by Aragon and Schoenfeld [125] and                      sume 70% of their prescribed dietary intake during the
+Schoenfeld et al. [126] critically examined the efficacy        morning meal, while in the other study group partici-
+surrounding post-exercise protein administration. The au-       pants were required to consume 70% of their prescribed
+thors suggested that when recommended levels of protein         dietary intake with their evening meals. Changes in
+are consumed, the effect of timing appears to be, at best,      weight loss and body composition were compared, and
+minimal. Indeed, research shows that muscles remain sen-        slightly greater weight loss occurred when the majority
+sitized to protein ingestion for at least 24 h following a      of calories was consumed in the morning. As a caveat to
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 12 of 21
+
+
+
+
+what is seemingly greater weight loss when more calo-           Furthermore, the current research approach has failed to
+ries are shifted to the morning meals, higher amounts of        explore the influence of more evenly distributed meal
+fat-free mass were lost as well, leading to questions sur-      patterns throughout the day.
+rounding the long-term efficacy of this strategy regar-
+ding weight management and metabolic activity.                  Meal frequency
+Notably, this last point speaks to the importance of            Meal frequency is commonly defined as the number of
+evenly spreading out calories across the day and avoiding       feeding episodes that take place each day. For years, rec-
+extended periods of time where no food, protein in par-         ommendations have indicated that increasing meal fre-
+ticular, is consumed. A large observational study [132]         quency may serve as an effective way to influence weight
+examined the food intake of 867 free-living individuals         loss, weight maintenance, and body composition. These
+(375 males and 492 females),and a follow-up study from          assertions were based upon the epidemiological work of
+the same study cohort [133] reported that the timing of         Fabry and colleagues [138, 139] who reported that mean
+food consumption (earlier vs. later in the day) was cor-        skinfold thickness was inversely related to the frequency
+related to the total daily caloric intake. These findings       of meals. One of these studies involved 379 overweight
+indicate that consuming a greater proportion of one’s           individuals between 60 and 64 years of age while the
+total daily calories earlier in the day was associated with     other investigation involved 80 participants between the
+lower daily caloric intake while shifting more of the daily     ages of 30–50 years of age. An even larger study pub-
+caloric consumption to evening meals increased one’s            lished by Metzner and colleagues [140] reported that in
+total caloric intake. Indeed, one must cautiously inter-        a sample of 2000 men and women between 35 and
+pret these results as they are not offering any insight         60 years of age, meal frequency and adiposity were in-
+into how these eating patterns may influence body com-          versely related. While intriguing, the observational na-
+position changes or even loss of body mass, but none-           ture of these studies does not agree with more
+theless, provide interesting initial data on how “when”         controlled experiments. For example, a 2005 study by
+certain foods are consumed may impact total daily               Farshchi et al. [141] required individuals over a 14-day
+caloric intake.                                                 period to consume either a regular, consistent pattern of
+Wu and colleagues [134] reported that meals later in            six daily meals or eat anywhere from three to nine meals
+the day lead to increased rates of lipogenesis and adipose      per day. The irregular meal pattern was found to result
+tissue accumulation in an animal model and, while lim-          in increased levels of appetite, and hunger leading one
+ited, human research has also provided support. Previ-          to question if the energy provided in each meal was in-
+ously it has been shown that people who skip breakfast          adequate or if the energy content of each meal could
+display a delayed activation of lipolysis along with an         have been better matched to limit these feelings while
+increase in adipose tissue production [135, 136]. More          still promoting weight loss. Furthermore, Cameron and
+recently, Jakubowicz and colleagues [137] had over-             investigators [142] published what is one of the first
+weight and obese women consume 1400 cal each day for            studies to directly compare a greater meal frequency to
+a 12-week period. A portion of the study participants           a lower frequency. In this study, 16 obese men and
+consumed 50% of their daily calories (700 kcals) during         women reduced their energy intake by 700 kcals per day
+breakfast, 35% during lunch (500 kcals) and 15% during          and were assigned to one of two isocaloric groups: one
+dinner (200 kcals), while the other portion of study par-       group was instructed to consume six meals per day
+ticipants consumed the exact opposite distribution 15%          (three traditional meals and three snacks), while the
+for breakfast (200 kcals), 35% for lunch (500 kcals) and        other group was instructed to consume three meals per
+50% for dinner (700 kcals). Approximately 2.5 times             day for an eight-week period. Changes in body mass,
+more weight was lost, and significantly greater changes         obesity indices, appetite, and ghrelin were measured at
+in waist circumference and body mass index values were          the end of the eight-week study, and no significant dif-
+observed, when the majority of calories were consumed           ferences in any of the measured endpoints were found
+at breakfast. Also, triglyceride levels decreased by 34%,       between conditions. These results also align with more
+greater improvements in glucose and insulin were ob-            recent results by Alencar [143] who compared the im-
+served, and feelings of satiety were improved in the            pact of consuming isocaloric diets consisting of two
+group that consumed the majority of their calories at           meals per day or six meals per day for 14 days in over-
+breakfast [137]. While these results provide insight into       weight women on weight loss, body composition, serum
+how calories could be more optimally distributed                hormones (ghrelin, insulin), and metabolic (glucose)
+throughout the day, a key perspective is that these stud-       markers. No differences between groups in any of the
+ies were performed in sedentary populations without any         measured outcomes were observed. A review by Kulovitz
+form of exercise intervention. Thus, their relevance to         et al. [144] concluded that when total energy intake is
+athletes or highly active populations might be limited.         controlled, and when caloric restriction is employed, the
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 13 of 21
+
+
+
+
+influence of meal frequency on weight loss and improv-          performing high volumes of training as well as those
+ing one’s body composition is secondary to the total            who are extremely heavy (e.g., American football players,
+daily caloric intake. Similar conclusions were drawn in a       sumo wrestlers, field athletes, etc.). A follow-up study
+meta-analysis by Schoenfeld and colleagues [145] that           one year later from the same research group determined
+examined the impact of meal frequency on weight loss            myofibrillar protein synthesis rates after randomizing
+and body composition. Although initial results suggested        participants into three different protein ingestion pat-
+a potential advantage for higher meal frequencies on            terns and examined how altering the pattern of protein
+body composition, sub-analysis indicated that findings          administration affected protein synthesis rates after a
+were confounded by a single study, casting doubt as to          bout of resistance exercise [150]. Two key outcomes
+whether the strategy confers any beneficial effects. How-       were identified. First, rates of myofibrillar protein syn-
+ever, it is important to note that this “outlier” study was     thesis rates increased in all three groups. Second, when
+the only one to include an exercise regimen and only            four, 20-g doses of whey protein isolate were consumed
+lasted for two weeks. From this, one might conclude that        every 3 h over a 12-h post-exercise period, significantly
+greater meal frequency may, indeed, favorably influence         greater (in comparison to the other two patterns of pro-
+weight loss and body composition changes      if used in        tein ingestion) rates of myofibrillar protein synthesis
+combination with an exercise program for a short period         occurred. In combining the results of both studies, one
+of time. Certainly, more research is needed in this area,       can conclude that ingestion of intermediate protein
+particularly studies that manipulate meal frequency in          doses (20 g) consumed every 3 h creates more favorable
+combination with an exercise program in non-athletic as         changes in both whole-body as well as myofibrillar pro-
+well as athletic populations. Finally, other endpoints re-      tein synthesis [149, 150]. Although both studies
+lated to meal frequency (i.e., glucose/insulin homeosta-        employed short-term methodology and other patterns or
+sis, hunger and appetite levels, energy levels, etc.) may       doses have yet to be examined, the results thus far con-
+be of interest to different populations, but they extend        sistently suggest that the timing or pattern in which
+beyond the scope of this position stand. The interested         high-quality protein is ingested may favorably impact
+reader is referred to the ISSN’s position stand on meal         net protein balance as well as rates of myofibrillar pro-
+frequency [146].                                                tein synthesis.
+                                                                An important caveat to these findings is that supple-
+Timing and distribution of protein feeding                      mentation (in most cases) was provided in exclusion of
+An extension of altering the patterns or frequency of           other macronutrients over the duration of the study.
+when meals are consumed is to examine the pattern               Consumption of mixed meals delays gastric emptying
+upon which protein feedings occur. Researchers have             and thus may result in different metabolic effects. More-
+clearly illustrated that upon ingestion of a meal contain-      over, the fact that whey is a fast-absorbing protein
+ing protein and/or amino acids, serum levels of amino           source [151] further confounds the ability to generalize
+acids as well as MPS rates will rise and stay elevated for      results to traditional mixed-meal diets, as the potential
+three to 5 h depending on bolus size [147, 148]. Moore          for oxidation is increased with larger dosages, particu-
+and colleagues [149] examined the differences in protein        larly in the absence of other macronutrients. Whether
+turnover and synthesis rates when participants ingested         acute MPS responses translate to longitudinal changes
+different patterns, in a randomized order, of an 80-g           in hypertrophy or fiber composition also remains to be
+total dose of protein over a 12-h measurement period            determined [120]. In addition to these aforementioned
+following a bout of lower body resistance exercise. One         studies, extensive work by Arciero and colleagues has
+of the protein feeding patterns required participants to        directly examined the combined effect of meal frequency
+consume two 40-g doses of whey protein isolate ap-              and timing along with the distribution of protein intake
+proximately 6 h apart. Another condition required the           with [129, 130, 152–156] and without [157, 158] exercise
+consumption of four, 20-g doses of whey protein isolate         training in both short-term (3 months) and longer-term
+every 3 h. The final condition required the participants        (> 1 year) interventions using a “protein pacing” model.
+to consume eight, 10-g doses of whey protein isolate            Protein pacing involves the consumption of 20–40 g
+every 90 min. Rates of muscle protein turnover, synthe-         servings of high-quality protein, from both whole food
+sis, and breakdown were compared, and the authors               and protein supplementation, evenly spaced throughout
+concluded that protein turnover and synthesis rates were        the day, approximately every 3 h. The first meal is con-
+greatest when intermediate-sized (20-g) doses of whey           sumed within 60 min of waking in the morning, and the
+protein isolate were consumed every 3 h. One of the             last meal is eaten within 3 h of going to sleep at night.
+caveats of this investigation was the very low total dose       Arciero and colleagues [129, 130] have most recently
+of protein consumed. Eighty grams of protein over a 12-         demonstrated increased muscular strength and power in
+h period would be grossly inadequate for athletes               exercise-trained physically fit men and women using
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 14 of 21
+
+
+
+
+protein pacing compared to ingestion of similar sized               compared to placebo. This infers that casein protein
+meals at similar times but different protein contents,              consumed pre-sleep maintains overnight lipolysis and
+both of which included the same multi-component exer-               fat oxidation. This finding was verifiedwhen Kinsey et al.
+cise training during a 12-week intervention.                        [171] designed a study using the microdialysis technique
+         In this respect and in consideration of alterations in     to measure interstitial glycerol concentrations overnight
+the time between protein feedings, one must also con-               from the subcutaneous abdominal adipose tissue following
+sider the impact of the “muscle full” effect introduced by          30 g of casein or a flavor and sensory-matched noncaloric
+Millward et al. [159] and later refined by Atherton et al.          placebo in obese men. It was concluded that pre-sleep
+[160] where it was speculated that a sensing mechanism              casein did not blunt overnight lipolysis or fat oxidation.
+was present in muscle that governed overall rates of                Similar to Madzima et al. [169] who compared pre-sleep
+muscle protein growth. In support of this theory one                ingestion of either casein or carbohydrate, Kinsey et al.
+can point to the well characterized changes seen in peak            [171] also concluded that pre-sleep casein did not result
+MPS rates within 90 min after oral ingestion of protein             in elevated insulin the next morning along with decreased
+[160] and the return of MPS rates to baseline levels in             ratings of hunger in an overweight population. Of note, it
+approximately 90 min despite elevations in serum amino              appears that previous exercise training completely ame-
+acid levels [161]. Thus if efficacious protein feedings are         liorates any rise in insulin when eating at night before
+placed too close together it remains possible that the              sleep [172] and the combination of pre-sleep protein and
+ability of skeletal muscle anabolism to be fully activated          exercise has been shown to reduce blood pressure and
+might be limited. While no clear consensus exists as to             arterial stiffness in young obese women with prehyperten-
+the acceptance of this theory, conflicting findings exist           sion and hypertension [173].
+between longitudinal studies that did provide protein               To date, only two studies involving nighttime protein
+feedings in close proximity to each other [16, 110, 153],           have been carried out for longer than four weeks. Snijders
+making this an area that requires more investigation. Fi-           et al. [174], randomly assigned young men (22 ± 1 years
+nally, while the mechanistic implications of pulsed vs.             old) to consume a protein-centric supplement (27.5 g of
+bolus protein feedings and their effect on MPS rates                casein protein, 15 g of carbohydrate, and 0.1-g of fat) or a
+may help ultimately guide application, the practical im-            noncaloric placebo every night before sleep while also
+portance has yet to be demonstrated.                                completing a 12-week progressive resistance exercise
+                                                                    training program (3 times per week). The group receiving
+Pre-sleep protein intake                                            the protein-centric supplement each night before sleep
+Eating before sleep has long been controversial [162–164].          had greater improvements in muscle mass and strength
+However, methodological considerations in the original              over the 12-weeks. Of note, this study was non-nitrogen
+studies such as the population used, time of feeding, and           balanced and the protein group received approximately
+size of the pre-sleep meal confounds any conclusions that           1.9 g/kg/day of protein compared to 1.3 g/kg/day in the
+can be drawn. Recent work using protein-centric be-                 placebo group. More recently, in a nitrogen-balanced de-
+verages consumed 30-min before sleep and 2 h after the              sign using young healthy men and women, Antonio et al.
+last meal (dinner) have identified pre-sleep protein con-           [175] supplemented participants with 54 g of casein pro-
+sumption as advantageous to MPS, muscle recovery, and               tein for eight weeks either in the morning (any time before
+overall metabolism in both acute and long-term studies              12 pm) or in the evening (90 min or less before sleep) and
+[165, 166]. For example, data indicate that 30–40 g of ca-          compared changes in body composition, strength per-
+sein protein ingested 30-min prior to sleep [167] or via            formance outcomes. All subjects maintained their usual
+nasogastric tubing [168] increased overnight MPS in both            exercise program. The authors reported no differences in
+young and old men, respectively.                                    body composition or performance between the morning
+           Likewise, in an acute setting, 30 g of whey protein,     and evening casein supplementation groups. A potential
+30 g of casein protein, and 33 g of carbohydrate con-               explanation for the lack of findings might stem from the
+sumption 30-min pre-sleep resulted in elevated morning              already high intake of protein by the study participants be-
+resting metabolic rate in fit young men compared to a               fore the study commenced. However, it is worth noting
+non-caloric placebo [169]. Similarly, although not statis-          that although not statistically significant, the morning
+tically significant, morning increases in resting metabolic         group added 0.4 kg of lean body mass compared to 1.2 kg
+rate were reported in young overweight and/or obese                 in the evening group even though the habitual diet of the
+women [170]. Of particular interest is that Madzima et              trained subjects in this study was reported to be 1.7 to
+al. [169] reported that the respiratory quotient (RQ) the           1.9 g/kg/day of protein. Thus, it appears that protein con-
+morning after pre-sleep nutrient intake was similar for             sumption in the evening before sleep represents another
+the placebo and casein protein trials, while both                   opportunity to consume protein and other nutrients.  er-
+carbohydrate and whey protein producedincreasedRQ                   tainly more research is needed to determine if timing per
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 15 of 21
+
+
+
+
+se, or the mere addition of total daily protein can affect       fuel sources to different degrees [28–30]. Furthermore,
+body composition or recovery via nighttime feeding.              the size of potential effects tends to be small, and when
+                                                                 small potential effects are combined with small numbers
+Conclusions                                                      of study participants, the ability to determine statistical
+Nutrient timing is an area of research that continues to         significance remains low. Nonetheless, this consideration
+gather interest from researchers, coaches, and con-              remains relevant because it underscores the need for
+sumers. In reviewing the literature, two key consider-           more research to better understand the possibility of the
+ations should be made. First, all findings surrounding           group and individual changes that can be expected when
+nutrient timing require appropriate context because fac-         the timing of nutrients is manipulated.
+tors such as age, sex, fitness level, previous fueling sta-
+tus, dietary status, training volume, training intensity,        Practical applications
+program design, and time before the next training bout
+or competition can influence the extent to which timing           In many situations, the efficacy of nutrient timing is
+may play a role in the adaptive response to exercise. Sec-        inherently tied to the concept of optimal fueling.
+ond, nearly all research within this topic requires further       Thus, the importance of adequate energy,
+investigation. The reader must keep in perspective that           carbohydrate, and protein intake must be
+in its simplest form nutrient timing is a feeding strategy        emphasized to ensure athletes are properly fueled
+that in nearly all situations may be helpful towards the          for optimal performance as well as to maximize
+promotion of recovery and adaptations towards training.           potential adaptations to exercise training.
+This context is important because many nutrient timing            Prolonged exercise (> 60 – 90 min) of moderate to
+studies demonstrate favorable changes that do not meet            high intensity (65–80% VO₂max) relies heavily upon
+statistical thresholds of significance thereby leaving the        endogenous carbohydrate stores, and timing strategies
+reader to interpret the level of practical significance that      to maximize these stores (carbohydrate loading or
+exists from the findings. In this respect, it is the position     glycogen supercompensation strategies) have been
+of the ISSN that when a strategy may either help or have          shown to facilitate recovery and offset these changes.
+a neutral effect and fits within that individual’s daily          High-intensity exercise (particularly in hot and
+schedule and ability to comply, then from a purely prac-          humid conditions) demands aggressive carbohydrate
+tical perspective, it is worth employing. It is noteworthy        and fluid replacement. Consumption of 1.5–2 cups
+that differences in real-world athletic performances can          (12–16 fluid ounces) of a 6–8% carbohydrate
+be so small that even strategies that offer a modicum of          solution (6–8 g carbohydrate per 100 mL of fluid)
+benefit are still worth pursuing. One must remember               has been shown as an effective strategy to replace
+that the overarching purpose of any nutritional strategy          fluid, sustain blood glucose levels and promote
+is to enhance the adaptive response to acute and/or               performance. The need for carbohydrate
+chronic exercise. In nearly all such situations, this ap-         replacement increases in importance as training and
+proach results in an athlete receiving a combination of           competition extend beyond 70 min of activity and
+nutrients at specific times that may be helpful and has           the need for carbohydrate during shorter durations
+not yet shown to be harmful. This perspective also has            is less established.
+the added advantage of offering more flexibility to the           Rapid ingestion of high amounts of carbohydrates
+fueling considerations a coach or athlete may employ.             (≥ 1.2 g/kg/h) for four to 6 h soon after exhausting
+Using this approach, when both situations (timed or               exercise can rapidly stimulate replenishment of
+non-timed ingestion of nutrients) offer positive out-             muscle glycogen.
+comes then our perspective is to advise an athlete to fol-        Adding protein (0.2–0.5 g/kg/h) to carbohydrate
+low whatever strategy offers the most convenience or              increases the rate of glycogen resynthesis when
+compliance if for no other reason than to deliver vital           ingesting < 1.2 g/kg/h of carbohydrate. Moreover,
+nutrients in amounts at a time that will support the              the additional protein may minimize muscle
+physiological response to exercise.                               damage, promote favorable hormone balance and
+Finally, it is advisable to remind the reader that due to         accelerate recovery from intense exercise.
+the complexity, cost and invasiveness required to answer          For athletes completing high volumes (i.e., ≥ 8 h) of
+some of these fundamental questions, research studies             exercise per week and subsequently requiring the
+often employ small numbers of study participants. Also,           need to continually and rapidly replenish endogenous
+for the most part studies have primarily evaluated men.           glycogen stores, the single most effective strategy to
+This latter point is particularly important as researchers        maximize endogenous glycogen stores is the
+have documented that females oxidize more fat when                consumption of a daily diet high in carbohydrate
+compared to men, and also seem to utilize endogenous              (8–12 g/kg/day).
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 16 of 21
+
+
+
+
+
+
+The use of a 20–40-g dose of a high-quality protein         Altering the timing of energy intake (i.e., total
+source that contains approximately 10–12 g of the           calories over the course of a day) may improve
+EAA maximizes MPS rates that remain elevated for            weight loss, body composition changes, and health-
+three to four hours following exercise.                     related markers, particularly when a greater
+Protein consumption during the peri-workout period          proportion of calories are consumed during
+is a pragmatic and sensible strategy for athletes,          breakfast and to a greater extent when this meal
+particularly those who perform high volumes of              provides higher amounts of dietary protein.
+exercise. Not consuming protein post-workout
+(e.g., waiting for several hours post-exercise) offers     Availability of data and materials
+                                                           Not applicable.
+no benefits.
+The impact of delivering a dose of protein (with           Authors’ contributions
+or without carbohydrates) during the peri-workout          CMK prepared and compiled the draft for initial review and incorporated all
+period over the course of several weeks may operate        suggested edits into the final draft. BJS, SMA, and JRS completed an initial
+                                                           review and provided significant edits and additional content before review
+as a strategy to heighten adaptations to exercise.         and approval of other authors. All other authors reviewed, suggested edits,
+Key factors that may influence the overall outcomes        and approved the final manuscript.
+include one’s total daily protein intake, an               Ethics approval and consent to participate
+individual’s training status and when their last           This paper was reviewed by the International Society of Sports Nutrition
+dose of protein was consumed.                              Research Committee and represents the official position of the Society.
+Like carbohydrate, timing related considerations           Consent for publication
+for protein appear to be of lower priority than the        Not applicable.
+ingestion of optimal amounts of daily protein
+(1.4–2.0 g/kg/day).                                        Competing interests                         funding from
+In the face of restricting caloric intake for weight       CMK consults with and receives external             companies who sell
+                                                           supplemental protein, has received remuneration from companies for
+loss, altering meal frequency has shown limited            delivering scientific presentations at conferences and writes online, print and
+effects on body composition. However, more                 other media on topics related to exercise, nutrition and protein for related
+frequent meals may be more beneficial when                 companies. Has served as an expert witness and provided testimonies
+                                                           related to exercise, supplementation, and nutrition.
+accompanied by an exercise program. The impact             BJS has no conflicts to report.
+of altering meal frequency in combination with an          SMA has received grants to evaluate the efficacy of dietary supplements and
+exercise program in non-athlete or athlete                 has previously served on scientific advisory boards for a sports nutrition
+                                                           company.
+populations warrants further investigation. It is          JRS has received grants to evaluate the efficacy of dietary supplements and
+established that altering meal frequency (outside          has previously served on scientific advisory boards for a sports nutrition
+of an exercise program) may help with controlling          companies.                      for
+                                                           BIC writes and is compensated   various media outlets on topics related to
+hunger, appetite and satiety.                              sports nutrition and fitness; has received funding for research related to
+Nutrient timing strategies that involve changing the       dietary supplements; serves on an advisory board for a sports nutrition
+distribution of intermediate-sized protein doses           company and is compensated in product donations.
+                                                           CDW has received external funding from supplement companies to do
+(20–40 g or 0.25–0.40 g/kg/dose) every three to 4 h        research, served on multiple advisory boards for supplement companies, and
+best supports increased MPS rates across the day           has served as a consultant, advisor, and spokesperson for various nutrition
+and favorably enhances body composition and                companies.                   funding               efficacy of
+                                                           LT has received external        to evaluate the                dietary
+physical performance outcomes. One must also               supplements and has previously served in a consulting role for sports
+consider that other factors such as the type of            nutrition companies.
+exercise stimulus, training status, and consumption        DSK works for a contract research organization that does conduct clinical
+                                                           trials for dietary supplement and pharmaceutical companies.
+of mixed macronutrient meals versus sole protein           ASR has received grants to evaluate the efficacy of dietary supplements and
+feedings can all impact how protein is metabolized         serves on the scientific advisory board for sports nutrition companies.
+across the day.                                            RBK has received externally-funded grants from industry to conduct research
+                                                           on protein and protein containing supplements, serves as a scientific and
+When consumed within 30 min before sleep,                  legal consultant, and is a university approved scientific advisor for Nutrabolt.
+30–40 g of casein may increase MPS rates and               DSW has received grants to evaluate the efficacy of dietary supplements,
+improve strength and muscle hypertrophy. In                serves on a scientific advisory board for a sports nutrition company, and as
+                                                           scientific consultant, and has received remuneration from a company for
+addition, protein ingestion prior to sleep may             delivering scientific presentations at conferences.
+increase morning metabolic rate while exerting             PJA consults with and receives external funding from nutrition supplement
+minimal influence over lipolysis rates. In addition,       companies; has received remuneration from health and wellness companies
+                                                           for presenting at conferences; serves as an advisory board member of
+pre-sleep protein intake can operate as an                 governing organizations in healthcare and nutrition supplement companies;
+effective way to meet daily protein needs while            serves as a paid consultant to the nutrition supplement industry; serves as
+also providing a metabolic stimulus for muscle             Founder and CEO of PRISE LLC a health and wellness consultant company
+                                                           that owns the GenioFit App.
+adaptation.                                                TAV has received grants to evaluate the efficacy of dietary supplements.
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 17 of 21
+
+
+
+
+
+
+MJO is on the advisory board for Dymatize Nutrition and has received                7. Barry DW, Hansen KC, Van Pelt RE, Witten M, Wolfe P, Kohrt WM. Acute
+external funding from companies who sell nutritional supplements.                           Calcium Ingestion Attenuates Exercise-Induced Disruption Of Calcium
+RW serves as Chief Science Officer for Post Active Nutrition, St Louis MO.                  Homeostasis. Med Sci Sports Exerc. 2011;43(4):617–23.
+MG has received external funding and nutritional product from companies             8. Haakonssen EC, Ross ML, Knight EJ, Cato LE, Nana A, Wluka AE, Cicuttini FM,
+who sell protein supplements and has received remuneration from                             Wang BH, Jenkins DG, Burke LM. The Effects Of A Calcium-Rich Pre-Exercise
+companies for presenting scientific based nutritional supplement and                        Meal On Biomarkers Of Calcium Homeostasis In Competitive Female
+exercise research at professional conferences.                                              Cyclists: A Randomised Crossover Trial. PLoS One. 2015;10(5):E0123302.
+TNZ has received external funding from companies who sell protein                   9. Shea KL, Barry DW, Sherk VD, Hansen KC, Wolfe P, Kohrt WM. Calcium
+supplements, has received remuneration from companies for delivering                        Supplementation And Pth Response To Vigorous Walking In
+scientific presentations at conferences, and authors online articles related to             Postmenopausal Women. Med Sci Sports Exerc. 2014;46(10):2007–13.
+exercise, nutrition and protein. He has also served as an expert witness and        10. Sherk VD, Barry DW, Villalon KL, Hansen KC, Wolfe P, Kohrt WM. Timing Of
+provided testimonies related to exercise, supplementation and nutrition.                    Calcium Supplementation Relative To Exercise Alters The Calcium
+AAA has no conflicts to report.                                                             Homeostatic Response To Vigorous Exercise. San Francisco: Endocrine's
+JA is the CEO and co-founder of the ISSN. The ISSN is supported in part by                  Society Annual Meeting; 2013.
+grants from raw good suppliers and branded companies.                               11. Fujii T, Matsuo T, Okamura K. The Effects Of Resistance Exercise And Post-
+                                                                                            Exercise Meal Timing On The Iron Status In Iron-Deficient Rats. Biol Trace
+Publisher’s Note                                                                            Elem Res. 2012;147(1-3):200–5.
+Springer Nature remains neutral with regard to jurisdictional claims in             12. Matsuo T, Kang HS, Suzuki H, Suzuki M. Voluntary Resistance Exercise
+published maps and institutional affiliations.                                              Improves Blood Hemoglobin Concentration In Severely Iron-Deficient Rats. J
+                                                                                            Nutr Sci Vitaminol. 2002;48(2):161–4.
+Author details                                                                      13. Ryan EJ, Kim CH, Fickes EJ, Williamson M, Muller MD, Barkley JE, Gunstad J,
+1Exercise and Performance Nutrition Laboratory, School of Health Sciences,                  Glickman EL. Caffeine Gum And Cycling Performance: A Timing Study. J
+Lindenwood University, St. Charles, MO, USA. 2IFNH Center for Health &                      Strength Cond Res. 2013;27(1):259–64.
+Human Performance, Department of Kinesiology & Health, Rutgers University,          14. Antonio J, Ciccone V. The Effects Of Pre Versus Post Workout
+New Brunswick, NJ, USA. 3Health Science Department, Program of Exercise                     Supplementation Of Creatine Monohydrate On Body Composition And
+Science, CUNY Lehman College, Bronx, NY, USA. 4Institute of Exercise                        Strength. J Int Soc Sports Nutr. 2013;10(1):36.
+Physiology and Wellness, University of Central Florida, Orlando, FL, USA.           15. Candow DG, Chilibeck PD, Facci M, Abeysekara S, Zello GA. Protein
+5Performance & Physique Enhancement Laboratory, Exercise Science                            Supplementation Before And After Resistance Training In Older Men. Eur J
+Program, University of South Florida, Tampa, FL, USA. 6Human Performance                    Appl Physiol. 2006;97(5):548–56.
+Lab, Department of Exercise Sport Science, University of Mary Hardin-Baylor,        16. Cribb PJ, Hayes A. Effects Of Supplement Timing And Resistance Exercise
+Belton, TX, USA. 7Department of Athletics, Florida International University,                On Skeletal Muscle Hypertrophy. Med Sci Sports Exerc. 2006;38(11):1918–25.
+Miami, FL, USA. 8Applied Physiology Laboratory, Department of Exercise and          17. Siegler JC, Marshall PW, Bray J, Towlson C. Sodium Bicarbonate
+Sport Science, University of North Carolina-Chapel Hill, Chapel Hill, NC, USA.              Supplementation And Ingestion Timing: Does It Matter? J Strength Cond
+9Exercise & Sport Nutrition Lab, Human Clinical Research Facility, Department               Res. 2012;26(7):1953–8.
+of Health & Kinesiology, Texas A&M University, College Station, TX, USA.            18. Coyle EF, Coggan AR, Hemmert MK, Ivy JL. Muscle Glycogen Utilization
+10 Exercise and Biochemical Nutrition Laboratory, Department of Health,                     During Prolonged Strenuous Exercise When Fed Carbohydrate. J Appl
+Human Performance, and Recreation, Baylor University, Waco, TX, USA.                        Physiol. 1986;61(1):165–72.
+11 Human Nutrition and Metabolism Laboratory, Health and Exercise Sciences          19. Coyle EF, Coggan AR, Hemmert MK, Lowe RC, Walters TJ. Substrate Usage
+Department, Skidmore College, Saratoga Springs, NY 12866, USA.                              During Prolonged Exercise Following A Preexercise Meal. J Appl Physiol.
+12 Department of Exercise Science and Sport Management, Kennesaw State                      1985;59(2):429–33.
+University, Kennesaw, GA, USA. 13Department of Nutrition, Food and Exercise         20. Tarnopolsky MA, Gibala M, Jeukendrup AE, Phillips SM. Nutritional Needs Of
+Sciences, Institute of Sport Sciences and Medicine, Florida State University,               Elite Endurance Athletes. Part I: Carbohydrate And Fluid Requirements. Eur J
+Tallahassee, FL, USA. 14University of KwaZulu-Natal, Biokinetics, Exercise and              Sport Sci. 2005;5(1):3–14.
+Leisure Studies, Durban 4000, South Africa. 15Post Active Nutrition, 111 Leslie     21. Dennis SC, Noakes TD, Hawley JA. Nutritional Strategies To Minimize
+St, Dallas, TX, USA. 16The Center for Applied Health Sciences, Stow, OH, USA.               Fatigue During Prolonged Exercise: Fluid, Electrolyte And Energy
+17 Department of Family Environmental Sciences, California State University,                Replacement. J Sports Sci. 1997;15(3):305–13.
+Northridge, CA, USA. 18Department of Health and Human Performance, Nova             22. Robergs RA, Pearson DR, Costill DL, Fink WJ, Pascoe DD, Benedict MA,
+Southeastern University, Davie, FL, USA.                                                    Lambert CP, Zachweija JJ. Muscle Glycogenolysis During Differing Intensities
+                                                                                            Of Weight-Resistance Exercise. J Appl Physiol. 1991;70(4):1700–6.
+Received: 12 July 2017 Accepted: 14 August 2017                                     23. Gleeson M, Nieman DC, Pedersen BK. Exercise, Nutrition And Immune
+Published online: 29 August 2017                                                            Function. J Sports Sci. 2004;22(1):115–25.
+                                                                                    24. Rodriguez NR, Di Marco NM, Langley S. American College Of Sports
+References                                                                                  Medicine Position Stand. Nutrition And Athletic Performance. Med Sci
+1. Kerksick C, Harvey T, Stout J, Campbell B, Wilborn C, Kreider R, Kalman D,               Sports Exerc. 2009;41(3):709–31.
+ Ziegenfuss T, Lopez H, Landis J, et al. International Society Of Sports            25. Howarth KR, Moreau NA, Phillips SM, Gibala MJ. Coingestion Of Protein With
+ Nutrition Position Stand: Nutrient Timing. J Int Soc Sports Nutr. 2008;5:17.               Carbohydrate During Recovery From Endurance Exercise Stimulates Skeletal
+2. Sherman WM, Costill DI, Fink WJ, Miller JM. Effect Of Exercise-Diet                      Muscle Protein Synthesis In Humans. J Appl Physiol. 2009;106(4):1394–402.
+ Manipulation On Muscle Glycogen And Its Subsequent Utilization During              26. Van Hall G, Shirreffs SM, Calbet JA. Muscle Glycogen Resynthesis During
+ Performance. Int J Sports Med. 1981;2(2):114–8.                                            Recovery From Cycle Exercise: No Effect Of Additional Protein Ingestion.
+3. Karlsson J, Saltin B. Diet, Muscle Glycogen, And Endurance Performance. J                Journal Of Applied Physiology (Bethesda, Md : 1985). 2000;88(5):1631–6.
+ Appl Physiol. 1971;31(2):203–6.                                                    27.     Van Loon L, Saris WH, Kruijshoop M. Maximizing Postexercise Muscle Glycogen
+4. Ivy JL, Katz AL, Cutler CL, Sherman WM, Coyle EF. Muscle Glycogen                        Synthesis: Carbohydrate Supplementation And The Application Of Amino Acid
+ Synthesis After Exercise: Effect Of Time Of Carbohydrate Ingestion. J Appl                 Or Protein Hydrolysate Mixtures. Am J Clin Nutr. 2000;72:106–11.
+ Physiol. 1988;64(4):1480–5.                                                        28. Riddell MC, Partington SL, Stupka N, Armstrong D, Rennie C, Tarnopolsky
+5. Cermak NM, Res PT, De Groot LC, Saris WH, Van Loon LJ. Protein                           MA. Substrate Utilization During Exercise Performed With And Without
+ Supplementation Augments The Adaptive Response Of Skeletal Muscle To                       Glucose Ingestion In Female And Male Endurance Trained Athletes. Int J
+ Resistance-Type Exercise Training: A Meta-Analysis. Am J Clin Nutr. 2012;                  Sport Nutr Exerc Metab. 2003;13(4):407–21.
+ 96(6):1454–64.                                                                     29. Devries MC, Hamadeh MJ, Phillips SM, Tarnopolsky MA. Menstrual Cycle
+6. Marquet LA, Hausswirth C, Molle O, Hawley JA, Burke LM, Tiollier E,                      Phase And Sex Influence Muscle Glycogen Utilization And Glucose Turnover
+ Brisswalter J. Periodization Of Carbohydrate Intake: Short-Term Effect On                  During Moderate-Intensity Endurance Exercise. Am J Phys Regul Integr
+ Performance. Nutrients. 2016;8(12):E755.                                                   Comp Phys. 2006;291(4):R1120–8.
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 18 of 21
+
+
+
+
+
+
+30. Carter SL, Rennie C, Tarnopolsky MA. Substrate Utilization During Endurance         55. Newell ML, Hunter AM, Lawrence C, Tipton KD, Galloway SD. The Ingestion
+        Exercise In Men And Women After Endurance Training. Am J Physiol                        Of 39 Or 64 G.H(-1) Of Carbohydrate Is Equally Effective At Improving
+        Endocrinol Metab. 2001;280(6):E898–907.                                                 Endurance Exercise Performance In Cyclists. Int J Sport Nutr Exerc Metab.
+31. Wismann J, Willoughby D. Gender Differences In Carbohydrate Metabolism                      2015;25(3):285–92.
+        And Carbohydrate Loading. J Int Soc Sports Nutr. 2006;3:28–34.                  56. Colombani PC, Mannhart C, Mettler S. Carbohydrates And Exercise
+32. Escobar KA, Vandusseldorp TA, Kerksick CM: Carbohydrate Intake And                          Performance In Non-Fasted Athletes: A Systematic Review Of Studies
+        Resistance-Based Exercise: Are Current Recommendations Reflective Of                    Mimicking Real-Life. Nutr J. 2013;12:16.
+        Actual Need. Brit J Nutr 2016;In Press.                                         57. Pochmuller M, Schwingshackl L, Colombani PC, Hoffmann G. A Systematic
+33. Burke LM, Cox GR, Culmmings NK, Desbrow B. Guidelines For Daily                             Review And Meta-Analysis Of Carbohydrate Benefits Associated With
+        Carbohydrate Intake: Do Athletes Achieve Them? Sports Med. 2001;31(4):                  Randomized Controlled Competition-Based Performance Trials. J Int Soc
+        267–99.                                                                                 Sports Nutr. 2016;13:27.
+34. Sherman WM, Costill DL, Fink WJ, Hagerman FC, Armstrong LE, Murray TF.              58. Phillips SM, Sproule J, Turner AP. Carbohydrate Ingestion During Team
+        Effect Of A 42.2-Km Footrace And Subsequent Rest Or Exercise On Muscle                  Games Exercise: Current Knowledge And Areas For Future Investigation.
+        Glycogen And Enzymes. J Appl Physiol. 1983;55:1219 –24.                                 Sports Med. 2011;41(7):559–85.
+35. Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA. Carbohydrate Loading         59. Clarke ND, Drust B, Maclaren DP, Reilly T. Fluid Provision And Metabolic
+        In Human Muscle: An Improved 1 Day Protocol. Eur J Appl Physiol. 2002;                  Responses To Soccer-Specific Exercise. Eur J Appl Physiol. 2008;104(6):1069–77.
+        87(3):290–5.                                                                    60. Mizuno S, Kojima C, Goto K. Timing Of Carbohydrate Ingestion Did Not
+36. Fairchild TJ, Fletcher S, Steele P, Goodman C, Dawson B, Fournier PA. Rapid                 Affect Inflammatory Response And Exercise Performance During Prolonged
+        Carbohydrate Loading After A Short Bout Of Near Maximal-Intensity                       Intermittent Running. Spring. 2016;5:506.
+        Exercise. Med Sci Sports Exerc. 2002;34(6):980–6.                               61. Ivy JL. Glycogen Resynthesis After Exercise: Effect Of Carbohydrate Intake.
+37. Wright DA, Sherman WM, Dernbach AR. Carbohydrate Feedings Before,                           Int J Sports Med. 1998;19(Suppl 2):S142–5.
+        During, Or In Combination Improve Cycling Endurance Performance. J Appl         62. Jentjens R, Jeukendrup A. Determinants Of Post-Exercise Glycogen Synthesis
+        Physiol. 1991;71(3):1082–8.                                                             During Short-Term Recovery. Sports Med. 2003;33(2):117–44.
+38. Neufer PD, Costill DL, Flynn MG, Kirwan JP, Mitchell JB, Houmard J.                 63. Jentjens R, Van Loon L, Mann CH. Wagenmakers Ajm, Jeukendrup Ae:
+        Improvements In Exercise Performance: Effects Of Carbohydrate Feedings                  Addition Of Protein And Amino Acids To Carbohydrates Does Not Enhance
+        And Diet. J Appl Physiol. 1987;62(3):983–8.                                             Postexercise Muscle Glycogen Synthesis. J Appl Physiol. 2001;91:839–46.
+39. Sherman WM, Brodowicz G, Wright DA, Allen WK, Simonsen J, Dernbach A.               64. Jentjens R, Jeukendrup AE. Determinants Of Post-Exercise Glycogen
+        Effects Of 4 H Preexercise Carbohydrate Feedings On Cycling Performance.                Synthesis During Short-Term Recovery. Sports Med. 2003;33:117–44.
+        Med Sci Sports Exerc. 1989;21(5):598–604.                                       65. Nieman DC, Davis JM, Henson DA, Gross SJ, Dumke CL, Utter AC, Vinci DM,
+40. Reed MJ, Brozinick JT Jr, Lee MC, Ivy JL. Muscle Glycogen Storage                           Carson JA, Brown A, Mcanulty SR, et al. Muscle Cytokine Mrna Changes
+        Postexercise: Effect Of Mode Of Carbohydrate Administration. J Appl Physiol.            After 2.5 H Of Cycling: Influence Of Carbohydrate. Med Sci Sports Exerc.
+        1989;66(2):720–6.                                                                       2005;37(8):1283–90.
+41. Keizer H, Kuipers H, Van Kranenburg G. Influence Of Liquid And Solid Meals          66. Nieman DC, Davis JM, Henson DA, Walberg-Rankin J, Shute M, Dumke CL,
+        On Muscle Glycogen Resynthesis, Plasma Fuel Hormone Response, And                       Utter AC, Vinci DM, Carson JA, Brown A, et al. Carbohydrate Ingestion
+        Maximal Physical Working Capacity. Int J Sports Med. 1987;8:99–104.                     Influences Skeletal Muscle Cytokine Mrna And Plasma Cytokine Levels After
+42. Foster C, Costill DL, Fink WJ. Effects Of Preexercise Feedings On Endurance                 A 3-H Run. J Appl Physiol. 2003;94(5):1917–25.
+        Performance. Med Sci Sports Exerc. 1979;11:1–5.                                 67. Nicholas CW, Green PA, Hawkins RD. Carbohydrate Intake And Recovery Of
+43. Moseley L, Lancaster GI, Jeukendrup AE. Effects Of Timing Of Pre-Exercise                   Intermittent Running Capacity. Int J Sport Nutr. 1997;7:251–60.
+        Ingestion Of Carbohydrate On Subsequent Metabolism And Cycling                  68. Macdougall JD, Ray S, Sale DG, Mccartney N, Lee P, Garner S. Muscle
+        Performance. Eur J Appl Physiol. 2003;88(4-5):453–8.                                    Substrate Utilization And Lactate Production. Can J Appl Physiol. 1999;
+44. Hawley JA, Burke LM. Effect Of Meal Frequency And Timing On Physical                        24(3):209–15.
+        Performance. Br J Nutr. 1997;77(Suppl 1):S91–103.                               69. Tesch PA, Colliander EB, Kaiser P. Muscle Metabolism During Intense, Heavy-
+45. Galloway SD, Lott MJ, Toulouse LC. Preexercise Carbohydrate Feeding And                     Resistance Exercise. Eur J Appl Physiol Occup Physiol. 1986;55(4):362–6.
+        High-Intensity Exercise Capacity: Effects Of Timing Of Intake And               70. Pascoe DD, Costill DL, Fink WJ, Robergs RA, Zachwieja JJ. Glycogen
+        Carbohydrate Concentration. Int J Sport Nutr Exerc Metab. 2014;24(3):258–               Resynthesis In Skeletal Muscle Following Resistive Exercise. Med Sci Sports
+        66.                                                                                     Exerc. 1993;25(3):349–54.
+46. Febbraio MA, Keenan J, Angus DJ, Campbell SE, Garnham AP. Preexercise               71. Haff GG, Stone MH, Warren BJ, Keith R, Johnson RL, Nieman DC, Williams F,
+        Carbohydrate Ingestion, Glucose Kinetics, And Muscle Glycogen Use: Effect               Kirsey KB. The Effect Of Carbohydrate Supplementation On Multiple
+        Of The Glycemic Index. J Appl Physiol. 2000;89(5):1845–51.                              Sessions And Bouts Of Resistance Exercise. J Strength Cond Res. 1999;
+47. Febbraio MA, Stewart KL. Cho Feeding Before Prolonged Exercise: Effect Of                   13(2):111–7.
+        Glycemic Index On Muscle Glycogenolysis And Exercise Performance. J Appl        72. Dalton RA, Rankin JW, Sebolt D, Gwazdauskas F. Acute Carbohydrate
+        Physiol. 1996;81(3):1115–20.                                                            Consumption Does Not Influence Resistance Exercise Performance During
+48. Jeukendrup AE. Carbohydrate Intake During Exercise And Performance.                         Energy Restriction. Int J Sport Nutr. 1999;9(4):319–32.
+        Nutrition. 2004;20(7-8):669–77.                                                 73. Haff GG, Koch AJ, Potteiger JA, Kuphal KE, Magee LM, Green SB, Jakicic JJ.
+49. Jeukendrup AE. Carbohydrate Feeding During Exercise. Eur J Sport Sci. 2008;                 Carbohydrate Supplementation Attenuates Muscle Glycogen Loss During
+        8(2):77–86.                                                                             Acute Bouts Of Resistance Exercise. Int J Sport Nutr Exerc Metab. 2000;
+50. Fielding RA, Costill DL, Fink WJ, King DS, Hargreaves M, Kovaleski JE. Effect               10(3):326–39.
+        Of Carbohydrate Feeding Frequencies And Dosage On Muscle Glycogen               74. Kulik JR, Touchberry CD, Kawamori N, Blumert PA, Crum AJ, Haff GG.
+        Use During Exercise. Med Sci Sports Exerc. 1985;17(4):472–6.                            Supplemental Carbohydrate Ingestion Does Not Improve Performance Of
+51. Schweitzer GG, Smith JD, Lecheminant JD. Timing Carbohydrate Beverage                       High-Intensity Resistance Exercise. J Strength Cond Res. 2008;22(4):1101–7.
+         Intake During Prolonged Moderate Intensity Exercise Does Not Affect            75. Yaspelkis BB, Patterson JG, Anderla PA, Ding Z, Ivy JL. Carbohydrate
+         Cycling Performance. Int J Exerc Sci. 2009;2(1):4–18.                                  Supplementation Spares Muscle Glycogen During Variable-Intensity Exercise.
+52. Heesch MW, Mieras ME, Slivka DR. The Performance Effect Of Early Versus                     J Appl Physiol. 1993;75(4):1477–85.
+         Late Carbohydrate Feedings During Prolonged Exercise. Appl Physiol Nutr        76. Jeukendrup AE, Jentjens R, Moseley L. Nutritional Considerations In
+         Metab. 2014;39(1):58–63.                                                               Triathlon. Sports Med. 2005;35(2):163–81.
+53. Widrick JJ, Costill DL, Fink WJ, Hickey MS, Mcconell GK, Tanaka H.                  77.     Ivy JL, Res PT, Sprague RC, Widzer MO. Effect Of A Carbohydrate-Protein
+         Carbohydrate Feedings And Exercise Performance: Effect Of Initial Muscle               Supplement On Endurance Performance During Exercise Of Varying
+         Glycogen Concentration. J Appl Physiol. 1993;74(6):2998–3005.                          Intensity. Int J Sport Nutr Exerc Metab. 2003;13(3):382–95.
+54.     Febbraio MA, Chiu A, Angus DJ, Arkinstall MJ, Hawley JA. Effects Of             78. Saunders MJ, Kane MD, Todd MK. Effects Of A Carbohydrate-Protein
+        Carbohydrate Ingestion Before And During Exercise On Glucose Kinetics                   Beverage On Cycling Endurance And Muscle Damage. Med Sci Sports Exerc.
+        And Performance. J Appl Physiol. 2000;89(6):2220–6.                                     2004;36(7):1233–8.
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 19 of 21
+
+
+
+
+
+
+79. Saunders MJ, Luden ND, Herrick JE. Consumption Of An Oral Carbohydrate-         99. Kreider RB. Effects Of Creatine Supplementation On Performance And
+ Protein Gel Improves Cycling Endurance And Prevents Postexercise Muscle                  Training Adaptations. Mol Cell Biochem. 2003;244(1-2):89–94.
+ Damage. J Strength Cond Res. 2007;21(3):678–84.                                    100. Kreider RB, Ferreira M, Wilson M, Grindstaff P, Plisk S, Reinardy J, Cantler E, Al
+80. Mclellan TM, Pasiakos SM, Lieberman HR. Effects Of Protein In Combination             A. Effects Of Creatine Supplementation On Body Composition, Strength,
+ With Carbohydrate Supplements On Acute Or Repeat Endurance Exercise                      And Sprint Performance. Med Sci Sports Exerc. 1998;30(1):73–82.
+ Performance: A Systematic Review. Sports Med. 2014;44(4):535–50.                   101. Abdulla H, Smith K, Atherton PJ, Idris I. Role Of Insulin In The Regulation Of
+81. Rustad PL, Sailer M, Cumming KT, Jeppesen PB, Kolnes KJ, Sollie O, Franch J,          Human Skeletal Muscle Protein Synthesis And Breakdown: A Systematic
+ Ivy JL, Daniel H, Jensen J. Intake Of Protein Plus Carbohydrate During The               Review And Meta-Analysis. Diabetologia. 2016;59(1):44–55.
+ First Two Hours After Exhaustive Cycling Improves Performance The                  102. Greenhaff PL, Karagounis LG, Peirce N, Simpson EJ, Hazell M, Layfield R,
+ Following Day. PLoS One. 2016;11(4):E0153229.                                            Wackerhage H, Smith K, Atherton P, Selby A, et al. Disassociation Between
+82. Ivy JL, Goforth HW Jr, Damon BM, Mccauley TR, Parsons EC, Price TB. Early             The Effects Of Amino Acids And Insulin On Signaling, Ubiquitin Ligases, And
+ Postexercise Muscle Glycogen Recovery Is Enhanced With A Carbohydrate-                   Protein Turnover In Human Muscle. Am J Physiol Endocrinol Metab. 2008;
+ Protein Supplement. Journal Of Applied Physiology (Bethesda, Md : 1985).                 295(3):E595–604.
+ 2002;93(4):1337–44.                                                                103.  Rennie MJ, Bohe J, Smith K, Wackerhage H, Greenhaff P. Branched-Chain
+83. Zawadzki KM, Yaspelkis BB 3rd, Ivy JL. Carbohydrate-Protein Complex                   Amino Acids As Fuels And Anabolic Signals In Human Muscle. J Nutr. 2006;
+ Increases The Rate Of Muscle Glycogen Storage After Exercise. J Appl                     136(1 Suppl):264s–8s.
+ Physiol. 1992;72(5):1854–9.                                                        104. Power O, Hallihan A, Jakeman P. Human Insulinotropic Response To Oral
+84. Berardi JM, Noreen EE, Lemon PW. Recovery From A Cycling Time Trial Is                Ingestion Of Native And Hydrolysed Whey Protein. Amino Acids. 2009;37(2):
+ Enhanced With Carbohydrate-Protein Supplementation Vs. Isoenergetic                      333–9.
+ Carbohydrate Supplementation. J Int Soc Sports Nutr. 2008;5:24.                    105. Staples AW, Burd NA, West DW, Currie KD, Atherton PJ, Moore DR, Rennie
+85. Berardi JM, Price TB, Noreen EE, Lemon PW. Postexercise Muscle Glycogen               MJ, Macdonald MJ, Baker SK, Phillips SM. Carbohydrate Does Not Augment
+ Recovery Enhanced With A Carbohydrate-Protein Supplement. Med Sci                        Exercise-Induced Protein Accretion Versus Protein Alone. Med Sci Sports
+ Sports Exerc. 2006;38(6):1106–13.                                                        Exerc. 2011;43(7):1154–61.
+86. Howarth KR, Moreau NA, Phillips SM, Gibala MJ. Co-Ingestion Of Protein          106. Rasmussen BB, Tipton KD, Miller SL, Wolf SE, Wolfe RR. An Oral Essential
+ With Carbohydrate During Recovery From Endurance Exercise Stimulates                     Amino Acid-Carbohydrate Supplement Enhances Muscle Protein Anabolism
+ Skeletal Muscle Protein Synthesis In Humans. J Appl Physiol. 2008;106(4):                After Resistance Exercise. J Appl Physiol. 2000;88(2):386–92.
+ 1394–402.                                                                          107. Pasiakos SM, Mcclung HL, Mcclung JP, Margolis LM, Andersen NE, Cloutier
+87. Kraemer WJ, Hatfield DL, Spiering BA, Vingren JL, Fragala MS, Ho JY, Volek            GJ, Pikosky MA, Rood JC, Fielding RA, Young AJ. Leucine-Enriched Essential
+ JS, Anderson JM, Maresh CM. Effects Of A Multi-Nutrient Supplement On                    Amino Acid Supplementation During Moderate Steady State Exercise
+ Exercise Performance And Hormonal Responses To Resistance Exercise. Eur                  Enhances Postexercise Muscle Protein Synthesis. Am J Clin Nutr. 2011;94(3):
+ J Appl Physiol. 2007;101(5):637–46.                                                      809–18.
+88. Baty JJ, Hwang H, Ding Z, Bernard JR, Wang B, Kwon B, Ivy JL. The Effect Of     108. Tipton KD, Elliott TA, Cree MG, Aarsland AA, Sanford AP, Wolfe RR.
+ A Carbohydrate And Protein Supplement On Resistance Exercise                             Stimulation Of Net Muscle Protein Synthesis By Whey Protein Ingestion
+ Performance, Hormonal Response, And Muscle Damage. J Strength Cond                       Before And After Exercise. Am J Physiol Endocrinol Metab. 2007;292(1):E71 –
+ Res. 2007;21(2):321–9.                                                                   6.
+89. Tipton KD, Rasmussen BB, Miller SL, Wolf SE, Owens-Stovall SK, Petrini BE,      109. Andersen LL, Tufekovic G, Zebis MK, Crameri RM, Verlaan G, Kjaer M, Suetta
+ Wolfe RR. Timing Of Amino Acid-Carbohydrate Ingestion Alters Anabolic                    C, Magnusson P, Aagaard P. The Effect Of Resistance Training Combined
+ Response Of Muscle To Resistance Exercise. Am J Physiol Endocrinol Metab.                With Timed Ingestion Of Protein On Muscle Fiber Size And Muscle Strength.
+ 2001;281(2):E197–206.                                                                    Metab Clin Exp. 2005;54(2):151–6.
+90. Fujita S, Dreyer HC, Drummond MJ, Glynn EL, Volpi E, Rasmussen BB.              110. Hoffman JR, Ratamess NA, Tranchina CP, Rashti SL, Kang J, Faigenbaum AD.
+ Essential Amino Acid And Carbohydrate Ingestion Before Resistance                        Effect Of Protein-Supplement Timing On Strength, Power, And Body-
+ Exercise Does Not Enhance Postexercise Muscle Protein Synthesis. J Appl                  Composition Changes In Resistance-Trained Men. Int J Sport Nutr Exerc
+ Physiol (1985). 2009;106(5):1730–9.                                                      Metab. 2009;19(2):172–85.
+91. White JP, Wilson JM, Austin KG, Greer BK, St John N, Panton LB. Effect Of       111. Delmonico MJ, Kostek MC, Johns J, Hurley BF, Conway JM. Can Dual Energy
+ Carbohydrate-Protein Supplement Timing On Acute Exercise-Induced                         X-Ray Absorptiometry Provide A Valid Assessment Of Changes In Thigh
+ Muscle Damage. J Int Soc Sports Nutr. 2008;5:5.                                          Muscle Mass With Strength Training In Older Adults? Eur J Clin Nutr. 2008;
+92. Beelen M, Koopman R, Gijsen AP, Vandereyt H, Kies AK, Kuipers H, Saris WH,            62(12):1372–8.
+ Van Loon LJ. Protein Coingestion Stimulates Muscle Protein Synthesis               112. Schoenfeld BJ, Aragon A, Wilborn C, Urbina S, Hayward SB, Krieger JW. Pre-
+ During Resistance-Type Exercise. Am J Physiol Endocrinol Metab. 2008;                    Versus Post-Exercise Protein Intake Has Similar Effects On Muscular
+ 295(1):E70–7.                                                                            Adaptations. Peer J. 2016;3(5):e2825.
+93. Bird SP, Mabon T, Pryde M, Feebrey S, Cannon J. Triphasic Multinutrient         113. Ayers K, Pazmino-Cevallos M, Dobose C. The 20-Hour Rule: Student-Athletes
+ Supplementation During Acute Resistance Exercise Improves Session                        Time Commitment To Athletics And Academics. Vahperd Journal. 2012;
+ Volume Load And Reduces Muscle Damage In Strength-Trained Athletes.                      33(1):22.
+ Nutr Res. 2013;33(5):376–87.                                                       114. Cuthbertson D, Smith K, Babraj J, Leese G, Waddell T, Atherton P,
+94. Bird SP, Tarpenning KM, Marino FE. Effects Of Liquid Carbohydrate/Essential           Wackerhage H, Taylor PM, Rennie MJ. Anabolic Signaling Deficits Underlie
+ Amino Acid Ingestion On Acute Hormonal Response During A Single Bout                     Amino Acid Resistance Of Wasting, Aging Muscle. FASEB J. 2005;19(3):422–4.
+ Of Resistance Exercise In Untrained Men. Nutrition. 2006;22(4):367–75.             115. West DW, Burd NA, Coffey VG, Baker SK, Burke LM, Hawley JA, Moore DR,
+95. Bird SP, Tarpenning KM, Marino FE. Liquid Carbohydrate/Essential Amino                Stellingwerff T, Phillips SM. Rapid Aminoacidemia Enhances Myofibrillar
+ Acid Ingestion During A Short-Term Bout Of Resistance Exercise Suppresses                Protein Synthesis And Anabolic Intramuscular Signaling Responses After
+ Myofibrillar Protein Degradation. Metab Clin Exp. 2006;55(5):570–7.                      Resistance Exercise. Am J Clin Nutr. 2011;94(3):795–803.
+96. Bird SP, Tarpenning KM, Marino FE. Independent And Combined Effects Of          116. Dreyer HC, Drummond MJ, Pennings B, Fujita S, Glynn EL, Chinkes DL,
+ Liquid Carbohydrate/Essential Amino Acid Ingestion On Hormonal And                       Dhanani S, Volpi E, Rasmussen BB. Leucine-Enriched Essential Amino Acid
+ Muscular Adaptations Following Resistance Training In Untrained Men. Eur J               And Carbohydrate Ingestion Following Resistance Exercise Enhances Mtor
+ Appl Physiol. 2006;97(2):225–38.                                                         Signaling And Protein Synthesis In Human Muscle. Am J Physiol Endocrinol
+97. Hulmi JJ, Laakso M, Mero AA, Hakkinen K, Ahtiainen JP, Peltonen H. The                Metab. 2008;294(2):E392–400.
+ Effects Of Whey Protein With Or Without Carbohydrates On Resistance                117. Fujita S, Dreyer HC, Drummond MJ, Glynn EL, Cadenas JG, Yoshizawa F,
+ Training Adaptations. J Int Soc Sports Nutr. 2015;12:48.                                 Volpi E, Rasmussen BB. Nutrient Signalling In The Regulation Of Human
+98. Buford TW, Kreider RB, Stout JR, Greenwood M, Campbell B, Spano M,                    Muscle Protein Synthesis. J Physiol. 2007;582(Pt 2):813–23.
+ Ziegenfuss T, Lopez H, Landis J, Antonio J. International Society Of Sports        118. Bohe J, Low JF, Wolfe RR, Rennie MJ. Latency And Duration Of Stimulation
+ Nutrition Position Stand: Creatine Supplementation And Exercise. J Int Soc               Of Human Muscle Protein Synthesis During Continuous Infusion Of Amino
+ Sports Nutr. 2007;4:6.                                                                   Acids. J Physiol. 2001;532(Pt 2):575–9.
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 20 of 21
+
+
+
+
+
+
+119. Burd NA, West DW, Moore DR, Atherton PJ, Staples AW, Prior T, Tang JE,           141. Farshchi HR, Taylor MA, Macdonald IA. Beneficial Metabolic Effects Of
+ Rennie MJ, Baker SK, Phillips SM. Enhanced Amino Acid Sensitivity Of                  Regular Meal Frequency On Dietary Thermogenesis, Insulin Sensitivity, And
+ Myofibrillar Protein Synthesis Persists For Up To 24 H After Resistance               Fasting Lipid Profiles In Healthy Obese Women. Am J Clin Nutr. 2005;81(1):
+ Exercise In Young Men. J Nutr. 2011;141(4):568–73.                                    16–24.
+120. Mitchell CJ, Churchward-Venne TA, Parise G, Bellamy L, Baker SK, Smith K,        142. Cameron JD, Cyr MJ, Doucet E. Increased Meal Frequency Does Not
+ Atherton PJ, Phillips SM. Acute Post-Exercise Myofibrillar Protein Synthesis Is       Promote Greater Weight Loss In Subjects Who Were Prescribed An 8-Week
+ Not Correlated With Resistance Training-Induced Muscle Hypertrophy In                 Equi-Energetic Energy-Restricted Diet. Br J Nutr. 2010;103(8):1098–101.
+ Young Men. PLoS One. 2014;9(2):E89431.                                               143. Alencar MK, Beam JR, Mccormick JJ, White AC, Salgado RM, Kravitz LR, Mermier
+121. Willoughby DS, Stout JR, Wilborn CD. Effects Of Resistance Training And           CM, Gibson AL, Conn CA, Kolkmeyer D, et al. Increased Meal Frequency
+ Protein Plus Amino Acid Supplementation On Muscle Anabolism, Mass. And                Attenuates Fat-Free Mass Losses And Some Markers Of Health Status With A
+ Strength Amino Acids. 2007;32(4):467–77.                                              Portion-Controlled Weight Loss Diet. Nutr Res. 2015;35(5):375–83.
+122. Esmarck B, Andersen JL, Olsen S, Richter EA, Mizuno M, Kjaer M. Timing Of        144. Kulovitz MG, Kravitz LR, Mermier C, Gibson AL, Conn CA, Kolkmeyer D, Kerksick
+ Postexercise Protein Intake Is Important For Muscle Hypertrophy With                  CM. Potential Role Of Meal Frequency As A Strategy For Weight Loss And
+ Resistance Training In Elderly Humans. J Physiol. 2001;535(Pt 1):301–11.              Health In Overweight Or Obese Adults. Nutrition. 2014;30(4):386–92.
+123. Borde R, Hortobagyi T, Granacher U. Dose-Response Relationships Of               145. Schoenfeld BJ, Aragon AA, Krieger JW. Effects Of Meal Frequency On Weight
+ Resistance Training In Healthy Old Adults: A Systematic Review And Meta-              Loss And Body Composition: A Meta-Analysis. Nutr Rev. 2015;73(2):69–82.
+ Analysis. Sports Med. 2015;45(12):1693–720.                                          146. La Bounty PM, Campbell BI, Wilson J, Galvan E, Berardi J, Kleiner SM, Kreider
+124. Schoenfeld BJ, Aragon A, Wilborn C, Urbina SL, Hayward SE, Krieger J. Pre-        RB, Stout JR, Ziegenfuss T, Spano M, et al. International Society Of Sports
+ Versus Post-Exercise Protein Intake Has Similar Effects On Muscular                   Nutrition Position Stand: Meal Frequency. J Int Soc Sports Nutr. 2011;8:4.
+ Adaptations. Peerj. 2017;5:E2825.                                                    147. Phillips SM. The Science Of Muscle Hypertrophy: Making Dietary Protein
+125. Aragon AA, Schoenfeld BJ. Nutrient Timing Revisited: Is There A Post-             Count. Proc Nutr Soc. 2011;70(1):100–3.
+ Exercise Anabolic Window? J Int Soc Sports Nutr. 2013;10(1):5.                       148. Phillips SM. A Brief Review Of Critical Processes In Exercise-Induced
+126. Schoenfeld BJ, Aragon AA, Krieger JW. The Effect Of Protein Timing On             Muscular Hypertrophy. Sports Med. 2014;44(Suppl 1):S71–7.
+ Muscle Strength And Hypertrophy: A Meta-Analysis. J Int Soc Sports Nutr.             149. Moore DR, Areta J, Coffey VG, Stellingwerff T, Phillips SM, Burke LM, Cleroux
+ 2013;10(1):53.                                                                        M, Godin JP, Hawley JA. Daytime Pattern Of Post-Exercise Protein Intake
+127. Morton RW, Mcglory C, Phillips SM. Nutritional Interventions To Augment           Affects Whole-Body Protein Turnover In Resistance-Trained Males. Nutr
+ Resistance Training-Induced Skeletal Muscle Hypertrophy. Front Physiol.               Metab (Lond). 2012;9(1):91.
+ 2015;6:245.                                                                          150. Areta JL, Burke LM, Ross ML, Camera DM, West DW, Broad EM, Jeacocke NA,
+128. Macnaughton LS, Wardle SL, Witard OC, Mcglory C, Hamilton DL, Jeromson            Moore DR, Stellingwerff T, Phillips SM, et al. Timing And Distribution Of
+ S, Lawrence CE, Wallis GA, Tipton KD. The Response Of Muscle Protein                  Protein Ingestion During Prolonged Recovery From Resistance Exercise
+ Synthesis Following Whole-Body Resistance Exercise Is Greater Following 40            Alters Myofibrillar Protein Synthesis. J Physiol. 2013;591(9):2319–31.
+ G Than 20 G Of Ingested Whey Protein. Phys Rep. 2016;4(15):e12893.                   151. Boirie Y, Dangin M, Gachon P, Vasson MP, Maubois JL, Beaufrere B. Slow
+129. Arciero PJ, Ives SJ, Norton C, Escudero D, Minicucci O, O'brien G, Paul M,        And Fast Dietary Proteins Differently Modulate Postprandial Protein
+ Ormsbee MJ, Miller V, Sheridan C, et al. Protein-Pacing And Multi-                    Accretion. Proc Natl Acad Sci U S A. 1997;94(26):14930 –5.
+ Component Exercise Training Improves Physical Performance Outcomes In                152. Arciero PJ, Baur D, Connelly S, Ormsbee MJ. Timed-Daily Ingestion Of Whey
+ Exercise-Trained Women: The Prise 3 Study. Nutrients. 2016;8(6):E332.                 Protein And Exercise Training Reduces Visceral Adipose Tissue Mass And
+130. Ives SJ, Norton C, Miller V, Minicucci O, Robinson J, O'brien G, Escudero D,      Improves Insulin Resistance: The Prise Study. Journal Of Applied Physiology
+ Paul M, Sheridan C, Curran K, et al. Multi-Modal Exercise Training And                (Bethesda, Md : 1985). 2014;117(1):1–10.
+ Protein-Pacing Enhances Physical Performance Adaptations Independent Of              153. Arciero PJ, Edmonds RC, Bunsawat K, Gentile CL, Ketcham C, Darin C, Renna
+ Growth Hormone And Bdnf But May Be Dependent On Igf-1 In Exercise-                    M, Zheng Q, Zhang JZ, Ormsbee MJ. Protein-Pacing From Food Or
+ Trained Men. Growth Hormon IGF Res. 2017;32:60–70.                                    Supplementation Improves Physical Performance In Overweight Men And
+131. Keim NL, Van Loan MD, Horn WF, Barbieri TF, Mayclin PL. Weight Loss Is            Women: The Prise 2 Study. Nutrients. 2016;8(5):E288.
+ Greater With Consumption Of Large Morning Meals And Fat-Free Mass Is                 154. Arciero PJ, Gentile CL, Martin-Pressman R, Ormsbee MJ, Everett M, Zwicky L,
+ Preserved With Large Evening Meals In Women On A Controlled Weight                    Steele CA. Increased Dietary Protein And Combined High Intensity Aerobic
+ Reduction Regimen. J Nutr. 1997;127(1):75–82.                                         And Resistance Exercise Improves Body Fat Distribution And Cardiovascular
+132. De Castro JM. The Time Of Day Of Food Intake Influences Overall Intake In         Risk Factors. Int J Sport Nutr Exerc Metab. 2006;16(4):373–92.
+ Humans. J Nutr. 2004;134(1):104–11.                                                  155. Arciero PJ, Gentile CL, Pressman R, Everett M, Ormsbee MJ, Martin J,
+133. De Castro JM. The Time Of Day And The Proportions Of Macronutrients               Santamore J, Gorman L, Fehling PC, Vukovich MD, et al. Moderate Protein
+ Eaten Are Related To Total Daily Food Intake. Br J Nutr. 2007;98(5):1077–83.          Intake Improves Total And Regional Body Composition And Insulin
+134. Wu T, Sun L, Zhuge F, Guo X, Zhao Z, Tang R, Chen Q, Chen L, Kato H, Fu Z.        Sensitivity In Overweight Adults. Metab Clin Exp. 2008;57(6):757–65.
+ Differential Roles Of Breakfast And Supper In Rats Of A Daily Three-Meal             156. Ruby M, Repka CP, Arciero PJ. Comparison Of Protein-Pacing Alone Or With
+ Schedule Upon Circadian Regulation And Physiology. Chronobiol Int. 2011;              Yoga/Stretching And Resistance Training On Glycemia, Total And Regional
+ 28(10):890–903.                                                                       Body Composition, And Aerobic Fitness In Overweight Women. J Phys Act
+135. Loboda A, Kraft WK, Fine B, Joseph J, Nebozhyn M, Zhang C, He Y, Yang X,          Health. 2016;13(7):754–64.
+ Wright C, Morris M, et al. Diurnal Variation Of The Human Adipose                    157. Arciero PJ, Ormsbee MJ, Gentile CL, Nindl BC, Brestoff JR, Ruby M. Increased
+ Transcriptome And The Link To Metabolic Disease. BMC Med Genet. 2009;2:               Protein Intake And Meal Frequency Reduces Abdominal Fat During Energy
+ 7.                                                                                    Balance And Energy Deficit. Obesity (Silver Spring). 2013;21(7):1357–66.
+136. Ma Y, Bertone ER, Stanek EJ 3rd, Reed GW, Hebert JR, Cohen NL, Merriam           158. Arciero PJ, Edmonds R, He F, Ward E, Gumpricht E, Mohr A, Ormsbee MJ,
+ PA, Ockene IS. Association Between Eating Patterns And Obesity In A Free-             Astrup A. Protein-Pacing Caloric-Restriction Enhances Body Composition
+ Living Us Adult Population. Am J Epidemiol. 2003;158(1):85–92.                        Similarly In Obese Men And Women During Weight Loss And Sustains
+137. Jakubowicz D, Barnea M, Wainstein J, Froy O. High Caloric Intake At               Efficacy During Long-Term Weight Maintenance. Nutrients. 2016;8(8):E476.
+ Breakfast Vs. Dinner Differentially Influences Weight Loss Of Overweight             159. Millward DJ. A Protein-Stat Mechanism For Regulation Of Growth And
+ And Obese Women. Obesity (Silver Spring). 2013;21(12):2504–12.                        Maintenance Of The Lean Body Mass. Nutr Res Rev. 1995;8(1):93–120.
+138. Fabry P, Hejl Z, Fodor J, Braun T, Zvolankova K. The Frequency Of Meals. Its     160. Atherton PJ, Etheridge T, Watt PW, Wilkinson D, Selby A, Rankin D, Smith K,
+ Relation To Overweight, Hypercholesterolaemia, And Decreased Glucose-                 Rennie MJ. Muscle Full Effect After Oral Protein: Time-Dependent
+ Tolerance. Lancet. 1964;2(7360):614–5.                                                Concordance And Discordance Between Human Muscle Protein Synthesis
+139. Hejda S, Fabry P. Frequency Of Food Intake In Relation To Some Parameters         And Mtorc1 Signaling. Am J Clin Nutr. 2010;92(5):1080–8.
+ Of The Nutritional Status. Nutr Dieta Eur Rev Nutr Diet. 1964;64:216–28.             161. Atherton PJ, Smith K. Muscle Protein Synthesis In Response To Nutrition
+140. Metzner HL, Lamphiear DE, Wheeler NC, Larkin FA. The Relationship                 And Exercise. J Physiol. 2012;590(5):1049–57.
+ Between Frequency Of Eating And Adiposity In Adult Men And Women In                  162. Baron KG, Reid KJ, Kern AS, Zee PC. Role Of Sleep Timing In Caloric Intake
+ The Tecumseh Community Health Study. Am J Clin Nutr. 1977;30(5):712–5.                And Bmi. Obesity (Silver Spring). 2011;19(7):1374–81.
+
+---
+
+Kerksick et al. Journal of the International Society of Sports Nutrition (2017) 14:33     Page 21 of 21
+
+
+
+
+
+
+163. Ormsbee MJ, Gorman KA, Miller EA, Baur DA, Eckel LA, Contreras RJ, Panton
+ LB, Spicer MT. Nighttime Feeding Likely Alters Morning Metabolism But Not
+ Exercise Performance In Female Athletes. Appl Physiol Nutr Metab. 2016;
+ 41(7):719–27.
+164. Zwaan M, Burgard MA, Schenck CH, Mitchell JE. Night Time Eating: A
+ Review Of The Literature. Eur Eat Disord Rev. 2003;11:7–24.
+165. Kinsey AW, Ormsbee MJ. The Health Impact Of Nighttime Eating: Old And
+ New Perspectives. Nutrients. 2015;7(4):2648–62.
+166. Trommelen J, Van Loon LJ. Pre-Sleep Protein Ingestion To Improve The
+ Skeletal Muscle Adaptive Response To Exercise Training. Nutrients. 2016;
+ 8(12):E763.
+167. Res P, Groen B, Pennings B, Beelen M, Wallis GA, Gijsen AP, Senden JM, Vanl
+ LJ. Protein Ingestion Before Sleep Improves Postexercise Overnight
+ Recovery. Med Sci Sports Exerc. 2012;44(8):1560–9.
+168. Groen BB, Res PT, Pennings B, Hertle E, Senden JM, Saris WH, Van Loon LJ.
+ Intragastric Protein Administration Stimulates Overnight Muscle Protein
+ Synthesis In Elderly Men. Am J Physiol Endocrinol Metab. 2012;302(1):E52–60.
+169. Madzima TA, Panton LB, Fretti SK, Kinsey AW, Ormsbee MJ. Night-Time
+ Consumption Of Protein Or Carbohydrate Results In Increased Morning
+ Resting Energy Expenditure In Active College-Aged Men. Br J Nutr. 2014;
+ 111(1):71–7.
+170. Kinsey AW, Eddy WR, Madzima TA, Panton LB, Arciero PJ, Kim JS, Ormsbee
+ MJ. Influence Of Night-Time Protein And Carbohydrate Intake On Appetite
+ And Cardiometabolic Risk In Sedentary Overweight And Obese Women. Br
+ J Nutr. 2014;112(3):320–7.
+171. Kinsey AW, Cappadona SR, Panton LB, Allman BR, Contreras RJ, Hickner RC,
+ Ormsbee MJ. The Effect Of Casein Protein Prior To Sleep On Fat Metabolism
+ In Obese Men. Nutrients. 2016;8(8):E452.
+172. Ormsbee MJ, Kinsey AW, Eddy WR, Madzima TA, Arciero PJ, Figueroa A,
+ Panton LB. The Influence Of Nighttime Feeding Of Carbohydrate Or Protein
+ Combined With Exercise Training On Appetite And Cardiometabolic Risk In
+ Young Obese Women. Appl Physiol Nutr Metab. 2015;40(1):37–45.
+173. Figueroa A, Wong A, Kinsey A, Kalfon R, Eddy W, Ormsbee MJ. Effects Of
+ Milk Proteins And Combined Exercise Training On Aortic Hemodynamics
+ And Arterial Stiffness In Young Obese Women With High Blood Pressure.
+ Am J Hypertens. 2014;27(3):338–44.
+174. Snijders T, Res P, Smeets JS, Van Vliet S, Van Kranenburg J, Maase K, Kies AK,
+ Verdijk LB, Van Loon LJ. Protein Ingestion Before Sleep Increases Muscle
+ Mass And Strength Gains During Prolonged Resistance-Type Exercise
+ Training In Healthy Young Men. J Nutr. 2015;145(6):1178–84.
+175. Antonio J, Ellerbroek A, Peacock C, Silver T. Casein Protein Supplementation
+ In Trained Men And Women: Morning Versus Evening. Int J Exerc Sci. 2017;
+ 10(3):479–86.
+
+
+
+
+
+
+
+
+
+
+Submit your next manuscript to BioMed Central
+and we will help you at every step:
+
+ •  We accept pre-submission inquiries
+ •  Our selector tool helps you to find the most relevant journal
+ • We provide round the clock customer support
+ • Convenient online submission
+ •  Thorough peer review
+ • Inclusion in PubMed and all major indexing services
+ •  Maximum visibility for your research
+
+ Submit your manuscript at              BioMed Central
+ www.biomedcentral.com/submit

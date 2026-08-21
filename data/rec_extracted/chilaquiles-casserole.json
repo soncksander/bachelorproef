@@ -1,0 +1,110 @@
+{
+  "title": "Chilaquiles Casserole",
+  "description": "A baked casserole version of chilaquiles with vegetables, beans, tortillas, and cheese.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Mexican",
+    "main_ingredients": [
+      "black beans",
+      "tortillas",
+      "cheese"
+    ],
+    "additional_tags": null
+  },
+  "servings": 10.0,
+  "prep_time": "25",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "onion",
+      "quantity": "1",
+      "unit": "medium",
+      "preparation": "diced"
+    },
+    {
+      "name": "zucchini",
+      "quantity": "1",
+      "unit": "medium",
+      "preparation": "grated"
+    },
+    {
+      "name": "black beans",
+      "quantity": "1",
+      "unit": "19oz. can",
+      "preparation": "rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1",
+      "unit": "14oz can",
+      "preparation": "drained"
+    },
+    {
+      "name": "corn",
+      "quantity": "1 \u00bd",
+      "unit": "cups",
+      "preparation": "frozen (thawed) or fresh"
+    },
+    {
+      "name": "ground cumin",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "\u00bd",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "corn tortillas",
+      "quantity": "12",
+      "unit": null,
+      "preparation": "quartered"
+    },
+    {
+      "name": "whole-wheat tortillas",
+      "quantity": "3-4",
+      "unit": null,
+      "preparation": "quartered"
+    },
+    {
+      "name": "mild red or green enchilada sauce",
+      "quantity": "1",
+      "unit": "19oz can",
+      "preparation": null
+    },
+    {
+      "name": "shredded reduced-fat Cheddar cheese",
+      "quantity": "1 \u00bc",
+      "unit": "cups",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Preheat oven to 400\u00b0F. Lightly coat a 9 x 13\u201d baking pan with cooking spray or similar."
+    },
+    {
+      "step_number": 2,
+      "text": "Pan: Heat oil in over medium-high heat. Add onion, stir often until start to brown (~ 5 min.). Stir in zucchini, beans, tomatoes, corn, cumin and salt and cook. Stir occasionally, until the vegetables are heated through (~3 min)."
+    },
+    {
+      "step_number": 3,
+      "text": "Scatter half the tortilla pieces in the pan. Top with half the vegetable mixture, half the enchilada sauce and half the cheese. Repeat with one more layer of tortillas, vegetables, sauce and cheese. Cover with foil."
+    },
+    {
+      "step_number": 4,
+      "text": "Bake for 15 min. with foil. Remove foil and continue baking until the casserole is bubbling around the edges and the cheese is melted (~ 10 min)."
+    }
+  ]
+}

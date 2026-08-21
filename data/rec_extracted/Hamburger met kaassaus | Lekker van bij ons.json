@@ -1,0 +1,123 @@
+{
+  "title": "Hamburger with cheese sauce and fried bacon",
+  "description": "Comfort food with an upgrade: juicy burgers, crispy bacon with a touch of honey, and a creamy cheese sauce that brings everything together. Made with good organic ingredients for great taste in every bite.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "hamburger (beef)",
+      "cheese",
+      "bacon"
+    ],
+    "additional_tags": [
+      "comfort food",
+      "cheese",
+      "bacon",
+      "burger"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "35 min",
+  "difficulty": "Medium",
+  "ingredients": [
+    {
+      "name": "milk",
+      "quantity": "500",
+      "unit": "ml",
+      "preparation": null
+    },
+    {
+      "name": "flour",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": "50",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "mature organic cheese (grated)",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": "grated"
+    },
+    {
+      "name": "hamburgers (beef)",
+      "quantity": "4",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salted bacon slices",
+      "quantity": "8",
+      "unit": "slices",
+      "preparation": null
+    },
+    {
+      "name": "honey",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "brioche buns",
+      "quantity": "4",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "arugula",
+      "quantity": "50",
+      "unit": "g",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Melt the butter and add the flour. Stir to make a roux and let it cook briefly. Gradually add the milk while stirring until you have a smooth sauce. Let it cook for a while."
+    },
+    {
+      "step_number": 2,
+      "text": "Remove the sauce from the heat and stir in the grated cheese until it is completely melted. Season with pepper and salt and set aside."
+    },
+    {
+      "step_number": 3,
+      "text": "Fry the bacon slices in a pan until crispy. Add the honey at the end and let it cook briefly. Remove from the pan and drain on kitchen paper."
+    },
+    {
+      "step_number": 4,
+      "text": "Fry the hamburgers in a pan with some butter until golden brown and cooked through on both sides. Season with pepper and salt."
+    },
+    {
+      "step_number": 5,
+      "text": "Halve the buns and spread the cut sides with some butter. Toast them briefly in a pan or grill pan."
+    },
+    {
+      "step_number": 6,
+      "text": "Top the bottom halves of the buns with arugula. Place a hamburger on top and spoon over some cheese sauce. Divide the bacon slices over it and optionally finish with a little extra honey and arugula."
+    }
+  ]
+}

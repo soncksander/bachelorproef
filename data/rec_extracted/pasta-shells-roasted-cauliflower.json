@@ -1,0 +1,98 @@
+{
+  "title": "Pasta Shells with Roasted Cauliflower, Chickpeas and Ricotta",
+  "description": "A hearty pasta dish featuring roasted cauliflower, chickpeas, and ricotta cheese, topped with homemade croutons.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "pasta",
+      "cauliflower",
+      "chickpeas"
+    ],
+    "additional_tags": [
+      "vegetarian",
+      "high protein",
+      "whole grain"
+    ]
+  },
+  "servings": 6.0,
+  "prep_time": "25",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "\u00bc cup, plus a little extra for serving",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "cauliflower",
+      "quantity": "1 head (~ 2 lbs)",
+      "unit": null,
+      "preparation": "cut into florets"
+    },
+    {
+      "name": "canned chickpeas",
+      "quantity": "1 (15.5 oz)",
+      "unit": null,
+      "preparation": "rinsed and drained"
+    },
+    {
+      "name": "bread (whole wheat, spelt etc.)",
+      "quantity": "4 slices",
+      "unit": null,
+      "preparation": "cut into \u00bd inch pieces to make your own croutons"
+    },
+    {
+      "name": "whole wheat pasta shells or similar (elbow, rigatoni or penne work well)",
+      "quantity": "4 cups (1 lb)",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "fresh parsley",
+      "quantity": "3 tbsp",
+      "unit": null,
+      "preparation": "chopped"
+    },
+    {
+      "name": "ricotta made with part-skim cheese",
+      "quantity": "\u00bd cup",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt and pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Preheat oven to 425 F with rack in upper and lower 3rd."
+    },
+    {
+      "step_number": 2,
+      "text": "Rimmed baking sheet: Toss 2 tbsp oil, cauliflower, chickpeas, salt and pepper. Arrange in layer and roast until cauliflower is tender and chickpeas are crunchy (~25 min)."
+    },
+    {
+      "step_number": 3,
+      "text": "Second rimmed baking sheet: arrange bread in single layer and toast until crisp (~10 min)."
+    },
+    {
+      "step_number": 4,
+      "text": "Pot: while waiting for steps 2 and 3 boil large pot of water and cook pasta. Add dash of salt and tbsp of olive oil in pasta water."
+    },
+    {
+      "step_number": 5,
+      "text": "Drain pasta and mix cauliflower mixture, 2 tbsp oil and parsley."
+    },
+    {
+      "step_number": 6,
+      "text": "Season with salt, pepper, and top with croutons and ricotta. You can drizzle with a little extra olive oil if you want."
+    }
+  ]
+}

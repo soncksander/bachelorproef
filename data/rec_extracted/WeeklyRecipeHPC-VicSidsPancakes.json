@@ -1,0 +1,71 @@
+{
+  "title": "Sid\u2019s High Protein Pancake",
+  "description": "One of the easiest pancake recipes you will ever make and one of the tastiest you will eat. A great source of both high quality protein and carbohydrate: perfect for fueling and recovery.",
+  "category": "breakfast",
+  "tags": {
+    "meal_type": "breakfast",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "oats",
+      "eggs",
+      "cottage cheese"
+    ],
+    "additional_tags": [
+      "high protein",
+      "pancake",
+      "fueling",
+      "recovery"
+    ]
+  },
+  "servings": 0.0,
+  "prep_time": "",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "old fashioned rolled oats",
+      "quantity": "250 ml/1 cup",
+      "unit": null,
+      "preparation": "dry"
+    },
+    {
+      "name": "eggs",
+      "quantity": "5",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "1% cottage cheese",
+      "quantity": "250 ml/1 cup",
+      "unit": null,
+      "preparation": "heaping"
+    },
+    {
+      "name": "ripe banana",
+      "quantity": "1 medium",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "4 tsp./20ml",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "vanilla or cinnamon",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Combine all ingredients in a blender and blend until thoroughally mixed."
+    },
+    {
+      "step_number": 2,
+      "text": "Heat pan/griddle and cook as you would regular pancakes flipping when the surface of the pancake bubbles."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Smoothie of apple, cucumber, spinach and banana",
+  "description": "Do you need a boost in the morning? This smoothie of apple, cucumber, and banana gives you the energy you need to get through the morning without a dip.",
+  "category": "Drinks",
+  "tags": {
+    "meal_type": "breakfast",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "apple",
+      "cucumber",
+      "banana"
+    ],
+    "additional_tags": [
+      "smoothie",
+      "drink",
+      "vegetarian"
+    ]
+  },
+  "servings": 2.0,
+  "prep_time": "20 min",
+  "difficulty": "Easy",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "quantity": "50",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "mint",
+      "quantity": "5",
+      "unit": "leaves",
+      "preparation": null
+    },
+    {
+      "name": "banana",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "apple",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "water",
+      "quantity": "1",
+      "unit": "glass",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Put the rinsed spinach with the pieces of banana, apple, mint, and cucumber in a blender."
+    },
+    {
+      "step_number": 2,
+      "text": "Blend together with half a glass of water until smooth."
+    },
+    {
+      "step_number": 3,
+      "text": "Add water until the desired consistency is reached."
+    }
+  ]
+}

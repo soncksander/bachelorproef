@@ -1,0 +1,137 @@
+{
+  "title": "Pasta vongole with whiting",
+  "description": "A classic from the Italian coastal cuisine with a North Sea twist. Vongole, whiting, and a touch of chili provide a light pasta full of flavor. Ideal for those who love pure ingredients and fish as the main feature.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Italian",
+    "main_ingredients": [
+      "vongole (venus clams)",
+      "whiting",
+      "spaghetti"
+    ],
+    "additional_tags": [
+      "fish",
+      "seafood",
+      "easy",
+      "pasta"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "30 min",
+  "difficulty": "easy",
+  "ingredients": [
+    {
+      "name": "vongole (venus clams)",
+      "quantity": "1000",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "spaghetti",
+      "quantity": "400",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "shallot",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "red chili pepper",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "flaked almonds",
+      "quantity": "30",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "turmeric",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "white wine",
+      "quantity": "200",
+      "unit": "ml",
+      "preparation": null
+    },
+    {
+      "name": "whiting fillets",
+      "quantity": "400",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "fresh coriander or parsley",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Rinse the vongole thoroughly under cold water and remove damaged or open ones that do not close when tapped."
+    },
+    {
+      "step_number": 2,
+      "text": "Cook the spaghetti according to the instructions on the package."
+    },
+    {
+      "step_number": 3,
+      "text": "Finely chop the shallot and cut the chili pepper into thin rings. Toast the flaked almonds in a dry frying pan until golden brown, then let cool."
+    },
+    {
+      "step_number": 4,
+      "text": "Heat a generous splash of olive oil in a pan and saut\u00e9 the shallot, chili pepper, and pressed garlic. Add the vongole and season with a pinch of turmeric, pepper, and salt."
+    },
+    {
+      "step_number": 5,
+      "text": "Deglaze with the white wine, cover the pan, and let the vongole open over high heat."
+    },
+    {
+      "step_number": 6,
+      "text": "Add the cooked spaghetti and mix well with the vongole."
+    },
+    {
+      "step_number": 7,
+      "text": "Meanwhile, season the whiting fillets with pepper and salt. Fry them in a splash of olive oil for 2 to 3 minutes per side until golden brown and cooked through."
+    },
+    {
+      "step_number": 8,
+      "text": "Divide the pasta among the plates. Place a whiting fillet on each and finish with the toasted flaked almonds and coriander, and serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "title": "Steenbolk with hazelnut crumble, butternut and potatoes",
+  "description": "Steenbolk is a fish with a soft, delicate flavor that pairs perfectly with a crunchy hazelnut crumble, while butternut and potatoes provide an autumnal base. An easy dish that highlights pure flavors.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Belgian",
+    "main_ingredients": [
+      "steenbolk",
+      "butternut",
+      "potatoes"
+    ],
+    "additional_tags": [
+      "fish",
+      "autumn",
+      "oven",
+      "crumble"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "35 min",
+  "difficulty": "Medium",
+  "ingredients": [
+    {
+      "name": "steenbolkfilets",
+      "quantity": "600",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "waxy potatoes",
+      "quantity": "350",
+      "unit": "g",
+      "preparation": "diced"
+    },
+    {
+      "name": "butternut",
+      "quantity": "350",
+      "unit": "g",
+      "preparation": "diced"
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "bay leaf",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "thyme sprig",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "bouillon cube",
+      "quantity": "0.5",
+      "unit": "cube",
+      "preparation": null
+    },
+    {
+      "name": "sage",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "arugula",
+      "quantity": "50",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "flat-leaf parsley",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "thyme leaves",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "sage",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "hazelnuts",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "chopped"
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "room temperature"
+    },
+    {
+      "name": "aged cheese",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "grated"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Breng een ruime pot water met het bouillonblokje aan de kook. Kook de aardappel- en butternutblokjes 4 minuten beetgaar. Giet af en laat goed uitlekken."
+    },
+    {
+      "step_number": 2,
+      "text": "Meng de peterselie, tijm, salie, hazelnoten, geraspte kaas en de geperste knoflook. Voeg de zachte boter toe en meng tot een kruimelig geheel."
+    },
+    {
+      "step_number": 3,
+      "text": "Verwarm de oven voor op 180 \u00b0C."
+    },
+    {
+      "step_number": 4,
+      "text": "Leg de steenbolkfilets op een met bakpapier beklede bakplaat en kruid met peper en zout. Verdeel de crumble over de vis."
+    },
+    {
+      "step_number": 5,
+      "text": "Bak de steenbolk 10 \u00e0 12 minuten in de oven, tot de vis gaar is en de crumble mooi goudbruin kleurt."
+    },
+    {
+      "step_number": 6,
+      "text": "Snipper de rode ui fijn. Rits de blaadjes van de tijm."
+    },
+    {
+      "step_number": 7,
+      "text": "Smelt een klontje boter in een ruime pan en stoof de rode ui samen met de knoflook, de tijm en het laurierblaadje glazig. Voeg de voorgekookte aardappel- en butternutblokjes toe en bak ze enkele minuten goudbruin. Roer de fijngehakte salie erdoor en kruid met peper en zout."
+    },
+    {
+      "step_number": 8,
+      "text": "Verdeel de groenten over de borden. Leg er de steenbolkfilets op en werk af met de rucola."
+    }
+  ]
+}

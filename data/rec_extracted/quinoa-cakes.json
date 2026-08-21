@@ -1,0 +1,98 @@
+{
+  "title": "Quinoa Pancakes",
+  "description": "",
+  "category": "breakfast",
+  "tags": {
+    "meal_type": "breakfast",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "quinoa",
+      "whole-wheat flour",
+      "egg"
+    ],
+    "additional_tags": null
+  },
+  "servings": 4.0,
+  "prep_time": "15",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "cooked quinoa (or brown rice)",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "whole-wheat flour",
+      "quantity": "\u00be",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "\u00bd",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "large egg",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "large egg white",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": "melted"
+    },
+    {
+      "name": "milk",
+      "quantity": "\u00be",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "maple syrup, agave or honey",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "yogurt, fruit, cottage cheese, pumpkin puree, applesauce",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Bowl #1: whisk together quinoa, flour, baking powder and salt."
+    },
+    {
+      "step_number": 2,
+      "text": "Bowl #2: whisk together egg, egg whites, butter, milk and syrup (or similar)."
+    },
+    {
+      "step_number": 3,
+      "text": "Whisk wet and dry mixtures together until fully combine."
+    },
+    {
+      "step_number": 4,
+      "text": "Skillet or pan: Lightly coat with cooking spray or butter. Drop batter by heaping tablespoons full. Cook until batter bubbles across the to then flip. Should be golden brown on each side."
+    }
+  ]
+}

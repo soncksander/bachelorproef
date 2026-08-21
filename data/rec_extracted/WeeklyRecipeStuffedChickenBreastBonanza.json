@@ -1,0 +1,92 @@
+{
+  "title": "Stuffed Chicken Breast Bonanza",
+  "description": "Extremely versatile, chicken breasts are protein rich and easily batch cooked. Make extra each week to slice for sandwiches, add to salads, pasta or grain bowls or cubed for a perfect pre-bed protein snack. Adding anti-inflammatory spices, herbs and veggies increase overall nutrition and flavour for a great meal supporting your training and recovery.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "chicken breast",
+      "goat cheese",
+      "arugula"
+    ],
+    "additional_tags": null
+  },
+  "servings": 4.0,
+  "prep_time": "",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "quantity": "4",
+      "unit": "large",
+      "preparation": "boneless, skinless"
+    },
+    {
+      "name": "garlic powder or garlic cloves",
+      "quantity": "\u00bd tsp or 1 \u2013 2",
+      "unit": "tsp (for powder), cloves (for garlic)",
+      "preparation": "garlic cloves minced"
+    },
+    {
+      "name": "sundried tomato",
+      "quantity": "12",
+      "unit": null,
+      "preparation": "oil packed, drained"
+    },
+    {
+      "name": "arugula or other favourite green",
+      "quantity": "2",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "goat cheese (ch\u00e8vre or feta)",
+      "quantity": "100",
+      "unit": "grams",
+      "preparation": null
+    },
+    {
+      "name": "sea salt and fresh ground pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    },
+    {
+      "name": "extra virgin olive oil (EVOO)",
+      "quantity": "2",
+      "unit": "Tbsp.",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Line a baking sheet with parchment"
+    },
+    {
+      "step_number": 2,
+      "text": "With a sharp knife cut a deep horizontal slit through thickest part of the breast but do not cut all the way through (see picture)"
+    },
+    {
+      "step_number": 3,
+      "text": "Open and season with garlic, salt and pepper to taste"
+    },
+    {
+      "step_number": 4,
+      "text": "Stuff the rest of ingredients into the breast (divided between the 4 breasts). Press the chicken breast back together to hold the filling inside"
+    },
+    {
+      "step_number": 5,
+      "text": "Pre-heat oven to 327 degrees F"
+    },
+    {
+      "step_number": 6,
+      "text": "Heat oil in a skillet on medium high and carefully sear each breast until lightly golden (~2 min/side)"
+    },
+    {
+      "step_number": 7,
+      "text": "Set chicken on baking sheet into oven for approximately 20 minutes (do not overcook)"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+Canadian Sport Centre Pacific PERFORMANCE RECIPE APPROVED BY CSC PACIFIC SPORT DIETITIANS
+
+# Pasta Shells with Roasted Cauliflower, Chickpeas and Ricotta
+
+Photograph of the pasta dish
+
+**Ingredients:**
+
+* ¼ cup olive oil, plus a little extra for serving
+* 1 head cauliflower (~ 2 lbs), cut into florets
+* 1 (15.5 oz) canned chickpeas, rinsed and drained
+* 4 slices bread (whole wheat, spelt etc.) cut into ½ inch pieces to make your own croutons
+* 4 cups (1 lb) whole wheat pasta shells or similar (elbow, rigatoni or penne work well)
+* 3 tbsp fresh parsley, chopped
+* ½ cup ricotta made with part-skim cheese
+* Salt and pepper to taste
+
+**Making it:**
+
+1. Preheat oven to 425 F with rack in upper and lower 3<sup>rd</sup>.
+
+2. Rimmed baking sheet: Toss 2 tbsp oil, cauliflower, chickpeas, salt and pepper. Arrange in layer and roast until cauliflower is tender and chickpeas are crunchy (~25 min).
+
+3. Second rimmed baking sheet: arrange bread in single layer and toast until crisp (~10 min).
+
+4. Pot: while waiting for steps 2 and 3 boil large pot of water and cook pasta. Add dash of salt and tbsp of olive oil in pasta water.
+
+5. Drain pasta and mix cauliflower mixture, 2 tbsp oil and parsley.
+
+6. Season with salt, pepper, and top with croutons and ricotta. You can drizzle with a little extra olive oil if you want.
+
+**Tips and Hints:**
+* If you cannot find any whole wheat or similar pasts shells you can use any whole wheat pasta shapes such as penne.
+* To increase protein you can mix cooked chicken breast and the flavour will not change much.
+* Making croutons is a great way to use up bread that is past just past expiry date.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">NUTRITION FACTS</th>
+    </tr>
+<tr>
+        <th colspan="2">Servings: 6</th>
+    </tr>
+<tr>
+        <th colspan="2">Serving Size: ~1.25 cup</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Total Calories</strong></td>
+<td><strong>556</strong></td>
+    </tr>
+<tr>
+        <td>Carbohydrate</td>
+<td>92 g</td>
+    </tr>
+<tr>
+        <td>Total Fat</td>
+<td>14 g</td>
+    </tr>
+<tr>
+        <td>Protein</td>
+<td>21 g</td>
+    </tr>
+<tr>
+        <td>Fiber</td>
+<td>12 g</td>
+    </tr>
+<tr>
+        <td> </td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Prep Time: 25</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Cook Time: 35</td>
+<td> </td>
+    </tr>
+  </tbody>
+</table>
+

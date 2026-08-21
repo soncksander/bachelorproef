@@ -1,0 +1,126 @@
+{
+  "title": "Fish papillote with spinach and fennel",
+  "description": "Plaice is a fine North Sea fish that is perfect for cooking in a papillote. Together with spinach, fennel, and a fragrant herb oil, the fish steams in its own juices, keeping it deliciously juicy. Simple, healthy, and full of pure flavors.",
+  "category": "side dish",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Belgian",
+    "main_ingredients": [
+      "plaice",
+      "spinach",
+      "fennel"
+    ],
+    "additional_tags": [
+      "oven",
+      "healthy",
+      "fish",
+      "herb oil",
+      "papillote"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "35 min",
+  "difficulty": "Easy",
+  "ingredients": [
+    {
+      "name": "plaice fillets",
+      "quantity": "600",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "fennel",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "spinach",
+      "quantity": "250",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "basil",
+      "quantity": "4",
+      "unit": "tbsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "sunflower seeds",
+      "quantity": "4",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Cut the fennel into thin strips. Blanch them for 4 minutes in salted water and drain well."
+    },
+    {
+      "step_number": 2,
+      "text": "Blanch the spinach for 1 minute in the same cooking water. Drain, let it drain well, and press out as much moisture as possible."
+    },
+    {
+      "step_number": 3,
+      "text": "Mix the basil with the finely chopped garlic and the sunflower seeds. Add a generous splash of olive oil and season with pepper and salt."
+    },
+    {
+      "step_number": 4,
+      "text": "Preheat the oven to 180\u00b0C."
+    },
+    {
+      "step_number": 5,
+      "text": "Cut four large sheets of baking paper. Divide the spinach over the center of each sheet and place the fennel on top. Season the plaice fillets with pepper and salt and place them on the vegetables. Spoon some of the herb oil over each."
+    },
+    {
+      "step_number": 6,
+      "text": "Fold the papillotes tightly so that steam cannot escape during baking."
+    },
+    {
+      "step_number": 7,
+      "text": "Place the papillotes on a baking tray and bake them for 12 minutes in the oven."
+    },
+    {
+      "step_number": 8,
+      "text": "Serve immediately, optionally with boiled potatoes or crusty bread."
+    }
+  ]
+}

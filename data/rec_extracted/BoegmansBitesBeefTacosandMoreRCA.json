@@ -1,0 +1,150 @@
+{
+  "title": "Beef Tacos",
+  "description": "Ground beef tacos that are versatile and can be repurposed into other meals with minimal additional ingredients.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Mexican",
+    "main_ingredients": [
+      "ground beef",
+      "onion",
+      "taco shells"
+    ],
+    "additional_tags": [
+      "easy",
+      "versatile",
+      "leftovers"
+    ]
+  },
+  "servings": 0.0,
+  "prep_time": "",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "1",
+      "unit": "Tbsp.",
+      "preparation": null
+    },
+    {
+      "name": "yellow onion",
+      "quantity": "1/2 large or 1 medium",
+      "unit": null,
+      "preparation": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "3 or 4",
+      "unit": null,
+      "preparation": "finely diced"
+    },
+    {
+      "name": "ground beef",
+      "quantity": "1",
+      "unit": "kg",
+      "preparation": null
+    },
+    {
+      "name": "chili powder",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "ground cumin",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "paprika",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "preparation": "good quality"
+    },
+    {
+      "name": "crushed red pepper",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    },
+    {
+      "name": "flour or hard corn taco shells",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "grated cheese",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "diced tomato",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "shredded lettuce or cabbage",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "avocado",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "fresh cilantro",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Gently heat olive oil"
+    },
+    {
+      "step_number": 2,
+      "text": "Cook onions until soft and starting to carmelize"
+    },
+    {
+      "step_number": 3,
+      "text": "Add garlic, cook another 1 - 2 minutes being careful not to burn"
+    },
+    {
+      "step_number": 4,
+      "text": "Add ground beef breaking it up as it cooks."
+    },
+    {
+      "step_number": 5,
+      "text": "Once no longer pink drain extra fat and then add all of the spices."
+    },
+    {
+      "step_number": 6,
+      "text": "Adjust seasonings to taste"
+    },
+    {
+      "step_number": 7,
+      "text": "You may want to double the amounts listed and serve in tortilla / taco shell with the fixings as desired."
+    }
+  ]
+}

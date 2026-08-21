@@ -1,0 +1,110 @@
+{
+  "title": "Whole Wheat Pasta with Chickpeas and Escarole",
+  "description": "A nutritious whole wheat pasta dish with chickpeas and escarole, designed for performance and approved by sport dietitians.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Italian",
+    "main_ingredients": [
+      "whole-grain penne",
+      "chickpeas",
+      "escarole"
+    ],
+    "additional_tags": [
+      "vegetarian",
+      "high-protein",
+      "healthy"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "5",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "whole-grain penne",
+      "quantity": "2",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "escarole",
+      "quantity": "1",
+      "unit": "head",
+      "preparation": "roughly chopped"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "quantity": "4",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "capers",
+      "quantity": "1/4",
+      "unit": "cup",
+      "preparation": "drained and patted dry (optional)"
+    },
+    {
+      "name": "garlic",
+      "quantity": "5",
+      "unit": "cloves",
+      "preparation": "sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": "roughly chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "whole peeled tomatoes",
+      "quantity": "1 (28 oz.) can",
+      "unit": null,
+      "preparation": "crushed slightly, liquid reserved"
+    },
+    {
+      "name": "chickpeas",
+      "quantity": "1 (15.5 oz.) can",
+      "unit": null,
+      "preparation": "drained, rinsed and patted dry"
+    },
+    {
+      "name": "bay leaves",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "freshly grated parmesan cheese",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "salt and pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Cook the pasta according to the package directions; add the escarole during the last 2 minutes, cover and do not stir. Remove the escarole with tongs; set aside. Drain the pasta, reserving 1/2 cup cooking liquid. Meanwhile, if you're using capers, heat 1 tablespoon olive oil in a large skillet over medium-high heat. Add the capers and fry until crisp, about 2 minutes. Transfer to a paper-towel lined plate."
+    },
+    {
+      "step_number": 2,
+      "text": "Add the remaining 3 tablespoons oil to the skillet. Cook the garlic, parsley and red pepper flakes until the garlic toasts slightly, 1 minute. Add the tomatoes, chickpeas, a pinch of salt and the bay leaves. Cook until the tomatoes and chickpeas brown, about 6 minutes. Add the escarole and reserved tomato juice and cook until the sauce thickens slightly, about 4 more minutes. Remove and discard the bay leaves."
+    },
+    {
+      "step_number": 3,
+      "text": "Add the cooked pasta to the skillet and toss with the sauce; season with salt and pepper. (If the sauce is thick, add some reserved pasta water.) Stir in the cheese and top with fried capers, if using, and more cheese."
+    }
+  ]
+}

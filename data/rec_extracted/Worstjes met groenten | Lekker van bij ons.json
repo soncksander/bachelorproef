@@ -1,0 +1,94 @@
+{
+  "title": "Oven-baked sausages with vegetables",
+  "description": "These oven-baked meat sausages are full of flavor and secretly hide extra vegetables. Ideal for children and adults. Serve them with applesauce and ketchup.",
+  "category": "side dish",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "mixed minced meat",
+      "zucchini",
+      "carrot"
+    ],
+    "additional_tags": null
+  },
+  "servings": 4.0,
+  "prep_time": "50 min",
+  "difficulty": "Easy",
+  "ingredients": [
+    {
+      "name": "mixed minced meat",
+      "quantity": "500",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "zucchini",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "grated"
+    },
+    {
+      "name": "carrot",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "grated"
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "75",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "breadcrumbs",
+      "quantity": "3",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Preheat the oven to 180\u00b0C."
+    },
+    {
+      "step_number": 2,
+      "text": "Place the grated zucchini in a clean tea towel or kitchen towel and squeeze out as much moisture as possible from the grated zucchini."
+    },
+    {
+      "step_number": 3,
+      "text": "Mix the minced meat with the zucchini, carrot, grated cheese, breadcrumbs, and egg. Season with pepper and salt and mix everything well together."
+    },
+    {
+      "step_number": 4,
+      "text": "Divide the mixture into 8 equal portions and roll them into firm sausages. Optionally, insert an ice cream stick into each sausage."
+    },
+    {
+      "step_number": 5,
+      "text": "Place the meat sausages on a baking tray lined with baking paper and bake them for 20 to 25 minutes in the oven, until they are golden brown and cooked through."
+    },
+    {
+      "step_number": 6,
+      "text": "Serve with applesauce and ketchup."
+    }
+  ]
+}

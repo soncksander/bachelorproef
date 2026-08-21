@@ -1,0 +1,108 @@
+{
+  "title": "Pancakes with blueberries, raspberries & honey",
+  "description": "Pancakes for breakfast with local blueberries, raspberries, and honey.",
+  "category": "breakfast",
+  "tags": {
+    "meal_type": "breakfast",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "flour",
+      "blueberries",
+      "eggs"
+    ],
+    "additional_tags": [
+      "vegetarian",
+      "sweet",
+      "easy"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "25 min",
+  "difficulty": "easy",
+  "ingredients": [
+    {
+      "name": "flour",
+      "quantity": "225",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "4",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "0.50",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "caster sugar",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "unit": null,
+      "preparation": "beaten"
+    },
+    {
+      "name": "butter",
+      "quantity": "25",
+      "unit": "g",
+      "preparation": "melted"
+    },
+    {
+      "name": "milk",
+      "quantity": "300",
+      "unit": "ml",
+      "preparation": null
+    },
+    {
+      "name": "frying butter",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "blueberries",
+      "quantity": "150",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "raspberries",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Mix the flour with the baking powder, sugar and salt in a bowl or with a stand mixer."
+    },
+    {
+      "step_number": 2,
+      "text": "First add the melted butter and the beaten eggs. Then add the milk and whisk until you have a light batter."
+    },
+    {
+      "step_number": 3,
+      "text": "Bake pancakes about 8 to 10 cm in diameter in a pan with some butter. Once the bubbles open and the batter becomes drier, you can bake the other side for another half a minute."
+    },
+    {
+      "step_number": 4,
+      "text": "Bake all the pancakes this way, serve with the blueberries, some raspberries and honey."
+    }
+  ]
+}

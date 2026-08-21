@@ -1,0 +1,114 @@
+{
+  "title": "Green Onion and Coconut Chick Pea Curry",
+  "description": "A nutritious chickpea curry with green onion and coconut milk, inspired by Vancouver's Vij's restaurant. Chickpeas provide protein, fiber, and minerals, making this dish healthy and satisfying.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Indian",
+    "main_ingredients": [
+      "chickpeas",
+      "coconut milk",
+      "green onions"
+    ],
+    "additional_tags": [
+      "vegetarian",
+      "vegan",
+      "high protein",
+      "high fiber",
+      "gluten-free"
+    ]
+  },
+  "servings": 0.0,
+  "prep_time": "",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "cumin seeds",
+      "quantity": "1",
+      "unit": "tbsp.",
+      "preparation": null
+    },
+    {
+      "name": "onions",
+      "quantity": "1 1/2",
+      "unit": "cups",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1.5 cups/1 can",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1 - 1 1/2",
+      "unit": "tsp.",
+      "preparation": "good quality or to taste"
+    },
+    {
+      "name": "ginger",
+      "quantity": "5",
+      "unit": "tbsp.",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "jalapeno peppers",
+      "quantity": "4",
+      "unit": "tbsp.",
+      "preparation": "finely chopped (or to taste)"
+    },
+    {
+      "name": "chickpeas",
+      "quantity": "3 (15 or 16 oz.) cans",
+      "unit": null,
+      "preparation": "drained"
+    },
+    {
+      "name": "coconut milk",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": "stirred"
+    },
+    {
+      "name": "green onions",
+      "quantity": "1",
+      "unit": "bunch",
+      "preparation": "sliced (green parts only)"
+    },
+    {
+      "name": "fresh cilantro",
+      "quantity": null,
+      "unit": null,
+      "preparation": "chopped, if desired"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Heat oil on medium high and add cumin seed and sizzle 30 sec. be careful not to burn"
+    },
+    {
+      "step_number": 2,
+      "text": "Add onions and saut\u00e9 8 min or until golden and brown."
+    },
+    {
+      "step_number": 3,
+      "text": "Stir in tomatoes, salt, ginger and jalapeno and stir well."
+    },
+    {
+      "step_number": 4,
+      "text": "Saut\u00e9 mixture for 5- 8 min then stir in chick peas and coconut milk. Bring to a boil, reduce the heat to medium low then cover and simmer for 5 to 8 min (stir once or twice during this time)."
+    },
+    {
+      "step_number": 5,
+      "text": "Add green onions stir and simmer for one or two more minutes then turn off heat."
+    }
+  ]
+}

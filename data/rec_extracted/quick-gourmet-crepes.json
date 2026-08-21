@@ -1,0 +1,86 @@
+{
+  "title": "Quick Gourmet Crepes",
+  "description": "Quick, gourmet crepes recipe with options for different flours and a variety of sweet and savory fillings.",
+  "category": "INSUFFICIENT DATA",
+  "tags": {
+    "meal_type": "breakfast",
+    "cuisine": "French",
+    "main_ingredients": [
+      "flour",
+      "eggs",
+      "milk"
+    ],
+    "additional_tags": [
+      "vegetarian (base recipe)",
+      "quick",
+      "customizable"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "10",
+  "difficulty": "INSUFFICIENT DATA",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "nonfat milk",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "butter",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "melted"
+    },
+    {
+      "name": "nonstick cooking spray",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Place flour in a large mixing bowl."
+    },
+    {
+      "step_number": 2,
+      "text": "Add your milk and egg whites."
+    },
+    {
+      "step_number": 3,
+      "text": "Add the vanilla."
+    },
+    {
+      "step_number": 4,
+      "text": "Mix well."
+    },
+    {
+      "step_number": 5,
+      "text": "Pour the batter onto a hot non-stick pan over medium heat. Gently turn pan in a circular motion to spread out batter into crepe form."
+    },
+    {
+      "step_number": 6,
+      "text": "When cooked, put crepe on a plate. Add any of the following. Roll so sides overlap holding the crepe together and enjoy."
+    }
+  ]
+}

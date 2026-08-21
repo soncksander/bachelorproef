@@ -1,0 +1,143 @@
+"Voedingsstofgroep"|"Component group"|"Nutrient-code"|"Voedingsstof"|"Component"|"Eenheid/Unit"
+Energie en macronutriënten|Energy and macronutrients|ENERCJ| Energie kJ| Energy kJ |kJ
+Energie en macronutriënten|Energy and macronutrients|ENERCC| Energie kcal | Energy kcal |kcal
+Energie en macronutriënten|Energy and macronutrients|WATER| Water totaal| Water total|g
+Energie en macronutriënten|Energy and macronutrients|PROT| Eiwit totaal| Protein total|g
+Energie en macronutriënten|Energy and macronutrients|FAT| Vet totaal| Fat total|g
+Energie en macronutriënten|Energy and macronutrients|CHO| Koolhydraten beschikbaar| Carbohydrate available|g
+Energie en macronutriënten|Energy and macronutrients|FIBT| Voedingsvezel totaal| Fibre dietary total|g
+Energie en macronutriënten|Energy and macronutrients|ALC| Alcohol totaal| Alcohol total|g
+Energie en macronutriënten|Energy and macronutrients|OA| Organische zuren totaal| Organic acids total|g
+Energie en macronutriënten|Energy and macronutrients|ASH| As| Ash|g
+Eiwitten|Protein|PROT| Eiwit totaal| Protein total|g
+Eiwit totaal|protein total|PROTPL| Eiwit plantaardig| Protein plant|g
+Eiwit totaal|protein total|PROTAN| Eiwit dierlijk| Protein animal|g
+Eiwitten|Protein|NT| Stikstof totaal| Nitrogen total|g
+Eiwitten|Protein|TRP| Tryptofaan| Tryptophan|mg
+Koolhydraten|Carbohydrates|CHO| Koolhydraten beschikbaar| Carbohydrate available|g
+Koolhydraten beschikbaar|Carbohydrates available|SUGAR| Mono en disachariden totaal| Sugars total|g
+Suikers|Sugars|NVSUGAF| Vrije suikers| Free sugars|g
+Koolhydraten beschikbaar|Carbohydrates available|STARCH| Polysachariden totaal| Starch total|g
+Koolhydraten beschikbaar|Carbohydrates available|POLYL| Polyolen totaal| Polyols total|g
+Koolhydraten|Carbohydrates|FIBT| Voedingsvezel totaal| Fibre dietary total|g
+Vet en vetzuurclusters|Fat and fatty acid clusters|FAT| Vet totaal| Fat total|g
+Vetzuurclusters|Fatty acid clusters|FACID| Vetzuren totaal| Fatty acids total|g
+Vetzuurclusters|Fatty acid clusters|FASAT| Vetzuren verzadigd totaal| Fatty acids saturated total|g
+Verzadigde vetzuren|Saturated fatty acids|F4:0| C4:0| C4:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F6:0| C6:0| C6:0 |g
+Verzadigde vetzuren|Saturated fatty acids|F8:0| C8:0| C8:0 |g
+Verzadigde vetzuren|Saturated fatty acids|F10:0| C10:0| C10:0 |g
+Verzadigde vetzuren|Saturated fatty acids|F11:0| C11:0| C11:0|g
+Verzadigde vetzuren|Saturated fatty acids|F12:0| C12:0| C12:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F13:0| C13:0| C13:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F14:0| C14:0| C14:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F15:0| C15:0| C15:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F16:0| C16:0| C16:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F17:0| C17:0| C17:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F18:0| C18:0| C18:0 |g
+Verzadigde vetzuren|Saturated fatty acids|F19:0| C19:0| C19:0|g
+Verzadigde vetzuren|Saturated fatty acids|F20:0| C20:0| C20:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F21:0| C21:0| C21:0|g
+Verzadigde vetzuren|Saturated fatty acids|F22:0| C22:0| C22:0  |g
+Verzadigde vetzuren|Saturated fatty acids|F23:0| C23:0| C23:0 |g
+Verzadigde vetzuren|Saturated fatty acids|F24:0| C24:0| C24:0 |g
+Verzadigde vetzuren|Saturated fatty acids|F25:0| C25:0| C25:0|g
+Verzadigde vetzuren|Saturated fatty acids|F26:0| C26:0| C26:0|g
+Verzadigde vetzuren|Saturated fatty acids|FASATXR| Verzuren verzadigd rest| Fatty acids saturated remainder|g
+Vetzuurclusters|Fatty acid clusters|FAMSCIS| Vetzuren enkelvoudig onverzadigd cis totaal| Fatty acids monounsaturated cis total|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F10:1CIS| C10:1 cis  | C10:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F12:1CIS| C12:1 cis  | C12:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F14:1CIS| C14:1 cis  | C14:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F16:1CIS| C16:1 cis  | C16:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F18:1CIS| C18:1 cis  | C18:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F20:1CIS| C20:1 cis  | C20:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F22:1CIS| C22:1 cis  | C22:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|F24:1CIS| C24:1 cis  | C24:1 cis|g
+Enkelvoudig onverzadigde vetzuren|Monounsaturated fatty acids|FAMSCXR| Vetzuren enkelvoudig onverzadigd cis rest| Fatty acids monounsaturated cis remainder|g
+Vetzuurclusters|Fatty acid clusters|FAPU| Vetzuren meervoudig onverzadigd totaal| Fatty acids total polyunsaturated total|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|FAPUN3| Vetzuren meervoudig onverzadigd n-3 cis| Fatty acids n-3 polyunsaturated cis|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F18:3CN3| C18:3 n-3 cis (ALA)| C18:3 n-3 cis (ALA)|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F18:4CN3| C18:4 n-3 cis| C18:4 n-3 cis|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F20:3CN3| C20:3 n-3 cis| C20:3 n-3 cis|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F20:4CN3| C20:4 n-3 cis| C20:4 n-3 cis|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F20:5CN3| C20:5 n-3 cis (EPA)| C20:5 n-3 cis (EPA)|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F21:5CN3| C21:5 n-3 cis (HPA)| C21:5 n-3 all-cis|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F22:2CN3| C22:2 n-3 cis| C22:2 n-3 cis|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F22:3CN3| C22:3 n-3 cis| C22:3 n-3 cis|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F22:5CN3| C22:5 n-3 cis (DPA)| C22:5 n-3 cis (DPA)|g
+Vetzuren n-3 meerv onverz cis|fatty acids polyunsaturated total n-3|F22:6CN3| C22:6 n-3 cis (DHA)| C22:6 n-3 cis (DHA)|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|FAPUN6| Vetzuren meervoudig onverzadigd n-6 cis| Fatty acids n-6 polyunsaturated cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F18:2CN6| C18:2 n-6 cis (linolzuur)| C18:2 n-6 (linoleic acid)|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F18:3CN6| C18:3 n-6 cis| C18:3 n-6 cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F20:2CN6| C20:2 n-6 cis| C20:2 n-6 cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F20:3CN6| C20:3 n-6 cis| C20:3 n-6 cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F20:4CN6| C20:4 n-6 cis| C20:4 n-6 cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F22:2CN6| C22:2 n-6 cis| C22:2 n-6 cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F22:4CN6| C22:4 n-6 cis| C22:4 n-6 cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F22:5CN6| C22:5 n-6 cis| C22:5 n-6 cis|g
+Vetzuren n-6 meerv onverz  cis|fatty acids polyunsaturated total n-6|F24:2CN6| C24:2 n-6 cis| C24:2 n-6 ciscis|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|F18:2CN9| C18:2 n-9 cis| C18:2 n-9 cis|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|F18:2CT| C18:2 cis trans| C18:2 cis trans|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|F18:2TC| C18:2 trans cis| C18:2 trans cis|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|F20:3CN9| C20:3 n-9 cis| C20:3 n-9 cis|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|F18:2R| C18:2 overigen| C18:2 remainder|g
+Meervoudig onverzadigde vetzuren cis|Polyunsaturated fatty acids|FAPUXR| Vetzuren meervoudig onverzadigd rest c+t| Fatty acids polyunsaturated c+t remainder|g
+Vetzuurclusters|Fatty acid clusters|FATRS| Vetzuren trans totaal| Fatty acids trans total|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F10:1TRS| C10:1 trans  | C10:1 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F12:1TRS| C12:1 trans  | C12:1 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F14:1TRS| C14:1 trans  | C14:1 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F16:1TRS| C16:1 trans  | C16:1 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F18:1TRS| C18:1 trans  | C18:1 total trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F18:2TTN6| C18:2 n-6 trans| C18:2 n-6 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F18:3TTTN3| C18:3 n-3 trans| C18:3 n-3 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F20:1TRS| C20:1 trans  | C20:1 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F20:2TT| C20:2 n-6 trans| C20:2 n-6 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F22:1TRS| C22:1 trans  | C22:1 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|F24:1TRS| C24:1 trans  | C24:1 trans|g
+Trans vetzuren (all trans)|Trans fatty acids (all trans)|FAMSTXR| Vetzuren enkelvoudig onverzadigd trans rest| Fatty acids monounsaturated trans remainder|g
+Vetzuurclusters|Fatty acid clusters|FAUN| Niet geidentificeerde vetzuren| Fatty acid unidentified|g
+Vet en vetzuurclusters|Fat and fatty acid clusters|CHORL| Cholesterol| Cholesterol|mg
+Mineralen en spoorelementen|Minerals and trace elements|ASH| As| Ash|g
+As|Ash|NA| Natrium| Sodium|mg
+As|Ash|K| Kalium| Potassium|mg
+As|Ash|CA| Calcium| Calcium|mg
+As|Ash|P| Fosfor| Phosphorus|mg
+As|Ash|MG| Magnesium| Magnesium|mg
+As|Ash|FE| IJzer totaal| Iron total|mg
+IJzer totaal|iron total|HAEM| IJzer haem| Iron haem|mg
+IJzer totaal|iron total|NHAEM| IJzer non haem| Iron non-haem|mg
+As|Ash|CU| Koper| Copper|mg
+As|Ash|SE| Selenium| Selenium total|µg
+As|Ash|ZN| Zink| Zinc|mg
+As|Ash|ID| Jodium| Iodine|µg
+Vitamine A|Vitamin A|VITA_RAE| Retinol activiteit equivalenten (RAE)| Retinol activity equialents (RAE)|µg
+Vitamine A|Vitamin A|VITA_RE| Retinol equivalenten (RE)| Retinol equivalents (RE)|µg
+Vitamine A|Vitamin A|RETOL| Retinol| Retinol  |µg
+Vitamine A|Vitamin A|CARTBTOT| Beta-caroteen| Beta-carotene|µg
+Vitamine A|Vitamin A|CARTA| Alfa-caroteen| Alfa-carotene|µg
+Vitamine A|Vitamin A|LUTN| Luteïne| Lutein|µg
+Vitamine A|Vitamin A|ZEA| Zeaxanthine| Zeaxanthin|µg
+Vitamine A|Vitamin A|CRYPXB| Beta-cryptoxanthine| Beta-cryptoxanthin|µg
+Vitamine A|Vitamin A|LYCPN| Lycopeen| Lycopene|µg
+Vitamines vetoplosbaar|Vitamins fat soluble|VITD| Vitamine D totaal| Vitamin D total|µg
+Vitamine D|Vitamin D|ERGCAL| Ergocalciferol (Vit D2)| Ergocalciferol (Vit D2)|µg
+Vitamine D|Vitamin D|CHOCALOH| 25-hydroxycholecalciferol (25OHVitD3)| 25-hydroxycholecalciferol (25OHVitD3)|µg
+Vitamine D|Vitamin D|CHOCAL| Cholecalciferol (Vit D3)| Cholecalciferol (Vit D3)|µg
+Vitamines vetoplosbaar|Vitamins fat soluble|VITE| Vitamine E totaal| Vitamin E total|mg
+Vitamine E|Vitamin E|TOCPHA| Alfa-tocoferol| Alpha-tocopherol|mg
+Vitamine E|Vitamin E|TOCPHB| Beta-tocoferol| Beta-tocopherol|mg
+Vitamine E|Vitamin E|TOCPHD| Delta-tocoferol| Delta-tocopherol|mg
+Vitamine E|Vitamin E|TOCPHG| Gamma-tocoferol| Gamma-tocopherol|mg
+Vitamines vetoplosbaar|Vitamins fat soluble|VITK| Vitamine K totaal| Vitamin K total|µg
+Vitamine K|Vitamin K|VITK1| Vitamine K1| Vitamin K1|µg
+Vitamine K|Vitamin K|VITK2| Vitamine K2| Vitamin K2|µg
+Vitamines wateroplosbaar|Vitamins water soluble|THIA| Thiamine (Vit B1)| Thiamin (Vit B1)|mg
+Vitamines wateroplosbaar|Vitamins water soluble|RIBF| Riboflavine (Vit B2)| Riboflavin (Vit B2)|mg
+Vitamines wateroplosbaar|Vitamins water soluble|VITB6| Pyridoxine (Vit B6)| Pyridoxin (Vit B6)|mg
+Vitamines wateroplosbaar|Vitamins water soluble|VITB12| Cobalamine (Vit B12)| Cobalamin (Vit B12)|µg
+Vitamines wateroplosbaar|Vitamins water soluble|NIAEQ| Niacine equivalenten| Niacin equivalents|mg
+Niacine equivalenten|Niacin total|NIA| Niacine (Vit B3)| Niacin (Vit B3)|mg
+Vitamines wateroplosbaar|Vitamins water soluble|FOL| Folaat equivalenten| Dietary folate equivalents|µg
+Folaat equivalenten|folate total|FOLFD| Folaat| Folate food|µg
+Folaat equivalenten|folate total|FOLAC| Foliumzuur synthetisch| Folic acid synthetic|µg
+Vitamines wateroplosbaar|Vitamins water soluble|VITC| Ascorbinezuur (Vit C)| Ascorbic acid (Vit C)|mg

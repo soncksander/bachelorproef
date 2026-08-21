@@ -29,11 +29,11 @@ Thumbs.db
 .idea/
 
 # Data en outputs
-data/
-*.csv
-*.parquet
-*.jsonl
-*.db
+# data/
+# *.csv
+# *.parquet
+# *.jsonl
+# *.db
 
 # Gevoelige bestanden
 *.env

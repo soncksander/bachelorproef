@@ -1,0 +1,121 @@
+{
+  "title": "Sweet potato soup with bell pepper and sour cream",
+  "description": "Creamy, slightly sweet, and with a hint of spice: this soup perfectly blends the flavors of roasted pepper and sweet potato. A spoonful of sour cream completes it. Comfort in a bowl, ready in a flash.",
+  "category": "appetizer",
+  "tags": {
+    "meal_type": "lunch",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "sweet potato",
+      "red bell pepper",
+      "sour cream"
+    ],
+    "additional_tags": [
+      "soup",
+      "vegetarian",
+      "easy",
+      "creamy"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "45 min",
+  "difficulty": "easy",
+  "ingredients": [
+    {
+      "name": "onion",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "red bell peppers",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "sweet potatoes",
+      "quantity": "800",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "cooking butter",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "vegetable broth",
+      "quantity": "1000",
+      "unit": "ml",
+      "preparation": null
+    },
+    {
+      "name": "cream",
+      "quantity": "120",
+      "unit": "ml",
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "spring onion",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "fresh coriander",
+      "quantity": "25",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "chili flakes",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Chop the onion. Cut the peppers into cubes. Peel the sweet potatoes and also cut into cubes."
+    },
+    {
+      "step_number": 2,
+      "text": "Saut\u00e9 the onion with the pressed garlic in butter until translucent. Add the pepper and sweet potato cubes and fry for 5 minutes over medium heat. Add the broth and bring to a boil. Lower the heat and let simmer for 30 minutes with the lid on the pan."
+    },
+    {
+      "step_number": 3,
+      "text": "Blend the soup until smooth. Taste and season with pepper and salt if necessary. Stir in the cream and turn off the heat."
+    },
+    {
+      "step_number": 4,
+      "text": "Loosen the sour cream and season with pepper and salt. Cut the spring onion into fine rings. Serve the soup in deep plates or bowls and finish with the sour cream, coriander, spring onion, and chili flakes."
+    }
+  ]
+}

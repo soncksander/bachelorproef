@@ -1,0 +1,132 @@
+{
+  "title": "Sandwiches with chicken salad",
+  "description": "A sandwich with chicken salad, made easily with fresh houthakkersbrood and a bit of lamb's lettuce for a perfect, flavorful, and easy-to-prepare meal.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "snack",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "chicken",
+      "bread",
+      "eggs"
+    ],
+    "additional_tags": [
+      "easy",
+      "chicken",
+      "sandwich"
+    ]
+  },
+  "servings": 4.0,
+  "prep_time": "15 min",
+  "difficulty": "Medium",
+  "ingredients": [
+    {
+      "name": "chicken leg (cooked)",
+      "quantity": "2",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "chives",
+      "quantity": "10",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "pearl onions (pickled)",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "gherkins",
+      "quantity": "8",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "capers",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "lemon (juice)",
+      "quantity": "0.5",
+      "unit": null,
+      "preparation": "juiced"
+    },
+    {
+      "name": "mustard",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "yogurt",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "lamb's lettuce",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null
+    },
+    {
+      "name": "houthakkersbrood (rustic bread)",
+      "quantity": "1",
+      "unit": null,
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Remove the skin from the chicken legs, put them in a bowl and pull the meat apart."
+    },
+    {
+      "step_number": 2,
+      "text": "Peel the red onion and chop finely. Peel the eggs and mash with a fork. Finely chop the gherkins, pearl onions, and chives and mix everything together."
+    },
+    {
+      "step_number": 3,
+      "text": "Mix the yogurt, lemon juice, and mustard into the mayonnaise, and stir into the chicken salad. Season with pepper and salt."
+    },
+    {
+      "step_number": 4,
+      "text": "Rinse the lettuce and spin dry. Cut thick slices of the rustic bread and top with chicken salad and lamb's lettuce or serve separately."
+    }
+  ]
+}

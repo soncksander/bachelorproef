@@ -1,0 +1,127 @@
+{
+  "title": "Couscous Salad with Chicken and Apricots",
+  "description": "A nutritious couscous salad featuring chicken, apricots, fresh herbs, and pistachios, designed for performance nutrition.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Global",
+    "main_ingredients": [
+      "couscous",
+      "chicken",
+      "apricots"
+    ],
+    "additional_tags": [
+      "high protein",
+      "salad",
+      "performance",
+      "sport nutrition"
+    ]
+  },
+  "servings": 6.0,
+  "prep_time": "15",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "instant whole grain couscous",
+      "quantity": "1 \u00bd",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "ground cinnamon",
+      "quantity": "\u00bc",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "ground cumin",
+      "quantity": "\u00bc",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "fresh parsley leaves",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "fresh mint leaves",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "6",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "chicken breasts",
+      "quantity": "4",
+      "unit": null,
+      "preparation": "rub with cayenne pepper, paprika, garlic powder"
+    },
+    {
+      "name": "fresh apricots",
+      "quantity": "3",
+      "unit": null,
+      "preparation": "pitted and cut into bite-size chunks"
+    },
+    {
+      "name": "small shallot",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "thinly sliced in rings"
+    },
+    {
+      "name": "unsalted pistachio nuts",
+      "quantity": "\u00bd",
+      "unit": "cup",
+      "preparation": "shelled"
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "salt and pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Place the couscous in a medium bowl."
+    },
+    {
+      "step_number": 2,
+      "text": "Bring 1 1/2 cups water to a boil and stir in the cinnamon, cumin, 1/2 tsp salt, and 1/4 tsp pepper. Pour the mixture over the couscous."
+    },
+    {
+      "step_number": 3,
+      "text": "Cover and let stand until the couscous is soft, about 5 minutes. Uncover and fluff with a fork."
+    },
+    {
+      "step_number": 4,
+      "text": "Stir in the parsley, mint, and 2 tablespoons of the olive oil. Set aside."
+    },
+    {
+      "step_number": 5,
+      "text": "Mix spices such as salt, pepper, cayenne, paprika, garlic powder, to taste and rub on chicken. Place chicken in oven or on grill and cook, flipping once. Cut into bite-size pieces and place in a medium bowl."
+    },
+    {
+      "step_number": 6,
+      "text": "Add the apricots, shallot, and pistachios."
+    },
+    {
+      "step_number": 7,
+      "text": "Drizzle with the vinegar and the remaining olive oil. Season with salt and pepper to taste. Divide the couscous among 6 dinner plates. Arrange the chicken salad over the couscous. If you want to get fancy garnish with the parsley sprigs and serve."
+    }
+  ]
+}

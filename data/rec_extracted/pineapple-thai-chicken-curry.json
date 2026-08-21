@@ -1,0 +1,120 @@
+{
+  "title": "Pineapple Thai Chicken Curry",
+  "description": "",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Thai",
+    "main_ingredients": [
+      "chicken",
+      "coconut milk",
+      "pineapple"
+    ],
+    "additional_tags": null
+  },
+  "servings": 6.0,
+  "prep_time": "20",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "jasmine rice or rice noodles",
+      "quantity": "2",
+      "unit": "cups uncooked",
+      "preparation": null
+    },
+    {
+      "name": "water",
+      "quantity": "4",
+      "unit": "cups",
+      "preparation": "for rice"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "red curry paste",
+      "quantity": "1/4",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "2 (13.5 oz.) cans",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "skinless, boneless chicken breast halves",
+      "quantity": "2+",
+      "unit": null,
+      "preparation": "cut into thin strips"
+    },
+    {
+      "name": "fish sauce",
+      "quantity": "3",
+      "unit": "tbsp",
+      "preparation": "optional"
+    },
+    {
+      "name": "white sugar",
+      "quantity": "1/4",
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "bamboo shoots",
+      "quantity": "1/2",
+      "unit": "cup",
+      "preparation": "sliced, drained"
+    },
+    {
+      "name": "red bell pepper",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "chopped finely"
+    },
+    {
+      "name": "green bell pepper",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "chopped finely"
+    },
+    {
+      "name": "onion",
+      "quantity": "1",
+      "unit": "medium",
+      "preparation": "chopped"
+    },
+    {
+      "name": "pineapple chunks",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": "drained"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Pot #1: Bring rice and water to a boil in a pot. Reduce heat to low, cover, simmer 25 min."
+    },
+    {
+      "step_number": 2,
+      "text": "Pan: Heat oil, add chicken and saut\u00e9 lightly until cooked through."
+    },
+    {
+      "step_number": 3,
+      "text": "Pot #2: Whisk together curry paste and 1 can coconut milk. Mix in remaining coconut milk, chicken, fish sauce, sugar, and bamboo shoots. Bring to a boil. Simmer 15 min."
+    },
+    {
+      "step_number": 4,
+      "text": "Mix the red bell pepper, green bell pepper, and onion. Cook 10 more min."
+    },
+    {
+      "step_number": 5,
+      "text": "Remove from heat. Stir in pineapple. Serve over the cooked rice."
+    }
+  ]
+}

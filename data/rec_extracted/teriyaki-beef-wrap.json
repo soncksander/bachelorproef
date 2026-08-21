@@ -1,0 +1,121 @@
+{
+  "title": "Teriyaki Beef Wrap",
+  "description": "INSUFFICIENT DATA",
+  "category": "INSUFFICIENT DATA",
+  "tags": {
+    "meal_type": "lunch",
+    "cuisine": "Asian",
+    "main_ingredients": [
+      "lean round steak",
+      "whole-wheat flour tortilla",
+      "cottage cheese"
+    ],
+    "additional_tags": [
+      "high protein",
+      "wrap",
+      "beef",
+      "iron-rich"
+    ]
+  },
+  "servings": 1.0,
+  "prep_time": "10",
+  "difficulty": "INSUFFICIENT DATA",
+  "ingredients": [
+    {
+      "name": "soy sauce or Bragg's",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "fresh ginger",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "quantity": "1",
+      "unit": "clove",
+      "preparation": "chopped"
+    },
+    {
+      "name": "jalape\u00f1o pepper",
+      "quantity": "\u00bd",
+      "unit": null,
+      "preparation": "finely chopped"
+    },
+    {
+      "name": "lean round steak",
+      "quantity": "4",
+      "unit": "oz.",
+      "preparation": "trimmed of excess fat and cut into strips"
+    },
+    {
+      "name": "garlic powder",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "cottage cheese or reduced-fat sour cream",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "whole-wheat flour tortilla",
+      "quantity": "\u00bd",
+      "unit": null,
+      "preparation": null
+    },
+    {
+      "name": "sesame seeds",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "green onion",
+      "quantity": "1",
+      "unit": null,
+      "preparation": "sliced"
+    },
+    {
+      "name": "Salt and pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "Marinade beef: In a large zip lock bag, combine the soy sauce, ginger, garlic, and jalape\u00f1o pepper, then add the steak. Seal the bag and shake well. Place in the refrigerator for 4-8 hours turning several times."
+    },
+    {
+      "step_number": 2,
+      "text": "Bowl: combine the garlic powder and cottage cheese. Stir well and set aside."
+    },
+    {
+      "step_number": 3,
+      "text": "Remove the meat from the bag, brush off the seasonings. Discard marinade."
+    },
+    {
+      "step_number": 4,
+      "text": "Skillet or pan: On medium-high heat, cook the meat until just pink inside. Transfer to a plate and set aside."
+    },
+    {
+      "step_number": 5,
+      "text": "In same skillet, heat the sesame seeds, stirring quickly, for 10 to 20 seconds. Remove from the skillet and set aside."
+    },
+    {
+      "step_number": 6,
+      "text": "Lay the tortilla on plate. Spread the cottage cheese mixture onto the middle, top with the steak strips and scallions, season with salt and pepper to taste, and sprinkle with the toasted sesame seeds."
+    },
+    {
+      "step_number": 7,
+      "text": "Roll up the wrap, folding the ends toward the center and enjoy."
+    }
+  ]
+}

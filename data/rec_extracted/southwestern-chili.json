@@ -1,0 +1,112 @@
+{
+  "title": "Quick Southwestern Turkey Chili",
+  "description": "A quick, nutritious Southwestern-style turkey chili packed with protein and fiber, ideal for athletes or anyone seeking a healthy meal.",
+  "category": "main course",
+  "tags": {
+    "meal_type": "dinner",
+    "cuisine": "Southwestern",
+    "main_ingredients": [
+      "ground turkey",
+      "kidney beans",
+      "diced tomatoes"
+    ],
+    "additional_tags": [
+      "high protein",
+      "high fiber",
+      "healthy",
+      "athlete-friendly",
+      "gluten-free"
+    ]
+  },
+  "servings": 8.0,
+  "prep_time": "20 min",
+  "difficulty": "",
+  "ingredients": [
+    {
+      "name": "green pepper",
+      "quantity": "1",
+      "unit": "cup",
+      "preparation": "chopped"
+    },
+    {
+      "name": "onion",
+      "quantity": "1 \u00bd",
+      "unit": "cups",
+      "preparation": "chopped"
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "unit": null,
+      "preparation": "chopped"
+    },
+    {
+      "name": "garlic",
+      "quantity": "2",
+      "unit": "cloves",
+      "preparation": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "kidney beans",
+      "quantity": "2 (28 oz)",
+      "unit": "cans",
+      "preparation": "rinsed and drained"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 (28 oz)",
+      "unit": "can",
+      "preparation": null
+    },
+    {
+      "name": "extra lean ground turkey (or lean ground beef)",
+      "quantity": "3",
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "chili powder",
+      "quantity": "1",
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "fresh cilantro",
+      "quantity": "2",
+      "unit": "tbsp",
+      "preparation": "minced"
+    },
+    {
+      "name": "crushed red pepper",
+      "quantity": "1",
+      "unit": "tsp",
+      "preparation": null
+    },
+    {
+      "name": "salt",
+      "quantity": "\u00bd",
+      "unit": "tsp",
+      "preparation": null
+    }
+  ],
+  "instructions": [
+    {
+      "step_number": 1,
+      "text": "In a large saucepan or soup pot, heat oil over medium heat. Saut\u00e9 pepper, onion and garlic for about 5 minutes. Add meat and heat until cooked through."
+    },
+    {
+      "step_number": 2,
+      "text": "Add beans, tomatoes, turkey, chili powder, cilantro, crushed red pepper and salt."
+    },
+    {
+      "step_number": 3,
+      "text": "Bring to a boil, reduce heat and simmer uncovered for 20 minutes."
+    }
+  ]
+}

@@ -16,7 +16,7 @@ load_dotenv(dotenv_path="../.env", override=True)
 
 # Controleer of de API-sleutel aanwezig is
 if not os.getenv("OPENAI_API_KEY"):
-    raise ValueError("❌ OPENAI_API_KEY niet gevonden! Controleer je .env bestand.")
+    raise ValueError(" OPENAI_API_KEY niet gevonden! Controleer je .env bestand.")
 
 # Configuratie van modellen (OpenAI)
 embed_model = OpenAIEmbedding(model="text-embedding-3-small")
@@ -44,7 +44,7 @@ for filename in os.listdir(input_directory):
             try:
                 data = json.load(file)
             except json.JSONDecodeError:
-                print(f"⚠️ Fout bij inladen van {filename}, bestand overgeslagen.")
+                print(f" Fout bij inladen van {filename}, bestand overgeslagen.")
                 continue
 
         # 1. Haal titel en tags op
@@ -124,4 +124,4 @@ index.storage_context.persist(persist_dir=persist_dir)
 
 print(f"Bestanden zonder tags: {no_tags}")
 print(f"Namen van bestanden zonder tags: {names_no_tags}")
-print(f"✅ Vectorstore succesvol opgebouwd en opgeslagen in {persist_dir}")
+print(f" Vectorstore succesvol opgebouwd en opgeslagen in {persist_dir}")

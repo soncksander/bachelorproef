@@ -13,9 +13,9 @@ from llama_index.llms.openai import OpenAI as LlamaOpenAI
 # ==========================================
 
 # Laad de omgevingsvariabelen in vanuit het .env bestand
-load_dotenv(dotenv_path="./../.env", override=True)
+load_dotenv(dotenv_path="./.env", override=True)
 if not os.getenv("OPENAI_API_KEY"):
-    raise ValueError("❌ OPENAI_API_KEY niet gevonden!")
+    raise ValueError(" OPENAI_API_KEY niet gevonden!")
 
 # Initialiseer het LLM
 llm = LlamaOpenAI(model="gpt-4o-mini", temperature=0)
@@ -63,7 +63,7 @@ path_rag = "../output_agents/rag_logs.csv"
 # Controleer of bestanden bestaan
 if not os.path.exists(path_baseline) or not os.path.exists(path_rag):
     raise FileNotFoundError(
-        "❌ CSV bestanden niet gevonden! Run eerst je baseline- en RAG-script."
+        " CSV bestanden niet gevonden! Run eerst je baseline- en RAG-script."
     )
 
 # Laad de dataframes in
@@ -140,14 +140,14 @@ for idx in range(len(df_base)):
             )
 
         except Exception as e:
-            print(f"  ❌ Fout bij extractie Test {idx+1}: {e}")
+            print(f"   Fout bij extractie Test {idx+1}: {e}")
 
 # ==========================================
 # 4. AFWIJKINGEN BEREKENEN EN GRAFIEKEN MAKEN
 # ==========================================
 
 if len(all_evaluation_data) > 0:
-    print("\n📊 Genereren van tabellen en grafieken...")
+    print("\n Genereren van tabellen en grafieken...")
     df_plot = pd.DataFrame(all_evaluation_data)
 
     def calculate_deviation(value, minimum, maximum):
@@ -197,7 +197,7 @@ if len(all_evaluation_data) > 0:
     df_plot.to_csv(csv_path, index=False)
 
     # ---------------------------------------------------------
-    # 📈 GRAFIEK 1: DAGELIJKSE MACRO'S (Eiwit & Koolhydraten)
+    #  GRAFIEK 1: DAGELIJKSE MACRO'S (Eiwit & Koolhydraten)
     # ---------------------------------------------------------
     mask_daily = df_plot["Macronutrient"].isin(["Totaal Eiwit (Dag)", "Totaal Carbs (Dag)"])
     df_daily = df_plot[mask_daily].copy()
@@ -242,7 +242,7 @@ if len(all_evaluation_data) > 0:
     plt.close("all")
 
     # ---------------------------------------------------------
-    # 📈 GRAFIEK 2: INTRA-WORKOUT KOOLHYDRATEN
+    #  GRAFIEK 2: INTRA-WORKOUT KOOLHYDRATEN
     # ---------------------------------------------------------
     mask_intra = df_plot["Macronutrient"] == "Intra-workout Carbs/Uur"
     df_intra = df_plot[mask_intra].copy()
@@ -276,7 +276,7 @@ if len(all_evaluation_data) > 0:
     plt.savefig(path_chart_2, dpi=300)
     plt.close("all")
 
-    print(f"\n✅ Resultaten succesvol opgeslagen!")
+    print(f"\n Resultaten succesvol opgeslagen!")
     print(f"   -> {path_chart_1}")
     print(f"   -> {path_chart_2}")
 

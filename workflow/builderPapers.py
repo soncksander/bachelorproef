@@ -15,7 +15,7 @@ from llama_index.llms.openai import OpenAI as LlamaOpenAI
 load_dotenv(dotenv_path="./../.env", override=True)
 
 if not os.getenv("OPENAI_API_KEY"):
-    raise ValueError("❌ OPENAI_API_KEY niet gevonden! Controleer je .env bestand.")
+    raise ValueError(" OPENAI_API_KEY niet gevonden! Controleer je .env bestand.")
 
 # 2. Configuratie van modellen (OpenAI)
 embed_model = OpenAIEmbedding(model="text-embedding-3-small")
@@ -60,7 +60,7 @@ pipeline = IngestionPipeline(
 # Run de documenten door de pijplijn om de veilige nodes te genereren
 document_nodes = pipeline.run(documents=loaded_documents)
 
-print(f"✅ {len(document_nodes)} veilige, gestructureerde nodes aangemaakt!")
+print(f" {len(document_nodes)} veilige, gestructureerde nodes aangemaakt!")
 
 # ==========================================
 # FASE 3: VECTORSTORE BOUWEN & OPSLAAN
@@ -73,4 +73,4 @@ vector_index = VectorStoreIndex(document_nodes)
 os.makedirs(persist_directory, exist_ok=True)
 vector_index.storage_context.persist(persist_dir=persist_directory)
 
-print("✅ Vectorstore succesvol opgeslagen!")
+print(" Vectorstore succesvol opgeslagen!")

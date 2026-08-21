@@ -27,7 +27,7 @@ from llama_index.llms.openai import OpenAI as LlamaOpenAI
 
 # Controleer of de API-sleutel aanwezig is
 if not os.getenv("OPENAI_API_KEY"):
-    raise ValueError("❌ OPENAI_API_KEY niet gevonden! Controleer je .env bestand.")
+    raise ValueError(" OPENAI_API_KEY niet gevonden! Controleer je .env bestand.")
 
 # Laad de omgevingsvariabelen in vanuit het .env bestand
 load_dotenv(dotenv_path="./../.env", override=True)
@@ -328,7 +328,7 @@ for index, (question, ground_truth) in enumerate(
     # Reset het geheugen voor elke nieuwe vraag
     agent.memory.reset()
 
-    print(f"\n🚀 Starting Test {index + 1}: {question[:50]}...")
+    print(f"\n Starting Test {index + 1}: {question[:50]}...")
 
     # De agent verwerkt de routering en het gebruik van tools autonoom
     response = agent.chat(question)
@@ -496,7 +496,7 @@ log_filename_no_context = f"../output_agents/agent_zonder_fysio_evaluatie_rappor
 
 def write_report(filename, df, tools_column, title):
     with open(filename, "w", encoding="utf-8") as f:
-        f.write(f"# 📊 {title}\n")
+        f.write(f"#  {title}\n")
         f.write(
             f"**Datum en Tijd:** {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
         )
@@ -504,19 +504,19 @@ def write_report(filename, df, tools_column, title):
 
         for idx, row in df.iterrows():
             f.write(f"## Test {row['Test_ID']}\n\n")
-            f.write("### ❓ VRAAG VAN GEBRUIKER\n")
+            f.write("###  VRAAG VAN GEBRUIKER\n")
             f.write(f"{row['Question_Prompt']}\n\n")
 
-            f.write("### 🛠️ GEDACHTEN & GEBRUIKTE TOOLS\n")
+            f.write("###  GEDACHTEN & GEBRUIKTE TOOLS\n")
             f.write(f"{row[tools_column]}\n\n")
 
-            f.write("### 🤖 EINDANTWOORD AGENT\n")
+            f.write("###  EINDANTWOORD AGENT\n")
             f.write(f"{row['Agent_Final_Answer']}\n\n")
 
-            f.write("### 🎯 REFERENTIE ANTWOORD (GROUND TRUTH)\n")
+            f.write("###  REFERENTIE ANTWOORD (GROUND TRUTH)\n")
             f.write(f"{row['Reference_Answer']}\n\n")
 
-            f.write("### 📈 DEEPEVAL SCORES\n")
+            f.write("###  DEEPEVAL SCORES\n")
             for m_name in [
                 "answer_correctness",
                 "custom_faithfulness",
@@ -572,4 +572,4 @@ write_report(
 
 csv_rag_path = "../output_agents/rag_zonder_fysio_logs.csv"
 df_logs.to_csv(csv_rag_path, index=False)
-print(f"\n✅ RAG logs succesvol opgeslagen voor latere analyse in: {csv_rag_path}")
+print(f"\n RAG logs succesvol opgeslagen voor latere analyse in: {csv_rag_path}")
